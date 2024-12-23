@@ -10,6 +10,15 @@ products at every stage of the product lifecycle. Since 2003, we have produced
 high-quality products for over [1,000 clients][3]. We are proud to leave every
 project with a stronger team and improved processes.
 
+### Writing
+
+<!-- blog starts -->
+[Why UX is more important than UI](https://thoughtbot.com/blog/why-ux-is-more-important-than-ui)
+
+[The digital nomad thoughtbottle](https://thoughtbot.com/blog/the-digital-nomad-thoughtbottle)
+
+<!-- blog ends -->
+
 [1]: https://thoughtbot.com
 [2]: https://thoughtbot.com/services
 [3]: https://thoughtbot.com/case-studies

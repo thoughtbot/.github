@@ -1,0 +1,31 @@
+---
+name: Update README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 11 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
+    - name: Install dependencies
+      run: bundle install
+    - name: Update README
+      run: |-
+        bin/update_readme
+        cat profile/README.md
+    - name: Commit and push if changed
+      run: |-
+        git diff
+        git config --global user.email "actions@users.noreply.github.com"
+        git config --global user.name "README Bot"
+        git add -A
+        git commit -m "Updated content" || exit 0
+        git push

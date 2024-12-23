@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Giant Robots Smashing Into Other Giant Robots</title>
+  <subtitle>Written by thoughtbot, your expert strategy, design, product management, and development partner.
+</subtitle>
+  <id>https://robots.thoughtbot.com/</id>
+  <link href="https://thoughtbot.com/blog"/>
+  <link href="https://thoughtbot.com/blog/feed.xml" rel="self"/>
+  <updated>2024-12-20T00:00:00+00:00</updated>
+  <author>
+    <name>thoughtbot</name>
+  </author>
+<entry>
+  <title>Optimize your shell experience</title>
+  <link rel="alternate" href="https://thoughtbot.com/blog/optimize-your-shell-experience"/>
+  <author>
+    <name>Matheus Richard</name>
+  </author>
+  <id>https://thoughtbot.com/blog/optimize-your-shell-experience</id>
+  <published>2024-12-20T00:00:00+00:00</published>
+  <updated>2024-12-19T22:40:12Z</updated>
+  <content type="html">&lt;p&gt;As developers we spend a fair amount of time in the shell. I believe we should
+&lt;a href="https://thoughtbot.com/blog/what-my-father-taught-me-about-software-development#master-your-tools"&gt;master our tools&lt;/a&gt; as that&amp;rsquo;ll make work easier.&lt;/p&gt;
+
+&lt;p&gt;Instead of just telling you exactly what to do, I&amp;rsquo;ll show you my process so you
+can optimize your shell &lt;em&gt;for yourself, your work and your own enjoyment&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 id="the-workflow"&gt;
+  &lt;a href="#the-workflow"&gt;
+    The workflow
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;I recommend checking what are your most used commands in the shell and start
+optimizing from there. If you&amp;rsquo;re using &lt;a href="https://ohmyz.sh/"&gt;Oh my Zsh&lt;/a&gt; you can
+run the &lt;code&gt;zsh_stats&lt;/code&gt; utility, otherwise try running this:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;&lt;span class="nb"&gt;history &lt;/span&gt;1 | &lt;span class="nb"&gt;awk&lt;/span&gt; &lt;span class="s1"&gt;'{CMD[$2]++;count++;}END { for (a in CMD)print CMD[a] " " CMD[a]/count*100 "% " a;}'&lt;/span&gt; | &lt;span class="nb"&gt;grep&lt;/span&gt; &lt;span class="nt"&gt;-v&lt;/span&gt; &lt;span class="s2"&gt;"./"&lt;/span&gt; | column &lt;span class="nt"&gt;-c3&lt;/span&gt; &lt;span class="nt"&gt;-s&lt;/span&gt; &lt;span class="s2"&gt;" "&lt;/span&gt; &lt;span class="nt"&gt;-t&lt;/span&gt; | &lt;span class="nb"&gt;sort&lt;/span&gt; &lt;span class="nt"&gt;-nr&lt;/span&gt; | &lt;span class="nb"&gt;nl&lt;/span&gt; |  &lt;span class="nb"&gt;head&lt;/span&gt; &lt;span class="nt"&gt;-n10&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This script will check your &lt;code&gt;history&lt;/code&gt; and display your most used commands.
+Here&amp;rsquo;s an example output:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;➜ ~ zsh_stats
+37.7667%     git
+11.3858%     vim
+10.9372%     ag
+5.10469%     &lt;span class="nb"&gt;cd
+&lt;/span&gt;2.72183%     rspec
+2.71186%     rake
+2.56231%     &lt;span class="nb"&gt;ls
+&lt;/span&gt;1.78465%     &lt;span class="nb"&gt;rm
+&lt;/span&gt;1.47557%     &lt;span class="nb"&gt;mv
+&lt;/span&gt;1.13659%     find
+1.10668%     &lt;span class="nb"&gt;mkdir
+&lt;/span&gt;0.967099%    bundle
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Let&amp;rsquo;s see how we could optimize our workflow based on that data.&lt;/p&gt;
+&lt;h2 id="aliases"&gt;
+  &lt;a href="#aliases"&gt;
+    Aliases
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;Looks like &lt;code&gt;git&lt;/code&gt; is the most used command, so optimizing it would be a big win
+in productivity. That could mean using a helper like &lt;a href="https://github.com/thoughtbot/gitsh"&gt;&lt;code&gt;gitsh&lt;/code&gt;&lt;/a&gt; &amp;ndash; an interactive
+shell for git &amp;ndash;, or just creating aliases for the most used git utilities like
+&lt;code&gt;commit&lt;/code&gt;, &lt;code&gt;push&lt;/code&gt;, &lt;code&gt;pull&lt;/code&gt;, etc.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;&lt;span class="nb"&gt;alias &lt;/span&gt;&lt;span class="nv"&gt;gc&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"git commit --verbose"&lt;/span&gt;
+&lt;span class="nb"&gt;alias &lt;/span&gt;&lt;span class="nv"&gt;gp&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"git push"&lt;/span&gt;
+&lt;span class="nb"&gt;alias &lt;/span&gt;&lt;span class="nv"&gt;gprom&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"git pull --rebase origin main"&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;That was my setup for a long time, but once I started using Oh my Zsh I just
+went with &lt;a href="https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/README.md"&gt;their git plugin&lt;/a&gt;, which provides a lot of aliases and helpers for
+git.&lt;/p&gt;
+&lt;h2 id="less-typing-fewer-typos"&gt;
+  &lt;a href="#less-typing-fewer-typos"&gt;
+    Less typing, fewer typos
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;Another advantage of using aliases is that you can type less. This will not only
+save you a few keystrokes, but also reduce the chance of typos. For example,
+typing &lt;code&gt;bundle&lt;/code&gt; or &lt;code&gt;bundle exec&lt;/code&gt; is very tedious and there&amp;rsquo;s a high chance that
+I&amp;rsquo;ll mistype it. So I created aliases for those:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;&lt;span class="nb"&gt;alias &lt;/span&gt;&lt;span class="nv"&gt;b&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"bundle"&lt;/span&gt;
+&lt;span class="nb"&gt;alias &lt;/span&gt;&lt;span class="nv"&gt;be&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"bundle exec"&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;You can customize this for your preferred tools, like &lt;code&gt;yarn&lt;/code&gt; or &lt;code&gt;docker&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you use Z shell, it has a feature that can auto correct your typos, if
+you want to. &lt;a href="https://blog.confirm.ch/zsh-tips-auto-completion-correction/"&gt;Here&amp;rsquo;s how to enable it&lt;/a&gt; and here&amp;rsquo;s how it works:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;&lt;span class="nv"&gt;$ &lt;/span&gt;cta README.md
+zsh: correct &lt;span class="s1"&gt;'cta'&lt;/span&gt; to &lt;span class="s1"&gt;'cat'&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt;nyae]? y
+&lt;span class="c"&gt;# File content&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="accept-your-mistakes"&gt;
+  &lt;a href="#accept-your-mistakes"&gt;
+    Accept your mistakes
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;Even with aliases, the muscle memory sometimes is strong and you might still
+keep using commands like &lt;code&gt;git&lt;/code&gt; and mistype them. One trick that I like to do is
+to create aliases for my common typos. For example, I often type &lt;code&gt;gti&lt;/code&gt; instead
+of &lt;code&gt;git&lt;/code&gt;. After a lot of frustration, I gave up and accepted it. Instead of
+forcing myself to obey the computer, I made the computer understand me:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;&lt;span class="nb"&gt;alias &lt;/span&gt;&lt;span class="nv"&gt;gti&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"git"&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;It&amp;rsquo;s a simple thing, but it was such a relief for me! Remember, optimize
+for &lt;em&gt;your&lt;/em&gt; happiness! You can go further and use &lt;a href="https://github.com/thoughtbot/dotfiles/blob/main/zsh/functions/g"&gt;a helper like &lt;code&gt;g&lt;/code&gt;&lt;/a&gt; which is
+basically impossible to type wrong now.&lt;/p&gt;
+
+&lt;aside class="info"&gt;
+  &lt;p&gt;The opposite idea is something like
+    &lt;a href="https://github.com/mtoyoda/sl"&gt;sl&lt;/a&gt;,
+    where every time you typo &lt;code&gt;ls&lt;/code&gt; a train will hit you.
+  &lt;/p&gt;
+&lt;/aside&gt;
+&lt;h2 id="custom-made-helpers"&gt;
+  &lt;a href="#custom-made-helpers"&gt;
+    Custom-made helpers
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;The next step would be taking this further and creating custom-made helpers for
+your own usage. For instance, I work on several Ruby projects. Some use Rubocop
+as a linter, others use Standard. Besides that I also have a Rust pet project
+that I play with from time to time. Instead of having to remember which linter
+each project uses, I created a helper that figures that out for me:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;&lt;span class="k"&gt;function &lt;/span&gt;lint&lt;span class="o"&gt;()&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+  &lt;span class="k"&gt;if &lt;/span&gt;&lt;span class="nb"&gt;cat &lt;/span&gt;Gemfile | &lt;span class="nb"&gt;grep&lt;/span&gt; &lt;span class="s2"&gt;"standard"&lt;/span&gt; &lt;span class="o"&gt;&amp;gt;&lt;/span&gt;/dev/null 2&amp;gt;/dev/null&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="k"&gt;then
+    &lt;/span&gt;be standardrb &lt;span class="nv"&gt;$*&lt;/span&gt;
+  &lt;span class="k"&gt;elif &lt;/span&gt;&lt;span class="nb"&gt;cat &lt;/span&gt;Gemfile | &lt;span class="nb"&gt;grep&lt;/span&gt; &lt;span class="s2"&gt;"rubocop"&lt;/span&gt; &lt;span class="o"&gt;&amp;gt;&lt;/span&gt;/dev/null 2&amp;gt;/dev/null&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="k"&gt;then
+    &lt;/span&gt;be rubocop &lt;span class="nv"&gt;$*&lt;/span&gt;
+  &lt;span class="k"&gt;elif&lt;/span&gt; &lt;span class="o"&gt;[[&lt;/span&gt; &lt;span class="nt"&gt;-a&lt;/span&gt; &lt;span class="s2"&gt;"Cargo.toml"&lt;/span&gt; &lt;span class="o"&gt;]]&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="k"&gt;then
+    &lt;/span&gt;rustfmt &lt;span class="k"&gt;**&lt;/span&gt;/&lt;span class="k"&gt;*&lt;/span&gt;.rs
+  &lt;span class="k"&gt;else
+    &lt;/span&gt;&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="s2"&gt;"Linter not found"&lt;/span&gt;
+    &lt;span class="k"&gt;return &lt;/span&gt;1
+  &lt;span class="k"&gt;fi&lt;/span&gt;
+&lt;span class="o"&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;I could go further and create an abstraction for the arguments so &lt;code&gt;--fix&lt;/code&gt; would
+map to the appropriate flag for each linter. Another Ruby-related helper I have
+is &lt;code&gt;puts&lt;/code&gt;. Instead of opening &lt;code&gt;irb&lt;/code&gt; to try something in Ruby, I just do it right
+in the shell:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;&lt;span class="k"&gt;function &lt;/span&gt;puts&lt;span class="o"&gt;()&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+  ruby &lt;span class="nt"&gt;-rdate&lt;/span&gt; &lt;span class="nt"&gt;-e&lt;/span&gt; &lt;span class="s2"&gt;"puts &lt;/span&gt;&lt;span class="nv"&gt;$*&lt;/span&gt;&lt;span class="s2"&gt;"&lt;/span&gt;
+&lt;span class="o"&gt;}&lt;/span&gt;
+
+&lt;span class="c"&gt;# Usage&lt;/span&gt;
+puts Date.today - 10 &lt;span class="c"&gt;# ten days ago&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;aside class="info"&gt;
+  &lt;p&gt;I went as far as creating
+    &lt;a href="https://github.com/MatheusRich/matheus"&gt;a small gem&lt;/a&gt;
+    with a list of helpers that I can easily install in any computer I&amp;rsquo;m working on.
+  &lt;/p&gt;
+&lt;/aside&gt;
+
+&lt;p&gt;These helpers can be as simple or as complex as you want. On the simpler side,
+you could define one to create a directory and &lt;code&gt;cd&lt;/code&gt; into it:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;&lt;span class="k"&gt;function &lt;/span&gt;mcd&lt;span class="o"&gt;()&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+  &lt;span class="nb"&gt;mkdir&lt;/span&gt; &lt;span class="nt"&gt;-p&lt;/span&gt; &lt;span class="nv"&gt;$1&lt;/span&gt; &lt;span class="o"&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class="nb"&gt;cd&lt;/span&gt; &lt;span class="nv"&gt;$1&lt;/span&gt;
+&lt;span class="o"&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="better-ux"&gt;
+  &lt;a href="#better-ux"&gt;
+    Better UX
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;The default shell experience can be very dry. Here are some things that you
+might do to get a better experience.&lt;/p&gt;
+&lt;h3 id="better-directory-navigation"&gt;
+  &lt;a href="#better-directory-navigation"&gt;
+    Better directory navigation
+  &lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;On our initial example, &lt;code&gt;cd&lt;/code&gt; used to be one of the most used commands. There&amp;rsquo;s a
+few ways to improve that. You can simply set&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;setopt autocd
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Which will allow you to navigate directories without having to type &lt;code&gt;cd&lt;/code&gt;. You
+just type the directory name and hit enter.&lt;/p&gt;
+
+&lt;p&gt;But I like to go further and use the &lt;a href="https://github.com/agkozak/zsh-z"&gt;z plugin&lt;/a&gt; in Z shell (also available
+widely via &lt;a href="https://github.com/ajeetdsouza/zoxide"&gt;zoxide&lt;/a&gt;). These tools act like a smart &lt;code&gt;cd&lt;/code&gt;. They rank the most
+used paths and you can quickly jump to them by typing a few characters.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;&lt;span class="nv"&gt;$ &lt;/span&gt;&lt;span class="nb"&gt;pwd&lt;/span&gt;
+/Users/matheus
+
+&lt;span class="nv"&gt;$ &lt;/span&gt;z thought
+&lt;span class="nv"&gt;$ &lt;/span&gt;&lt;span class="nb"&gt;pwd&lt;/span&gt;
+/Users/matheus/Documents/dev/thoughtbot
+
+&lt;span class="nv"&gt;$ &lt;/span&gt;z down
+&lt;span class="nv"&gt;$ &lt;/span&gt;&lt;span class="nb"&gt;pwd&lt;/span&gt;
+/Users/matheus/Downloads
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="syntax-highlighting"&gt;
+  &lt;a href="#syntax-highlighting"&gt;
+    Syntax highlighting
+  &lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;I love syntax highlighting on my
+code, and I like it in my shell as well. The Fish shell has this feature by
+default, and I add it to my Z shell with the &lt;a href="https://github.com/zsh-users/zsh-syntax-highlighting"&gt;zsh-syntax-highlighting&lt;/a&gt; plugin.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s what it looks like:&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src="https://images.thoughtbot.com/u0rdgubq85adoln05t4yuokz68d9_image.png" alt="Several shell prompts with different commands, some of them are highlighted in red to indicate they are invalid" /&gt;
+  &lt;figcaption&gt;Invalid commands or syntax errors get highlighted in red&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;It also highlights paths in your system, which is very useful when you&amp;rsquo;re
+dealing with files:&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src="https://images.thoughtbot.com/gcjnzjmbzcdklnie3p6bl7to6skx_image.png" alt="Two shell prompts usinc cd, but only the one with a valid path is hightlighted with an underscore" width=300 /&gt;
+  &lt;figcaption&gt;Note that invalid paths do not have the underscore&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;On the same note, I use &lt;a href="https://github.com/sharkdp/bat"&gt;bat&lt;/a&gt; as a replacement for &lt;code&gt;cat&lt;/code&gt;, which provides syntax
+highlighting to the output.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight shell"&gt;&lt;code&gt;&lt;span class="nb"&gt;alias cat&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s1"&gt;'bat --paging=never'&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;And I use &lt;a href="https://github.com/dandavison/delta"&gt;delta&lt;/a&gt; to add syntax highlighting to git diffs.&lt;/p&gt;
+
+&lt;aside class="info"&gt;
+  &lt;p&gt;You can find other modern alternative for Unix commands in
+    &lt;a href="https://github.com/ibraheemdev/modern-unix"&gt;this repository&lt;/a&gt;.
+  &lt;/p&gt;
+&lt;/aside&gt;
+&lt;h3 id="auto-completion"&gt;
+  &lt;a href="#auto-completion"&gt;
+    Auto completion
+  &lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;Also in the theme of typing less, instead of searching for a previous command
+with &lt;kdb&gt;cmd&lt;/kdb&gt;+&lt;kdb&gt;r&lt;/kdb&gt; or using the arrow keys, I use
+&lt;a href="https://github.com/zsh-users/zsh-autosuggestions"&gt;zsh-autosuggestions&lt;/a&gt;. It suggests commands based on your history as you type.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src="https://images.thoughtbot.com/qlc5buxcvl1sbzxy1ujrp14cyjw0_image.png" alt="A shell prompt with the 'rake' command typed. After it, there is a suggestion 'test' in light gray" /&gt;
+  &lt;figcaption&gt;Just press → and it will autocomplete your command&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I can hit &lt;kdb&gt;↑&lt;/kdb&gt; to cycle through suggestions with the same prefix.&lt;/p&gt;
+&lt;h2 id="closing-thoughts"&gt;
+  &lt;a href="#closing-thoughts"&gt;
+    Closing thoughts
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;I hope this inspires you to optimize your shell experience. You don&amp;rsquo;t have to
+implement everything at once, or everything at all. Pick what makes sense for
+you and your workflow.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;rsquo;t be afraid of using super custom aliases and tools. Most of the time you&amp;rsquo;re
+the only one using your shell, so it makes sense to optimize for your own needs.
+Customize your aliases and tools just like you customize your color scheme.&lt;/p&gt;
+
+&lt;p&gt;Some of these optimizations will take time to get used to, but it&amp;rsquo;s worth it in
+the long run. New things can be hard to adopt, so don&amp;rsquo;t give up too soon!&lt;/p&gt;
+</content>
+  <summary>Make your shell workflow as smooth as possible by creating helpers designed just for you.</summary>
+  <auto_social_share>true</auto_social_share>
+</entry>
+<entry>
+  <title>What I learned about design by helping my grandfather send an email</title>
+  <link rel="alternate" href="https://thoughtbot.com/blog/what-i-learned-about-design-by-helping-my-grandfather-send-an-email"/>
+  <author>
+    <name>Andrew Spencer</name>
+  </author>
+  <id>https://thoughtbot.com/blog/what-i-learned-about-design-by-helping-my-grandfather-send-an-email</id>
+  <published>2024-12-19T00:00:00+00:00</published>
+  <updated>2024-12-19T17:15:00Z</updated>
+  <content type="html">&lt;p&gt;It started as a simple request, “Can you help me send an email to a friend.” Something most of us reading this have done countless times, but it was a new experience for my 89-year-old grandfather. He has always been pretty resistant to new technology. As a survey engineer, he drew site plans by hand long after most of his peers worked digitally. Today, he is retired and prefers newspapers and television over the internet and cell phones.&lt;/p&gt;
+
+&lt;p&gt;He’s not the only person in this position. According to a 2018 National Center for Education Statistics study, &lt;a href="https://nces.ed.gov/pubs2018/2018161.pdf"&gt;16% of US adults are not digitally literate&lt;/a&gt;. International numbers are even higher at 23%. In the US, &lt;a href="https://www.pewresearch.org/short-reads/2022/01/13/share-of-those-65-and-older-who-are-tech-users-has-grown-in-the-past-decade/"&gt;only 61% of adults over 65 own a cell phone&lt;/a&gt;. It’s easy for those of us in tech to ignore these numbers and assume that everyone using our products is familiar with technology.&lt;/p&gt;
+
+&lt;p&gt;As someone who uses digital technology every day for work, I have a strong natural bias toward designing and building products that cater to the technologically literate. This is a hard habit to break. Helping my grandfather send an email challenged some core assumptions I’ve made in my approach to design.&lt;/p&gt;
+&lt;h2 id="an-easy-solution"&gt;
+  &lt;a href="#an-easy-solution"&gt;
+    An easy solution?
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;Typically, the answer to the problem of not understanding our users would be user testing so that we can build empathy and test our assumptions. In an ideal world, we’d test our products with a diverse audience that includes folks who are not digitally savvy. Still, this can be difficult in practice since that audience isn’t typically signing up for user testing platforms and digital research studies.&lt;/p&gt;
+
+&lt;p&gt;When the ideal is not possible, we should do the second-best thing and educate ourselves so we can begin to build empathy. Even if we cannot test every user flow with a non-tech-friendly audience, we can still learn a lot about general patterns we should follow and apply to our work.&lt;/p&gt;
+
+&lt;p&gt;Here’s what I learned about designing software for non-tech literate folks by observing my grandfather sending an email.&lt;/p&gt;
+&lt;h2 id="affordances-are-important"&gt;
+  &lt;a href="#affordances-are-important"&gt;
+    Affordances are important
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;Design &lt;a href="https://www.interaction-design.org/literature/topics/affordances?srsltid=AfmBOor_Dxj3pjmG-uJP8kqhLjog2_TzmA6cQgTH_ZtACrXKxIndGpze"&gt;affordances&lt;/a&gt; or the clues that indicate the purpose of an element are very important. Many applications reduce UI elements to their most basic form to save space and reduce clutter, for example, by removing text labels on buttons. This can easily create confusion for all users. My grandfather couldn’t figure out how to send an email because the “send” button was not called out in any way, it didn’t look like a button so it was hard to find on the screen.&lt;/p&gt;
+
+&lt;p&gt;Another issue he ran into was that the UI was so “flat” that there was no distinction between the text input fields for the email subject and body. In a completely flat interface, he didn’t know where he was supposed to type.&lt;/p&gt;
+&lt;h2 id="reduce-dependency-on-tech-specific-language"&gt;
+  &lt;a href="#reduce-dependency-on-tech-specific-language"&gt;
+    Reduce dependency on tech-specific language
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;Much of the visual language for UI design is based on the real world. Email is mail, and folders are folders. But imagine trying to explain a hamburger menu icon to a non-tech user. What might be obvious to you is likely not clear to someone else.&lt;/p&gt;
+
+&lt;p&gt;To reduce confusion, we should reduce our dependence on iconography alone to communicate. Text labels go a long way toward adding clarity. The email application my grandfather was using had a side navigation that used icons with no text labels, making it impossible for him to find the emails he had sent. Icons can quickly create confusion if their meaning needs to be clarified.&lt;/p&gt;
+&lt;h2 id="balance-new-features-with-simplicity"&gt;
+  &lt;a href="#balance-new-features-with-simplicity"&gt;
+    Balance new features with simplicity
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;Designing software for a broad audience takes work. Power users expect a very different experience compared to first-time users. I believe the clearer the UI, the better the experience will be for all users. We should be careful about adding new features that aren’t essential to the core experience. How are those features explained, and where do they belong on the screen? Progressive disclosure, clear information architecture, and strong hierarchy are important principles when it comes to maintaining clarity in an increasingly complicated UI.&lt;/p&gt;
+
+&lt;p&gt;Everyone is a first-time user at one point, and we should design for that experience without relying on things like product tutorials that are usually seen once. Balance means adding features for power users without inadvertently confusing first-time users.&lt;/p&gt;
+&lt;h2 id="be-clear"&gt;
+  &lt;a href="#be-clear"&gt;
+    Be clear
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="https://sensible.com/dont-make-me-think/"&gt;Don’t make me think&lt;/a&gt;. No, really. The best UI is the UI that no one notices because it’s so simple. Clear and straightforward UI helps users who are not familiar with the software. My grandfather needed to physically write down every step for sending an email so he could repeat the process on his own. He listed everything from how to turn on his “machine” to where to look for responses to his email. We should strive to make our products so simple that new users don’t need to write down how to use them.&lt;/p&gt;
+&lt;h2 id="personas-can-be-dangerous"&gt;
+  &lt;a href="#personas-can-be-dangerous"&gt;
+    Personas can be dangerous
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;Personas are great at defining a target audience but can be dangerous if we over-index them. They&amp;rsquo;re meant to form a single identity to “target,” which naturally excludes people who may use our products but don’t happen to fit a certain demographic mold. Our users will have diverse cultural, economic, age, gender, and tech-literacy backgrounds, along with many other factors. These differences may mean the products we design are significantly more complicated to use for those who don’t fit our target persona. We should be careful not to inadvertently exclude folks by relying too heavily on a single persona.&lt;/p&gt;
+
+&lt;p&gt;The next time you are working on a digital product, remember, not everyone using it will be a digital native power user. We should do our best to pause and experience our products through their lens. Put aside the keyboard shortcuts and maybe help a non-tech person send an email to see the digital world through their eyes.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;For additional resources on the topic of ageism in tech, see this thoughtbot article &lt;a href="https://thoughtbot.com/blog/software-for-all-ages-tackling-ageism-with-industry-experts"&gt;Software for all ages: tackling ageism with industry experts&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Check out our past projects with &lt;a href="https://thoughtbot.com/case-studies/airrostiremoterecovery"&gt;Airrosti&lt;/a&gt;, &lt;a href="https://thoughtbot.com/case-studies/groups-recover-together"&gt;Groups Recover Together&lt;/a&gt;, and &lt;a href="https://thoughtbot.com/case-studies/relias"&gt;Relias&lt;/a&gt; to learn more about how we approach the design process with empathy and inclusivity.&lt;/p&gt;
+
+&lt;p&gt;If you are interested in discussing your current design process or need help uncovering the right product strategy and market fit, &lt;a href="https://thoughtbot.com/hire-us"&gt;send us an email&lt;/a&gt;. We would be happy to help.&lt;/p&gt;
+</content>
+  <summary>The solution isn’t to just make the text bigger. We need to rethink how we approach product design as a whole.</summary>
+  <auto_social_share>true</auto_social_share>
+</entry>
+<entry>
+  <title>Zero-downtime with Rails credentials part II</title>
+  <link rel="alternate" href="https://thoughtbot.com/blog/from-environment-variables-to-rails-credentials-part-two"/>
+  <author>
+    <name>Sami Birnbaum and Valeria Graffeo</name>
+  </author>
+  <id>https://thoughtbot.com/blog/from-environment-variables-to-rails-credentials-part-two</id>
+  <published>2024-12-18T00:00:00+00:00</published>
+  <updated>2024-12-18T15:41:31Z</updated>
+  <content type="html">&lt;p&gt;This post is part of the &lt;a href="https://thoughtbot.com/blog/from-environment-variables-to-rails-credentials"&gt;Zero-downtime with Rails credentials&lt;/a&gt; series.&lt;/p&gt;
+
+&lt;p&gt;In the &lt;a href="https://thoughtbot.com/blog/from-environment-variables-to-rails-credentials"&gt;first post&lt;/a&gt; we talked about the reasons that moved us
+towards making a codewide change and adopt Rails credentials rather than using
+environment variables to manage our secrets.&lt;/p&gt;
+
+&lt;p&gt;In this article we are going to look at the consequences, and the impact that
+these have on you as a developer, and your codebase.&lt;/p&gt;
+&lt;h2 id="what-impact-does-this-change-have-on-you"&gt;
+  &lt;a href="#what-impact-does-this-change-have-on-you"&gt;
+    What impact does this change have on you?
+  &lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id="credential-files-for-each-environment"&gt;
+  &lt;a href="#credential-files-for-each-environment"&gt;
+    Credential files for each environment
+  &lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;It is important to conceptually consider all the environments
+we run the application in. In our case, these are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;development&lt;/li&gt;
+&lt;li&gt;test&lt;/li&gt;
+&lt;li&gt;staging&lt;/li&gt;
+&lt;li&gt;production&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Not all of these environments may deploy to a server, indeed both
+&lt;code&gt;development&lt;/code&gt; and &lt;code&gt;test&lt;/code&gt; only exist on your local machine. &lt;code&gt;development&lt;/code&gt;
+when you run the development server and &lt;code&gt;test&lt;/code&gt; when you run your
+test suite.&lt;/p&gt;
+
+&lt;p&gt;Currently, when the application runs in any of these environments,
+Rails looks for the &lt;code&gt;.env&lt;/code&gt; file in order to pick up the environment
+variables.&lt;/p&gt;
+
+&lt;p&gt;This is why we currently have a &lt;code&gt;.env&lt;/code&gt; file for each of these environments.&lt;/p&gt;
+
+&lt;p&gt;With this change we will be moving away from a &lt;code&gt;.env&lt;/code&gt; file to a credential file
+for each environment. These will be located at &lt;code&gt;config/credentials/&amp;lt;environment_name&amp;gt;.yml.enc&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;The credential files we expect to have corresponding to each
+environment:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;config/credentials/devlopment.yml.enc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;config/credentials/test.yml.enc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;config/credentials/staging.yml.enc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;config/credentials/production.yml.enc&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These files are where you will now go to add, edit or remove
+credentials, instead of doing so in the &lt;code&gt;.env&lt;/code&gt; file.&lt;/p&gt;
+&lt;h3 id="new-rails-environments"&gt;
+  &lt;a href="#new-rails-environments"&gt;
+    New &lt;code&gt;Rails Environments&lt;/code&gt;
+  &lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;Another change that you will start to see is the creation of new
+&lt;code&gt;Rails Environments&lt;/code&gt; within the Rails app.&lt;/p&gt;
+
+&lt;p&gt;Have a look in &lt;code&gt;config/environments&lt;/code&gt;. You will see that as things
+currently stand the Rails application is only aware of 3 different
+&lt;code&gt;Rails Environments&lt;/code&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;development&lt;/li&gt;
+&lt;li&gt;test&lt;/li&gt;
+&lt;li&gt;production&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When you run the server locally, Rails runs in the development &lt;code&gt;Rails Environment&lt;/code&gt;.
+When you run the test suite, Rails runs in the test &lt;code&gt;Rails Environment&lt;/code&gt;.
+You can check this with the command &lt;code&gt;Rails.env&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;However, for all of our other environments, namely &lt;code&gt;staging&lt;/code&gt; and &lt;code&gt;production&lt;/code&gt;,
+Rails treats them all as production &lt;code&gt;Rails Environments&lt;/code&gt;. The &lt;code&gt;Rails.env&lt;/code&gt; command
+returns &amp;ldquo;production&amp;rdquo; in all of these environments.&lt;/p&gt;
+
+&lt;p&gt;This has been set up this way intentionally, using the &lt;code&gt;RAILS_ENV&lt;/code&gt; environment
+variable in each &lt;code&gt;.env&lt;/code&gt; file to set the &lt;code&gt;Rails Environment&lt;/code&gt; to production,
+like so: &lt;code&gt;RAILS_ENV=production&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Up until now this didn&amp;rsquo;t really matter. We are happy for Rails
+to treat all of the deployable environments as &amp;ldquo;production&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;But with Rails Credentials it does matter&amp;hellip;
+Rails uses the &lt;code&gt;Rails Environment&lt;/code&gt; to determine
+which Rails Credentials file to read from.&lt;/p&gt;
+
+&lt;p&gt;For example when Rails is running in the test &lt;code&gt;Rails Environment&lt;/code&gt;
+it will know to use the credentials from &lt;code&gt;config/credentials/test.yml.enc&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;But imagine when we have credential files for each of our environments:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;staging &amp;ndash;&amp;gt; &lt;code&gt;config/credentials/staging.yml.enc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;production &amp;ndash;&amp;gt; &lt;code&gt;config/credentials/production.yml.enc&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The way Rails works is that it will first check what its &lt;code&gt;Rails Environment&lt;/code&gt;
+(&lt;code&gt;RAILS_ENV&lt;/code&gt;) is set to and use that to infer which credential file to
+read from.&lt;/p&gt;
+
+&lt;p&gt;As it stands, on all of these environments, the &lt;code&gt;Rails Environemnt&lt;/code&gt;
+is set to &amp;ldquo;production&amp;rdquo;, in other words &lt;code&gt;RAILS_ENV=production&lt;/code&gt;,
+and therefore within each environment, Rails will always look for the
+&lt;code&gt;config/credentials/production.yml.enc&lt;/code&gt; file.&lt;/p&gt;
+
+&lt;p&gt;This is a problem as we want to have different credentials for each
+environment, just like we have a different &lt;code&gt;.env&lt;/code&gt; files for each
+environment.&lt;/p&gt;
+
+&lt;p&gt;In order to do this we have to create a new &lt;code&gt;Rails Environment&lt;/code&gt; for each environment,
+by creating all the environments in &lt;code&gt;config/environments&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;So we expect to see the following files:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;config/environments/development.rb&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;config/environments/test.rb&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;config/environments/staging.rb&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;config/environments/production.rb&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We will also set &lt;code&gt;RAILS_ENV&lt;/code&gt; on each environment to the actual
+name of the environment and not just production.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;staging &amp;ndash;&amp;gt; RAILS_ENV=staging&lt;/li&gt;
+&lt;li&gt;production &amp;ndash;&amp;gt; RAILS_ENV=production&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This will allow Rails to check the &lt;code&gt;RAILS_ENV&lt;/code&gt; on the environment
+and use that to read from the correct credentials file.&lt;/p&gt;
+
+&lt;p&gt;So, to put it all together:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The Rails app loads on the given environment&lt;/li&gt;
+&lt;li&gt;Rails checks the value of &lt;code&gt;RAILS_ENV&lt;/code&gt; so it knows the &lt;code&gt;Rails Environment&lt;/code&gt; it is operating in&lt;/li&gt;
+&lt;li&gt;Rails uses the correct &lt;code&gt;config/environment&lt;/code&gt; file for that environment&lt;/li&gt;
+&lt;li&gt;Rails uses the correct credentials file for that environment&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id="use-a-rails-master-key"&gt;
+  &lt;a href="#use-a-rails-master-key"&gt;
+    Use a Rails Master Key
+  &lt;/a&gt;
+&lt;/h3&gt;
+
+&lt;p&gt;As mentioned above, all the Rails Credential files will be
+encrypted. This is why we can store them safely in version control.&lt;/p&gt;
+
+&lt;p&gt;However, when Rails attempts to read from these credential files,
+it will need a key that it can use to decrypt the files and
+retrieve the key value pairs in a decrypted state.&lt;/p&gt;
+
+&lt;p&gt;You will need to add the key to your &lt;code&gt;.env&lt;/code&gt; file in order
+to be able to work with the credential files and decrypt them.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This key is highly sensitive and should not be stored in version
+control.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Rails uses a different master key for all the different environments.&lt;/p&gt;
+&lt;h2 id="so-wait-why-do-we-still-need-a-env-file"&gt;
+  &lt;a href="#so-wait-why-do-we-still-need-a-env-file"&gt;
+    So, wait, why do we still need a &lt;code&gt;.env&lt;/code&gt; file?
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;Well, yes. We will tell you more in our next article, promise.&lt;/p&gt;
+</content>
+  <summary>Transitioning the codebase from using environment variables to Rails Credentials for Zero-Downtime Deploys.</summary>
+  <auto_social_share>true</auto_social_share>
+</entry>
+<entry>
+  <title>Making typography decisions with AI as an assistant</title>
+  <link rel="alternate" href="https://thoughtbot.com/blog/making-typography-decisions-with-ai-as-an-assistant"/>
+  <author>
+    <name>Moses Amama</name>
+  </author>
+  <id>https://thoughtbot.com/blog/making-typography-decisions-with-ai-as-an-assistant</id>
+  <published>2024-12-16T00:00:00+00:00</published>
+  <updated>2024-12-16T16:12:21Z</updated>
+  <content type="html">&lt;p&gt;Choosing the right typeface is fundamental in shaping a product’s identity. Designers often rely on their expertise to weigh factors like brand personality, mood, user needs, and cultural nuances—crafting typographic choices that resonate deeply with their users. But with thousands of typefaces available today, where does one even begin? The process can feel overwhelming and time-consuming, with the risk of overlooking great options simply because they’re buried in an endless sea of possibilities.&lt;/p&gt;
+
+&lt;p&gt;This is where AI steps in as a practical ally. It can quickly sift through vast libraries, generate recommendations, and test technical aspects like readability and accessibility. Yet, AI alone cannot replicate the designer’s intuition or the strategic thinking informed by hands-on experience. So, how can we make this process more efficient and impactful? Let’s explore how the typeface selection process unfolds when combining the strengths of AI and a designer’s expertise.&lt;/p&gt;
+&lt;h2 id="start-with-the-basics"&gt;
+  &lt;a href="#start-with-the-basics"&gt;
+    Start with the basics
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;Every project begins with a clear understanding of its fundamental purpose. To successfully select an effective typeface for your product, you will need to first identify who will be reading your content, where and how they&amp;rsquo;ll encounter it. You will also need to take into consideration the mood you want your product to have and what typeface can help you amplify that mood. The mood of your typeface should always align with your brand&amp;rsquo;s personality - whether that&amp;rsquo;s projecting professionalism, playfulness, or elegance. During this initial phase, make sure to list out any specific requirements like minimum readable sizes or accessibility standards that need to be met. It will come in handy later when you want to test.&lt;/p&gt;
+
+&lt;p&gt;You can figure out the mood of your product by considering the brand value and purpose, and also by thinking about the audience that will be using the product and the emotional impact you want to have on them.&lt;/p&gt;
+&lt;h2 id="find-inspiration-with-some-good-ol39-research"&gt;
+  &lt;a href="#find-inspiration-with-some-good-ol39-research"&gt;
+    Find inspiration with some good ol&amp;rsquo; research
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;It is important to approach any design process with some form of research. Taking the time to see and review what other designers have done with typography on their products, can be really helpful to see what works in existing products and spark some ideas on how to make yours even better. Some of my go-to places to find typography inspiration are Pinterest, Mobbin and good ol&amp;rsquo; google search for products or platforms, I have encountered in the past that evoke certain moods or that I just really liked.&lt;/p&gt;
+&lt;h2 id="use-ai-tools-to-quickly-generate-initial-ideas"&gt;
+  &lt;a href="#use-ai-tools-to-quickly-generate-initial-ideas"&gt;
+    Use AI tools to quickly generate initial ideas
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;Using AI as a brainstorming partner has the potential to speed up your design process. I have benefited greatly from incorporating &lt;a href="https://chatgpt.com/"&gt;chatGPT&lt;/a&gt; and &lt;a href="https://claude.ai/"&gt;ClaudeAI&lt;/a&gt; into my typeface selection process. These tools help me generate initial typeface suggestions based on the mood, goals and tone that I came up with in the first step. Good prompts are your secret to discovering really great typeface suggesting when brainstorming with AI,  Here are some good examples of prompts I have used in the past when doing typeface exploration.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Suggest typefaces for a healthcare website that convey trust, professionalism, and accessibility.&lt;/li&gt;
+&lt;li&gt;What typefaces would appeal to a younger audience for a fashion and lifestyle brand?&lt;/li&gt;
+&lt;li&gt;Suggest typefaces that reflect a professional yet approachable personality for a corporate consulting firm.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Once I get some suggestions, I proceed to visualize them in my design tool to help me filter them based on my preferences. Another way to visualize this typeface suggestions more quickly and narrow down your options are through visualization tools like &lt;a href="https://fonts.adobe.com/"&gt;AdobeFonts&lt;/a&gt;, &lt;a href="https://www.canva.com/"&gt;Canva&lt;/a&gt; or &lt;a href="https://fontjoy.com/"&gt;FontJOY&lt;/a&gt;. I have found it is always a good idea to narrow them down to two or three options in this phase.&lt;/p&gt;
+&lt;h2 id="explore-typeface-pairings-with-some-ai-assistance"&gt;
+  &lt;a href="#explore-typeface-pairings-with-some-ai-assistance"&gt;
+    Explore typeface pairings with some AI assistance
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;Typeface pairing allows you to combine visual harmony and functionality of two separate typefaces. When selecting typeface combinations, it is often a good idea to look out for typefaces that complement each other while maintaining distinct roles. A common approach is to pair a bold, characterful typeface for headlines with a more neutral, highly readable typeface for body text. The goal is to create a clear visual hierarchy while maintaining harmony across your design. The contrast between your chosen typefaces should be obvious enough to serve a purpose, but not so dramatic that it becomes distracting.&lt;/p&gt;
+
+&lt;p&gt;This an aspect of typeface exploration that AI can save you alot of time on. having narrowed down the choices on the initial typeface to the recommended two or three options, you can rely on AI to generate complementary typefaces that best work with your options based on a defined criteria. An example of prompts I will use to carry out this exercise are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Recommend a secondary typeface that pairs well with Comfortaa and Garamond, suitable for body text.&lt;/li&gt;
+&lt;li&gt;What font would complement Comfortaa as a bold headline typeface while maintaining contrast in a thin, readable body font?&lt;/li&gt;
+&lt;li&gt;Recommend a typeface that creates visual contrast with Garamond without feeling disjointed.&lt;/li&gt;
+&lt;li&gt;What secondary typeface would pair well with Comfortaa for captions and small text while keeping the design cohesive?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Same as in the step above, It is also a good pairing to filter down your typeface pairing suggestions down to two or three options.&lt;/p&gt;
+&lt;h2 id="manually-test-and-refine"&gt;
+  &lt;a href="#manually-test-and-refine"&gt;
+    Manually test and refine
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;Once you have selected your potential typefaces, you would need to test them within the context of the product you are designing. Create actual layouts using your chosen typefaces and examine how they perform across different sizes and formats. Check if headlines are sufficiently impactful and if body text remains comfortable to read in longer passages. Test your typography across various devices and screen sizes to ensure consistency. Pay special attention to readability and accessibility issues; if users are struggling to read your text, then your typography choices have failed their primary purpose.&lt;/p&gt;
+&lt;h2 id="generate-a-typography-style-system-using-ai"&gt;
+  &lt;a href="#generate-a-typography-style-system-using-ai"&gt;
+    Generate a typography style system using AI
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;In design, styles form the backbone of consistent design implementation. Beyond just selecting typefaces, you need to establish a comprehensive system of styles that can be applied across your project. This includes creating specific styles for different text elements like headings, subheadings, body text, quotes, and captions. For each style, define not just the typeface family but also precise specifications for size, weight, line height, letter spacing, and color. Consider creating responsive variations that adapt to different screen sizes.&lt;/p&gt;
+
+&lt;p&gt;AI can play a key role in automating the creation of a hierarchy by suggesting font sizes, weights, and spacing that align with typographic best practices and the preference for your project. This shortens the process, ensuring that the typography system feels cohesive, adaptable, and easy to implement across your project. After getting this suggestions, I prefer to take them and organize these styles in a logical hierarchy and name them clearly according to what they will be used for through out the project, this approach helps the team to easily understand and apply them through out the project with little inconsitency. Here is an example of what that will look like:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Main Title&lt;/strong&gt; - Comfortaa, 48px/700, #1A1A1A&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Section Title&lt;/strong&gt; - Comfortaa, 36px/700, #1A1A1A&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Card Title&lt;/strong&gt; - Comfortaa, 24px/700, #1A1A1A&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Body Text&lt;/strong&gt; - Inter, 16px/400, #2A2A2A&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Button Label&lt;/strong&gt; - Inter, 14px/600, #FFFFFF/#1A1A1A&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Caption/Helper&lt;/strong&gt; - Inter, 12px/400, #6A6A6A&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="manually-create-documentation"&gt;
+  &lt;a href="#manually-create-documentation"&gt;
+    Manually create documentation
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;When you are done selecting your preferred typefaces, it is important to create clear guidelines for their use. Document not just the chosen typefaces but also specific rules, such as exact sizes for different contexts, spacing requirements, and color combinations. Tools like figma styles and variables allow you to save and apply predefined typography settings across your project, while variables add an extra layer of flexibility. With variables, you can document and organize each style with contextual labels, making it clear when and where each should be used—whether for responsive design, light/dark modes, or different components.&lt;/p&gt;
+
+&lt;p&gt;These tools allows you to ensure consistency across the product while providing an accessible and well-documented system for your team. This approach not only simplifies implementation but also helps maintain the integrity of your design decisions throughout the product.&lt;/p&gt;
+&lt;h2 id="making-it-work"&gt;
+  &lt;a href="#making-it-work"&gt;
+    Making it work
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;Making successful typography decisions comes from balancing visual appeal with practical function. Your chosen typefaces should enhance your content&amp;rsquo;s message while reflecting your brand&amp;rsquo;s character, mood and tone. It has to achieve all these while remaining easily readable for the users of the product you are designing. When typography is done right, it becomes an invisible force that guides readers through your content effortlessly. You can begin today to leverage AI to discover newer more amazing typeface options while shortening the time you take to go through your usual typography selection process.&lt;/p&gt;
+</content>
+  <summary>Combine AI tools with design expertise to make better typography decisions faster. Use AI as an assistant to select, test and implement typefaces while reducing time spent on exploration.</summary>
+  <auto_social_share>true</auto_social_share>
+</entry>
+<entry>
+  <title>Testing SQL queries in a Ruby service</title>
+  <link rel="alternate" href="https://thoughtbot.com/blog/testing-sql-queries-in-a-ruby-service"/>
+  <author>
+    <name>Sally Hall</name>
+  </author>
+  <id>https://thoughtbot.com/blog/testing-sql-queries-in-a-ruby-service</id>
+  <published>2024-12-16T00:00:00+00:00</published>
+  <updated>2024-12-12T17:17:24Z</updated>
+  <content type="html">&lt;h2 id="the-part-where-our-hero-thinks-everything-is-fine"&gt;
+  &lt;a href="#the-part-where-our-hero-thinks-everything-is-fine"&gt;
+    The part where our hero thinks everything is fine
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;Recently, I worked on a project where we needed to build a Ruby service that
+would run queries on a third party database and send the results to our main
+Rails application. The third party database was a huge MSSQL database with tons
+of data, but we were only using a handful of tables. As I started building the
+service, I wrote specs for the Ruby code, but mocked all the database calls to
+return predefined data. This gave me confidence that my Ruby code worked, but
+the core purpose of the service was querying the database, and that was entirely
+untested.&lt;/p&gt;
+&lt;h2 id="the-part-where-our-hero-realizes-everything-is-not-in-fact-fine"&gt;
+  &lt;a href="#the-part-where-our-hero-realizes-everything-is-not-in-fact-fine"&gt;
+    The part where our hero realizes everything is not, in fact, fine
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;I threw a ‘write SQL tests’ card in the tech debt backlog and carried on for a
+while, tweaking the queries and ignoring the little voice in the back of my head
+that screamed in agony every time I committed a change to a SQL query string
+with no corresponding spec. Eventually, it became clear that the queries I had
+written were more likely to change over time than I initially thought, and that
+everyone else on the project avoided them. It was time to put on my grown up hat
+and write some specs.&lt;/p&gt;
+&lt;h2 id="the-part-where-our-hero-finds-herself-in-unfamiliar-territory"&gt;
+  &lt;a href="#the-part-where-our-hero-finds-herself-in-unfamiliar-territory"&gt;
+    The part where our hero finds herself in unfamiliar territory
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;This service was missing two things that I am usually able to rely on when
+writing specs: Postgres and Rails (specifically, Active Record). It’s fairly
+trivial to get Postgres running on my local development environment (I use a
+Mac), and on the Docker images I usually use for CI (in this case,
+&lt;code&gt;ubuntu-latest&lt;/code&gt; on Github Actions).&lt;/p&gt;
+
+&lt;p&gt;One of my first thoughts was to use Postgres for specs and just sort of cross my
+fingers that that the syntax I used for queries would work on both database
+platforms. In the Ruby service, I used &lt;a href="https://github.com/rails-sqlserver/tiny_tds"&gt;TinyTDS&lt;/a&gt; to
+connect to the external database, which worked really well for actually
+executing the queries. I was hoping I could just swap out Postgres for MSSQL and
+use TinyTDS with Postgres in the tests, but unfortunately, TinyTDS is for Microsoft SQL or Sybase
+databases and there really is no way to make it work with Postgres.&lt;/p&gt;
+&lt;h2 id="the-part-where-our-hero-contemplates-fleeing-back-to-familiar-grounds"&gt;
+  &lt;a href="#the-part-where-our-hero-contemplates-fleeing-back-to-familiar-grounds"&gt;
+    The part where our hero contemplates fleeing back to familiar grounds
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;Next, I considered whether refactoring the service to use some Rails components
+would make testing easier. I thought I might be able to take advantage of
+Active Record to not only make queries simpler, but also make it possible to
+connect to a MSSQL database in production and test on a Postgres database,
+leaving the hard bits up to the respective adapters. The more I thought about
+this, I realized that although it would be a potentially useful refactor in many
+ways, attempting a refactor of this complexity on code that is completely
+untested was way too risky. Unless I found a time machine that would let me go
+back in time and start with Active Record from the first place, I was going to
+need to find a way to write specs without it.&lt;/p&gt;
+&lt;h2 id="the-part-where-our-hero-faces-her-demons-and-begins-to-see-light"&gt;
+  &lt;a href="#the-part-where-our-hero-faces-her-demons-and-begins-to-see-light"&gt;
+    The part where our hero faces her demons and begins to see light
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;While developing the service initially, I used the Docker image Microsoft
+provides to run SQL Server locally. This seemed like a good place to start for
+running specs, too. It turned out to be straightforward to remove the mocks from the test code and
+have specs use TinyTDS to connect to the test database. I used &lt;a href="https://thoughtbot.com/blog/testing-and-environment-variables"&gt;Climate Control&lt;/a&gt;
+to set the environment variables used by TinyTDS in tests to the values I had used during development.&lt;/p&gt;
+
+&lt;p&gt;Now that I had specs connecting to a database, I needed to set up the database
+with the schemas, tables, and functions the service depended on. I also needed a
+way to create objects in the database and reset it between runs. In a traditional
+Rails application, I usually use &lt;a href="https://github.com/thoughtbot/factory_bot"&gt;factory_bot&lt;/a&gt; to do this. I took another
+moment to appreciate Rails and all the things it brings to my life. I
+double checked to see if time travel had become possible, so I could restart the
+project with what I had learned. It looked like I was just going to need to
+build some tools myself.&lt;/p&gt;
+&lt;h2 id="the-part-where-our-hero-gains-great-appreciation-for-the-tools-she-can-no-longer-use-and-makes-new-ones"&gt;
+  &lt;a href="#the-part-where-our-hero-gains-great-appreciation-for-the-tools-she-can-no-longer-use-and-makes-new-ones"&gt;
+    The part where our hero gains great appreciation for the tools she can no longer use and makes new ones
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;First, I created a schema to replicate the portions of the database I needed for
+tests. I began by combing through the queries in the service and making note of
+every table name and column I used. I quickly realized that my existing specs
+could help with this! When I ran a spec that used a table or column that was
+missing, I would get an error message with the missing database object. I kept
+adding tables to my local test database until none of the spec failure messages
+were about a missing database object. I now had the minimum schema necessary to
+test the service.&lt;/p&gt;
+
+&lt;p&gt;Our service relied on a custom function in the database. I needed to be able to
+call this function for the tests to work properly, but it wasn’t necessary to
+completely replicate the function and its logic. Instead, I created a table into
+which I could insert the inputs and outputs of the function. Then I created a
+function that would look up a row given the input and return the output. This
+allowed me to mock the database function call without changing the database
+query.&lt;/p&gt;
+
+&lt;p&gt;As I built the database through this process, I kept track of the SQL commands I
+used to create tables. These commands together became a schema that could be
+loaded into the database when setting it up for tests. I created a &lt;code&gt;DataHelper&lt;/code&gt;
+module to use in specs that would use these commands to set up a test database
+or clean the test database between examples.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight ruby"&gt;&lt;code&gt;&lt;span class="no"&gt;RSpec&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;configure&lt;/span&gt; &lt;span class="k"&gt;do&lt;/span&gt; &lt;span class="o"&gt;|&lt;/span&gt;&lt;span class="n"&gt;config&lt;/span&gt;&lt;span class="o"&gt;|&lt;/span&gt;
+  &lt;span class="n"&gt;config&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;before&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="ss"&gt;:suite&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="k"&gt;do&lt;/span&gt;
+    &lt;span class="no"&gt;DataHelpers&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;setup_database&lt;/span&gt;
+  &lt;span class="k"&gt;end&lt;/span&gt;
+  &lt;span class="n"&gt;config&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;before&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="ss"&gt;:each&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="k"&gt;do&lt;/span&gt;
+    &lt;span class="no"&gt;DataHelpers&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;clean_database&lt;/span&gt;
+  &lt;span class="k"&gt;end&lt;/span&gt;
+&lt;span class="k"&gt;end&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre class="highlight ruby"&gt;&lt;code&gt;&lt;span class="k"&gt;module&lt;/span&gt; &lt;span class="nn"&gt;DataHelpers&lt;/span&gt;
+ &lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nc"&gt;self&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;setup_database&lt;/span&gt;
+    &lt;span class="n"&gt;drop_tables&lt;/span&gt;
+    &lt;span class="n"&gt;drop_address_match_function&lt;/span&gt;
+    &lt;span class="n"&gt;create_schemas&lt;/span&gt;
+    &lt;span class="n"&gt;load_schema&lt;/span&gt;
+    &lt;span class="n"&gt;create_address_match_function&lt;/span&gt;
+  &lt;span class="k"&gt;end&lt;/span&gt;
+
+&lt;span class="o"&gt;...&lt;/span&gt;
+
+&lt;span class="k"&gt;end&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Now I had a test suite that connected to a local MSSQL database and could set up
+and clean the database when running tests. All I had left was to create data
+during tests. Since I didn’t have objects defined in the service to encapsulate
+the data yet (have I mentioned how much I wish I had used Active Record?), I
+couldn’t rely on factory_bot to create data. Instead, I created methods to run
+insert queries with reasonable defaults and called them the way I would use
+factory bot. Unlike factory_bot, these methods do not return the object that was
+created, but they worked well enough without that.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre class="highlight ruby"&gt;&lt;code&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nc"&gt;self&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;create_user&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;email&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;full_name&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;admin&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="kp"&gt;false&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="n"&gt;client&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;execute&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;"INSERT INTO User(
+      Email,
+      FullName,
+      Admin)
+    VALUES ( &lt;/span&gt;&lt;span class="si"&gt;#{&lt;/span&gt;&lt;span class="n"&gt;email&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s2"&gt;, &lt;/span&gt;&lt;span class="si"&gt;#{&lt;/span&gt;&lt;span class="n"&gt;full_name&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s2"&gt;, &lt;/span&gt;&lt;span class="si"&gt;#{&lt;/span&gt;&lt;span class="n"&gt;admin&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;&lt;span class="s2"&gt;)"&lt;/span&gt;&lt;span class="p"&gt;).&lt;/span&gt;&lt;span class="nf"&gt;do&lt;/span&gt;
+&lt;span class="k"&gt;end&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;At this point, I had a test suite that connected to a test MSSQL database,
+actually tested the database queries, and set up/cleaned up the database so it
+worked for multiple test runs.&lt;/p&gt;
+
+&lt;aside class="info"&gt;
+  &lt;p&gt;I also had to run tests on CI which &lt;a href="https://gist.github.com/sallyhall/26bd056cb2efc42847828840ce6b072d"&gt;required some setup&lt;/a&gt;.&lt;/p&gt;
+&lt;/aside&gt;
+&lt;h2 id="the-part-where-our-hero-reflects-on-the-lesson-she-learned-the-hard-way"&gt;
+  &lt;a href="#the-part-where-our-hero-reflects-on-the-lesson-she-learned-the-hard-way"&gt;
+    The part where our hero reflects on the lesson she learned the hard way
+  &lt;/a&gt;
+&lt;/h2&gt;
+
+&lt;p&gt;When I began writing this Ruby service, I assumed I would simply be connecting to
+an external database, running a few queries, and forwarding on the results to our
+main Rails application. Surely something this straightforward doesn&amp;rsquo;t need all
+of Rails! I can just make some little helper classes and move on. It turns out,
+the service itself really does &amp;ldquo;simply&amp;rdquo; connect to the database, make queries,
+and send data to the app, but simple rarely means easy.&lt;/p&gt;
+
+&lt;p&gt;When I chose my tools, I was only considering writing and running the code. I
+didn&amp;rsquo;t take any time to think through the best way to test it.  If I had begun my
+design and planning with a testing strategy, I may have discovered the pitfalls I
+encountered before I started wishing for a time machine. Test-driven development
+doesn&amp;rsquo;t start when we write the first line of code. Next time, our hero will
+consider testing as part of every decision.&lt;/p&gt;
+</content>
+  <summary>An epic journey of facing MSSQL and missing Rails.</summary>
+  <auto_social_share>true</auto_social_share>
+</entry>
+</feed>

@@ -1,0 +1,14 @@
+#!/usr/bin/env ruby
+
+require "bundler"
+
+Bundler.require
+
+$:.push File.expand_path("../lib", __dir__)
+
+require "github_readme"
+
+readme = Readme.new("profile/README.md")
+blog = RssFeed.new(url: "https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots")
+
+readme.update(section: "blog", items: blog.take(5))
