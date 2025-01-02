@@ -9,3 +9,9 @@ RSpec.configure do |config|
     Excon.stubs.clear
   end
 end
+
+RSpec::Matchers.define :match_date do |expected|
+  match do |actual|
+    expect(expected.strftime("%d-%m-%Y")).to eq(actual.strftime("%d-%m-%Y"))
+  end
+end

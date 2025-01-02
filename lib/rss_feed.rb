@@ -2,6 +2,8 @@ require "json"
 require "excon"
 require "feedjira"
 
+require "feed_item"
+
 class RssFeed
   include Enumerable
 

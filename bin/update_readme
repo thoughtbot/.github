@@ -10,5 +10,12 @@ require "github_readme"
 
 readme = Readme.new("profile/README.md")
 blog = RssFeed.new(url: "https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots")
+podcasts = CombinedRssFeed.new(
+  feed_urls: [
+    "https://podcast.thoughtbot.com/rss",
+    "https://bikeshed.thoughtbot.com/rss"
+  ]
+)
 
 readme.update(section: "blog", items: blog.take(5))
+readme.update(section: "podcasts", items: podcasts.take(5))

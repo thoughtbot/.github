@@ -10,6 +10,8 @@ products at every stage of the product lifecycle. Since 2003, we have produced
 high-quality products for over [1,000 clients][3]. We are proud to leave every
 project with a stronger team and improved processes.
 
+<table><tr><td valign="top" width="50%">
+
 ### Writing
 
 <!-- blog starts -->
@@ -18,6 +20,23 @@ project with a stronger team and improved processes.
 [The digital nomad thoughtbottle](https://thoughtbot.com/blog/the-digital-nomad-thoughtbottle)
 
 <!-- blog ends -->
+</td><td valign="top" width="50%">
+
+### Podcasts
+
+<!-- podcasts starts -->
+[453: The Bike Shed Wrapped 2024](https://bikeshed.thoughtbot.com/453)
+
+[555: AI Meets LEGO® Creativity with Keira Czarnota ](https://podcast.thoughtbot.com/555)
+
+[452: Hotwire Essentials with Steve Polito](https://bikeshed.thoughtbot.com/452)
+
+[554: Founding a Life Saving Business from your dorm room with Luká Yancopoulos](https://podcast.thoughtbot.com/554)
+
+[451: Making Time for and Managing Focus](https://bikeshed.thoughtbot.com/451)
+
+<!-- podcasts ends -->
+</td></tr></table>
 
 [1]: https://thoughtbot.com
 [2]: https://thoughtbot.com/services
