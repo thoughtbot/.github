@@ -15,9 +15,9 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[Why UX is more important than UI](https://thoughtbot.com/blog/why-ux-is-more-important-than-ui)
+[thoughtbot is a certified Prismic partner](https://thoughtbot.com/blog/thoughtbot-is-a-certified-prismic-partner)
 
-[The digital nomad thoughtbottle](https://thoughtbot.com/blog/the-digital-nomad-thoughtbottle)
+[Why UX is more important than UI](https://thoughtbot.com/blog/why-ux-is-more-important-than-ui)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
