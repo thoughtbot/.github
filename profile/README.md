@@ -15,6 +15,10 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Can AI be used as an accessibility testing partner?](https://thoughtbot.com/blog/can-ai-be-used-as-an-accessibility-testing-partner)
+
+[Recorded sessions from thoughtbot Open Summit 2024](https://thoughtbot.com/blog/recorded-sessions-from-thoughtbot-open-summit-2024)
+
 [thoughtbot is a certified Prismic partner](https://thoughtbot.com/blog/thoughtbot-is-a-certified-prismic-partner)
 
 <!-- blog ends -->
