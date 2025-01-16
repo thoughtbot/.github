@@ -29,6 +29,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[557: AI from Automation to Transformation with Andrew Rashbass](https://podcast.thoughtbot.com/557)
+
 [556: Connecting Generations with Kinsome](https://podcast.thoughtbot.com/556)
 
 [453: The Bike Shed Wrapped 2024](https://bikeshed.thoughtbot.com/453)
@@ -36,8 +38,6 @@ project with a stronger team and improved processes.
 [555: AI Meets LEGO® Creativity with Keira Czarnota ](https://podcast.thoughtbot.com/555)
 
 [452: Hotwire Essentials with Steve Polito](https://bikeshed.thoughtbot.com/452)
-
-[554: Founding a Life Saving Business from your dorm room with Luká Yancopoulos](https://podcast.thoughtbot.com/554)
 
 <!-- podcasts ends -->
 </td></tr></table>
