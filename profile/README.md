@@ -15,13 +15,13 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Chicken Accessories For Chickens](https://thoughtbot.com/blog/chicken-accessories-for-chickens)
+
 [Superglue 1.0: React ❤️ Rails. A new era of thoughtfulness](https://thoughtbot.com/blog/superglue-1-0-react-rails-a-new-era-of-thoughtfulness)
 
 [How to infer the form method for custom objects in Rails](https://thoughtbot.com/blog/how-to-infer-the-form-method-for-custom-objects-in-rails)
 
 [Can AI be used as an accessibility testing partner?](https://thoughtbot.com/blog/can-ai-be-used-as-an-accessibility-testing-partner)
-
-[Recorded sessions from thoughtbot Open Summit 2024](https://thoughtbot.com/blog/recorded-sessions-from-thoughtbot-open-summit-2024)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
