@@ -21,8 +21,6 @@ project with a stronger team and improved processes.
 
 [How to infer the form method for custom objects in Rails](https://thoughtbot.com/blog/how-to-infer-the-form-method-for-custom-objects-in-rails)
 
-[Can AI be used as an accessibility testing partner?](https://thoughtbot.com/blog/can-ai-be-used-as-an-accessibility-testing-partner)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
