@@ -15,6 +15,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[What happens when we misuse refactoring in conversation?](https://thoughtbot.com/blog/what-happens-when-we-misuse-refactoring-in-conversation)
+
 [Chicken Accessories For Chickens](https://thoughtbot.com/blog/chicken-accessories-for-chickens)
 
 [Superglue 1.0: React ❤️ Rails. A new era of thoughtfulness](https://thoughtbot.com/blog/superglue-1-0-react-rails-a-new-era-of-thoughtfulness)
