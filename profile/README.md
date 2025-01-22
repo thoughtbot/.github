@@ -15,6 +15,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Why Rails in 2025?](https://thoughtbot.com/blog/why-rails-in-2025)
+
 [What happens when we misuse refactoring in conversation?](https://thoughtbot.com/blog/what-happens-when-we-misuse-refactoring-in-conversation)
 
 [Chicken Accessories For Chickens](https://thoughtbot.com/blog/chicken-accessories-for-chickens)
