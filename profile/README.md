@@ -15,15 +15,11 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[Why Rails in 2025?](https://thoughtbot.com/blog/why-rails-in-2025)
+[Why Rails in 2025?](https://feed.thoughtbot.com/link/24077/16944754/why-rails-in-2025)
 
-[What happens when we misuse refactoring in conversation?](https://thoughtbot.com/blog/what-happens-when-we-misuse-refactoring-in-conversation)
+[What happens when we misuse refactoring in conversation?](https://feed.thoughtbot.com/link/24077/16944098/what-happens-when-we-misuse-refactoring-in-conversation)
 
-[Chicken Accessories For Chickens](https://thoughtbot.com/blog/chicken-accessories-for-chickens)
-
-[Superglue 1.0: React ❤️ Rails. A new era of thoughtfulness](https://thoughtbot.com/blog/superglue-1-0-react-rails-a-new-era-of-thoughtfulness)
-
-[How to infer the form method for custom objects in Rails](https://thoughtbot.com/blog/how-to-infer-the-form-method-for-custom-objects-in-rails)
+[Chicken Accessories For Chickens](https://feed.thoughtbot.com/link/24077/16941671/chicken-accessories-for-chickens)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
@@ -31,6 +27,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[558: Using AI to Bring Transparency to City Government with Vikram Oberoi](https://podcast.thoughtbot.com/558)
+
 [557: AI from Automation to Transformation with Andrew Rashbass](https://podcast.thoughtbot.com/557)
 
 [556: Connecting Generations with Kinsome](https://podcast.thoughtbot.com/556)
@@ -38,8 +36,6 @@ project with a stronger team and improved processes.
 [453: The Bike Shed Wrapped 2024](https://bikeshed.thoughtbot.com/453)
 
 [555: AI Meets LEGO® Creativity with Keira Czarnota ](https://podcast.thoughtbot.com/555)
-
-[452: Hotwire Essentials with Steve Polito](https://bikeshed.thoughtbot.com/452)
 
 <!-- podcasts ends -->
 </td></tr></table>
