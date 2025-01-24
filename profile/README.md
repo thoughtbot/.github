@@ -15,6 +15,10 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Introducing the Noisy Animals kata](https://feed.thoughtbot.com/link/24077/16946094/introducing-the-noisy-animal-kata)
+
+[A Product Manager's guide to 2025](https://feed.thoughtbot.com/link/24077/16946016/a-product-manager-s-guide-to-2025)
+
 [Why Rails in 2025?](https://feed.thoughtbot.com/link/24077/16944754/why-rails-in-2025)
 
 [What happens when we misuse refactoring in conversation?](https://feed.thoughtbot.com/link/24077/16944098/what-happens-when-we-misuse-refactoring-in-conversation)
