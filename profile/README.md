@@ -23,8 +23,6 @@ project with a stronger team and improved processes.
 
 [What happens when we misuse refactoring in conversation?](https://feed.thoughtbot.com/link/24077/16944098/what-happens-when-we-misuse-refactoring-in-conversation)
 
-[Chicken Accessories For Chickens](https://feed.thoughtbot.com/link/24077/16941671/chicken-accessories-for-chickens)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
