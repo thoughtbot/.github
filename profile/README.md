@@ -15,6 +15,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Turning experience into growth](https://feed.thoughtbot.com/link/24077/16947785/turning-experience-into-growth)
+
 [Introducing the Noisy Animals kata](https://feed.thoughtbot.com/link/24077/16946094/introducing-the-noisy-animal-kata)
 
 [A Product Manager's guide to 2025](https://feed.thoughtbot.com/link/24077/16946016/a-product-manager-s-guide-to-2025)
