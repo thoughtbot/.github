@@ -15,6 +15,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Things you might not need in your tests](https://feed.thoughtbot.com/link/24077/16950371/things-you-might-not-need-in-your-tests)
+
 [Build a (progressively enhanced) drawer component with Hotwire](https://feed.thoughtbot.com/link/24077/16949295/hotwire-drawer)
 
 [Turning experience into growth](https://feed.thoughtbot.com/link/24077/16947785/turning-experience-into-growth)
@@ -22,8 +24,6 @@ project with a stronger team and improved processes.
 [Introducing the Noisy Animals kata](https://feed.thoughtbot.com/link/24077/16946094/introducing-the-noisy-animal-kata)
 
 [A Product Manager's guide to 2025](https://feed.thoughtbot.com/link/24077/16946016/a-product-manager-s-guide-to-2025)
-
-[Why Rails in 2025?](https://feed.thoughtbot.com/link/24077/16944754/why-rails-in-2025)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
