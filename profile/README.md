@@ -31,6 +31,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[559: The European Accessibility Act: Are You Ready for 2025?](https://podcast.thoughtbot.com/559)
+
 [558: Using AI to Bring Transparency to City Government with Vikram Oberoi](https://podcast.thoughtbot.com/558)
 
 [557: AI from Automation to Transformation with Andrew Rashbass](https://podcast.thoughtbot.com/557)
@@ -38,8 +40,6 @@ project with a stronger team and improved processes.
 [556: Connecting Generations with Kinsome](https://podcast.thoughtbot.com/556)
 
 [453: The Bike Shed Wrapped 2024](https://bikeshed.thoughtbot.com/453)
-
-[555: AI Meets LEGO® Creativity with Keira Czarnota ](https://podcast.thoughtbot.com/555)
 
 <!-- podcasts ends -->
 </td></tr></table>
