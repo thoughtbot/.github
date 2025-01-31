@@ -9,7 +9,7 @@ $:.push File.expand_path("../lib", __dir__)
 require "github_readme"
 
 readme = Readme.new("profile/README.md")
-blog = RssFeed.new(url: "https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots")
+blog = RssFeed.new(url: "https://feed.thoughtbot.com")
 podcasts = CombinedRssFeed.new(
   feed_urls: [
     "https://podcast.thoughtbot.com/rss",
