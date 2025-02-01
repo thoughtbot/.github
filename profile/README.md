@@ -21,8 +21,6 @@ project with a stronger team and improved processes.
 
 [Turning experience into growth](https://feed.thoughtbot.com/link/24077/16947785/turning-experience-into-growth)
 
-[Introducing the Noisy Animals kata](https://feed.thoughtbot.com/link/24077/16946094/introducing-the-noisy-animal-kata)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
