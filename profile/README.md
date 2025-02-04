@@ -15,11 +15,15 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Connecting Deepseek to Rails plus more upcoming AI livestreams](https://feed.thoughtbot.com/link/24077/16954442/connecting-deepseek-to-rails-plus-more-upcoming-ai-livestreams)
+
+[Reasons not to refactor](https://feed.thoughtbot.com/link/24077/16954443/reasons-not-to-refactor)
+
+[This week in #dev (Jan 24, 2025)](https://feed.thoughtbot.com/link/24077/16954204/this-week-in-dev-jan-24-2025)
+
 [Things you might not need in your tests](https://feed.thoughtbot.com/link/24077/16950371/things-you-might-not-need-in-your-tests)
 
 [Build a (progressively enhanced) drawer component with Hotwire](https://feed.thoughtbot.com/link/24077/16949295/hotwire-drawer)
-
-[Turning experience into growth](https://feed.thoughtbot.com/link/24077/16947785/turning-experience-into-growth)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
@@ -27,6 +31,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[454: Workshop design with Aji Slater](https://bikeshed.thoughtbot.com/454)
+
 [559: The European Accessibility Act: Are You Ready for 2025?](https://podcast.thoughtbot.com/559)
 
 [558: Using AI to Bring Transparency to City Government with Vikram Oberoi](https://podcast.thoughtbot.com/558)
@@ -34,8 +40,6 @@ project with a stronger team and improved processes.
 [557: AI from Automation to Transformation with Andrew Rashbass](https://podcast.thoughtbot.com/557)
 
 [556: Connecting Generations with Kinsome](https://podcast.thoughtbot.com/556)
-
-[453: The Bike Shed Wrapped 2024](https://bikeshed.thoughtbot.com/453)
 
 <!-- podcasts ends -->
 </td></tr></table>
