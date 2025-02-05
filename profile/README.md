@@ -23,8 +23,6 @@ project with a stronger team and improved processes.
 
 [Things you might not need in your tests](https://feed.thoughtbot.com/link/24077/16950371/things-you-might-not-need-in-your-tests)
 
-[Build a (progressively enhanced) drawer component with Hotwire](https://feed.thoughtbot.com/link/24077/16949295/hotwire-drawer)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
