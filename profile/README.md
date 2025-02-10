@@ -15,6 +15,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[How to customize ids in URLs in your Rails app](https://feed.thoughtbot.com/link/24077/16959224/how-to-customize-ids-in-urls-in-your-rails-app)
+
 [My note-taking system gives me constant content ideas](https://feed.thoughtbot.com/link/24077/16957008/my-note-taking-system-gives-me-constant-content-ideas)
 
 [Interrogate your experience with a mindmap](https://feed.thoughtbot.com/link/24077/16956613/interrogate-your-experience-with-a-mindmap)
@@ -22,8 +24,6 @@ project with a stronger team and improved processes.
 [Connecting Deepseek to Rails plus more upcoming AI livestreams](https://feed.thoughtbot.com/link/24077/16954442/connecting-deepseek-to-rails-plus-more-upcoming-ai-livestreams)
 
 [Reasons not to refactor](https://feed.thoughtbot.com/link/24077/16954443/reasons-not-to-refactor)
-
-[This week in #dev (Jan 24, 2025)](https://feed.thoughtbot.com/link/24077/16954204/this-week-in-dev-jan-24-2025)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
