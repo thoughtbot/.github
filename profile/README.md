@@ -15,6 +15,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[NWRUG's February 2025 Meeting (20 February)](https://feed.thoughtbot.com/link/24077/16960760/nwrug-s-february-2025-meeting-20-february)
+
 [New Livestream Recording - Where can healthcare best use AI?](https://feed.thoughtbot.com/link/24077/16959977/new-livestream-recording-where-can-healthcare-best-use-ai)
 
 [How to customize ids in URLs in your Rails app](https://feed.thoughtbot.com/link/24077/16959224/how-to-customize-ids-in-urls-in-your-rails-app)
@@ -22,8 +24,6 @@ project with a stronger team and improved processes.
 [My note-taking system gives me constant content ideas](https://feed.thoughtbot.com/link/24077/16957008/my-note-taking-system-gives-me-constant-content-ideas)
 
 [Interrogate your experience with a mindmap](https://feed.thoughtbot.com/link/24077/16956613/interrogate-your-experience-with-a-mindmap)
-
-[Connecting Deepseek to Rails plus more upcoming AI livestreams](https://feed.thoughtbot.com/link/24077/16954442/connecting-deepseek-to-rails-plus-more-upcoming-ai-livestreams)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
