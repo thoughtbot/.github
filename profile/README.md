@@ -23,14 +23,14 @@ project with a stronger team and improved processes.
 
 [My note-taking system gives me constant content ideas](https://feed.thoughtbot.com/link/24077/16957008/my-note-taking-system-gives-me-constant-content-ideas)
 
-[Interrogate your experience with a mindmap](https://feed.thoughtbot.com/link/24077/16956613/interrogate-your-experience-with-a-mindmap)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[561: The One with Chad, Will, and Sami](https://podcast.thoughtbot.com/561)
+
 [560: Simplifying the Immigration Journey with Matt Gale](https://podcast.thoughtbot.com/560)
 
 [454: Workshop design with Aji Slater](https://bikeshed.thoughtbot.com/454)
@@ -38,8 +38,6 @@ project with a stronger team and improved processes.
 [559: The European Accessibility Act: Are You Ready for 2025?](https://podcast.thoughtbot.com/559)
 
 [558: Using AI to Bring Transparency to City Government with Vikram Oberoi](https://podcast.thoughtbot.com/558)
-
-[557: AI from Automation to Transformation with Andrew Rashbass](https://podcast.thoughtbot.com/557)
 
 <!-- podcasts ends -->
 </td></tr></table>
