@@ -21,8 +21,6 @@ project with a stronger team and improved processes.
 
 [How to customize ids in URLs in your Rails app](https://feed.thoughtbot.com/link/24077/16959224/how-to-customize-ids-in-urls-in-your-rails-app)
 
-[My note-taking system gives me constant content ideas](https://feed.thoughtbot.com/link/24077/16957008/my-note-taking-system-gives-me-constant-content-ideas)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
