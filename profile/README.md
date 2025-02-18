@@ -19,14 +19,14 @@ project with a stronger team and improved processes.
 
 [New Livestream Recording - Where can healthcare best use AI?](https://feed.thoughtbot.com/link/24077/16959977/new-livestream-recording-where-can-healthcare-best-use-ai)
 
-[How to customize ids in URLs in your Rails app](https://feed.thoughtbot.com/link/24077/16959224/how-to-customize-ids-in-urls-in-your-rails-app)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[455: Noisy Animals Kata with Fritz Meissner](https://bikeshed.thoughtbot.com/455)
+
 [561: The One with Chad, Will, and Sami](https://podcast.thoughtbot.com/561)
 
 [560: Simplifying the Immigration Journey with Matt Gale](https://podcast.thoughtbot.com/560)
@@ -34,8 +34,6 @@ project with a stronger team and improved processes.
 [454: Workshop design with Aji Slater](https://bikeshed.thoughtbot.com/454)
 
 [559: The European Accessibility Act: Are You Ready for 2025?](https://podcast.thoughtbot.com/559)
-
-[558: Using AI to Bring Transparency to City Government with Vikram Oberoi](https://podcast.thoughtbot.com/558)
 
 <!-- podcasts ends -->
 </td></tr></table>
