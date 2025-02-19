@@ -15,9 +15,9 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[NWRUG's February 2025 Meeting (20 February)](https://feed.thoughtbot.com/link/24077/16960760/nwrug-s-february-2025-meeting-20-february)
+[SXSW 2025: AI must-see sessions plus our local guide to hidden hangouts](https://feed.thoughtbot.com/link/24077/16965935/sxsw-2025-ai-must-see-sessions-plus-our-local-guide-to-hidden-hangouts)
 
-[New Livestream Recording - Where can healthcare best use AI?](https://feed.thoughtbot.com/link/24077/16959977/new-livestream-recording-where-can-healthcare-best-use-ai)
+[NWRUG's February 2025 Meeting (20 February)](https://feed.thoughtbot.com/link/24077/16960760/nwrug-s-february-2025-meeting-20-february)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
