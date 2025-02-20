@@ -17,14 +17,14 @@ project with a stronger team and improved processes.
 <!-- blog starts -->
 [SXSW 2025: AI must-see sessions plus our local guide to hidden hangouts](https://feed.thoughtbot.com/link/24077/16965935/sxsw-2025-ai-must-see-sessions-plus-our-local-guide-to-hidden-hangouts)
 
-[NWRUG's February 2025 Meeting (20 February)](https://feed.thoughtbot.com/link/24077/16960760/nwrug-s-february-2025-meeting-20-february)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[562: The evolution of design sprints with Dawn Delatte and Elaina Natario](https://podcast.thoughtbot.com/562)
+
 [455: Noisy Animals Kata with Fritz Meissner](https://bikeshed.thoughtbot.com/455)
 
 [561: The One with Chad, Will, and Sami](https://podcast.thoughtbot.com/561)
@@ -32,8 +32,6 @@ project with a stronger team and improved processes.
 [560: Simplifying the Immigration Journey with Matt Gale](https://podcast.thoughtbot.com/560)
 
 [454: Workshop design with Aji Slater](https://bikeshed.thoughtbot.com/454)
-
-[559: The European Accessibility Act: Are You Ready for 2025?](https://podcast.thoughtbot.com/559)
 
 <!-- podcasts ends -->
 </td></tr></table>
