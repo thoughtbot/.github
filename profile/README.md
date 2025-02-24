@@ -15,6 +15,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Diversity, equity, and inclusion are still important](https://feed.thoughtbot.com/link/24077/16969319/diversity-equity-and-inclusion-are-still-important)
+
 [SXSW 2025: AI must-see sessions plus our local guide to hidden hangouts](https://feed.thoughtbot.com/link/24077/16965935/sxsw-2025-ai-must-see-sessions-plus-our-local-guide-to-hidden-hangouts)
 
 <!-- blog ends -->
