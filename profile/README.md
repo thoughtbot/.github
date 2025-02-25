@@ -15,6 +15,10 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Scaling startups: Financial foundations & strategic product roadmap](https://feed.thoughtbot.com/link/24077/16970257/scaling-startups-financial-foundations-strategic-product-roadmap)
+
+[Zero-downtime with Rails credentials part III](https://feed.thoughtbot.com/link/24077/16970258/from-environment-variables-to-rails-credentials-part-three)
+
 [Diversity, equity, and inclusion are still important](https://feed.thoughtbot.com/link/24077/16969319/diversity-equity-and-inclusion-are-still-important)
 
 [SXSW 2025: AI must-see sessions plus our local guide to hidden hangouts](https://feed.thoughtbot.com/link/24077/16965935/sxsw-2025-ai-must-see-sessions-plus-our-local-guide-to-hidden-hangouts)
@@ -25,6 +29,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[456: Typescript with Jimmy Thigpen](https://bikeshed.thoughtbot.com/456)
+
 [562: The evolution of design sprints with Dawn Delatte and Elaina Natario](https://podcast.thoughtbot.com/562)
 
 [455: Noisy Animals Kata with Fritz Meissner](https://bikeshed.thoughtbot.com/455)
@@ -32,8 +38,6 @@ project with a stronger team and improved processes.
 [561: The One with Chad, Will, and Sami](https://podcast.thoughtbot.com/561)
 
 [560: Simplifying the Immigration Journey with Matt Gale](https://podcast.thoughtbot.com/560)
-
-[454: Workshop design with Aji Slater](https://bikeshed.thoughtbot.com/454)
 
 <!-- podcasts ends -->
 </td></tr></table>
