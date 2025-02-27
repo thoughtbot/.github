@@ -21,14 +21,14 @@ project with a stronger team and improved processes.
 
 [Diversity, equity, and inclusion are still important](https://feed.thoughtbot.com/link/24077/16969319/diversity-equity-and-inclusion-are-still-important)
 
-[SXSW 2025: AI must-see sessions plus our local guide to hidden hangouts](https://feed.thoughtbot.com/link/24077/16965935/sxsw-2025-ai-must-see-sessions-plus-our-local-guide-to-hidden-hangouts)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[563: Next-Gen Aging: The Venture Capital Perspective with James Hueston](https://podcast.thoughtbot.com/563)
+
 [456: Typescript with Jimmy Thigpen](https://bikeshed.thoughtbot.com/456)
 
 [562: The evolution of design sprints with Dawn Delatte and Elaina Natario](https://podcast.thoughtbot.com/562)
@@ -36,8 +36,6 @@ project with a stronger team and improved processes.
 [455: Noisy Animals Kata with Fritz Meissner](https://bikeshed.thoughtbot.com/455)
 
 [561: The One with Chad, Will, and Sami](https://podcast.thoughtbot.com/561)
-
-[560: Simplifying the Immigration Journey with Matt Gale](https://podcast.thoughtbot.com/560)
 
 <!-- podcasts ends -->
 </td></tr></table>
