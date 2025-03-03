@@ -15,6 +15,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Triangle of Separation](https://feed.thoughtbot.com/link/24077/16974148/triangle-of-separation)
+
 [Scaling startups: Financial foundations & strategic product roadmap](https://feed.thoughtbot.com/link/24077/16970257/scaling-startups-financial-foundations-strategic-product-roadmap)
 
 [Zero-downtime with Rails credentials part III](https://feed.thoughtbot.com/link/24077/16970258/from-environment-variables-to-rails-credentials-part-three)
