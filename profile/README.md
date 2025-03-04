@@ -15,13 +15,13 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[I’m currently talking to the machine and it’s not helpful at all](https://feed.thoughtbot.com/link/24077/16975825/i-m-currently-talking-to-the-machine-and-it-s-not-helpful-at-all)
+
 [Triangle of Separation](https://feed.thoughtbot.com/link/24077/16974148/triangle-of-separation)
 
 [Scaling startups: Financial foundations & strategic product roadmap](https://feed.thoughtbot.com/link/24077/16970257/scaling-startups-financial-foundations-strategic-product-roadmap)
 
 [Zero-downtime with Rails credentials part III](https://feed.thoughtbot.com/link/24077/16970258/from-environment-variables-to-rails-credentials-part-three)
-
-[Diversity, equity, and inclusion are still important](https://feed.thoughtbot.com/link/24077/16969319/diversity-equity-and-inclusion-are-still-important)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
