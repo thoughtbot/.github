@@ -15,6 +15,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Our podcasts are now available on YouTube](https://feed.thoughtbot.com/link/24077/16977309/our-podcasts-are-now-available-on-youtube)
+
 [Seeds...of Destruction! 🌱 ➡️ 💥](https://feed.thoughtbot.com/link/24077/16976565/seeds-of-destruction)
 
 [I’m currently talking to the machine and it’s not helpful at all](https://feed.thoughtbot.com/link/24077/16975825/i-m-currently-talking-to-the-machine-and-it-s-not-helpful-at-all)
@@ -27,6 +29,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[564: Making humans more valuable, not less with Andrei Oprisan](https://podcast.thoughtbot.com/564)
+
 [563: Next-Gen Aging: The Venture Capital Perspective with James Hueston](https://podcast.thoughtbot.com/563)
 
 [456: Typescript with Jimmy Thigpen](https://bikeshed.thoughtbot.com/456)
@@ -34,8 +38,6 @@ project with a stronger team and improved processes.
 [562: The evolution of design sprints with Dawn Delatte and Elaina Natario](https://podcast.thoughtbot.com/562)
 
 [455: Noisy Animals Kata with Fritz Meissner](https://bikeshed.thoughtbot.com/455)
-
-[561: The One with Chad, Will, and Sami](https://podcast.thoughtbot.com/561)
 
 <!-- podcasts ends -->
 </td></tr></table>
