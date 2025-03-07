@@ -15,6 +15,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[This week in #dev (Feb 21, 2025)](https://feed.thoughtbot.com/link/24077/16978560/this-week-in-dev-feb-21-2025)
+
 [Our podcasts are now available on YouTube](https://feed.thoughtbot.com/link/24077/16977309/our-podcasts-are-now-available-on-youtube)
 
 [Seeds...of Destruction! 🌱 ➡️ 💥](https://feed.thoughtbot.com/link/24077/16976565/seeds-of-destruction)
