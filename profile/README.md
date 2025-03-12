@@ -15,6 +15,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[What UK companies need to know about the European Accessibility Act (EAA)](https://feed.thoughtbot.com/link/24077/16981549/what-uk-companies-need-to-know-about-the-european-accessibility-act-eaa)
+
 [How to use ngrok and Ollama to access a local LLM remotely](https://feed.thoughtbot.com/link/24077/16980822/ngrok-and-ollama)
 
 [This week in #dev (Feb 21, 2025)](https://feed.thoughtbot.com/link/24077/16978560/this-week-in-dev-feb-21-2025)
@@ -22,8 +24,6 @@ project with a stronger team and improved processes.
 [Our podcasts are now available on YouTube](https://feed.thoughtbot.com/link/24077/16977309/our-podcasts-are-now-available-on-youtube)
 
 [Seeds...of Destruction! 🌱 ➡️ 💥](https://feed.thoughtbot.com/link/24077/16976565/seeds-of-destruction)
-
-[I’m currently talking to the machine and it’s not helpful at all](https://feed.thoughtbot.com/link/24077/16975825/i-m-currently-talking-to-the-machine-and-it-s-not-helpful-at-all)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
