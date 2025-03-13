@@ -15,6 +15,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Hotwire and That Syncing Feeling](https://feed.thoughtbot.com/link/24077/16982272/hotwire-and-that-syncing-feeling)
+
 [What UK companies need to know about the European Accessibility Act (EAA)](https://feed.thoughtbot.com/link/24077/16981549/what-uk-companies-need-to-know-about-the-european-accessibility-act-eaa)
 
 [How to use ngrok and Ollama to access a local LLM remotely](https://feed.thoughtbot.com/link/24077/16980822/ngrok-and-ollama)
@@ -23,14 +25,14 @@ project with a stronger team and improved processes.
 
 [Our podcasts are now available on YouTube](https://feed.thoughtbot.com/link/24077/16977309/our-podcasts-are-now-available-on-youtube)
 
-[Seeds...of Destruction! 🌱 ➡️ 💥](https://feed.thoughtbot.com/link/24077/16976565/seeds-of-destruction)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[565: Coding Journeys with Will and Sami](https://podcast.thoughtbot.com/565)
+
 [564: Making humans more valuable, not less with Andrei Oprisan](https://podcast.thoughtbot.com/564)
 
 [563: Next-Gen Aging: The Venture Capital Perspective with James Hueston](https://podcast.thoughtbot.com/563)
@@ -38,8 +40,6 @@ project with a stronger team and improved processes.
 [456: Typescript with Jimmy Thigpen](https://bikeshed.thoughtbot.com/456)
 
 [562: The evolution of design sprints with Dawn Delatte and Elaina Natario](https://podcast.thoughtbot.com/562)
-
-[455: Noisy Animals Kata with Fritz Meissner](https://bikeshed.thoughtbot.com/455)
 
 <!-- podcasts ends -->
 </td></tr></table>
