@@ -23,8 +23,6 @@ project with a stronger team and improved processes.
 
 [This week in #dev (Feb 21, 2025)](https://feed.thoughtbot.com/link/24077/16978560/this-week-in-dev-feb-21-2025)
 
-[Our podcasts are now available on YouTube](https://feed.thoughtbot.com/link/24077/16977309/our-podcasts-are-now-available-on-youtube)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
