@@ -15,13 +15,13 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Finding the opposite of what you have with rails invert_where](https://feed.thoughtbot.com/link/24077/16983574/finding-the-opposite-of-what-you-have-with-rails-invert_where)
+
 [Hotwire and That Syncing Feeling](https://feed.thoughtbot.com/link/24077/16982272/hotwire-and-that-syncing-feeling)
 
 [What UK companies need to know about the European Accessibility Act (EAA)](https://feed.thoughtbot.com/link/24077/16981549/what-uk-companies-need-to-know-about-the-european-accessibility-act-eaa)
 
 [How to use ngrok and Ollama to access a local LLM remotely](https://feed.thoughtbot.com/link/24077/16980822/ngrok-and-ollama)
-
-[This week in #dev (Feb 21, 2025)](https://feed.thoughtbot.com/link/24077/16978560/this-week-in-dev-feb-21-2025)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
