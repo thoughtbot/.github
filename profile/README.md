@@ -15,6 +15,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[How AI can streamline code reviews](https://feed.thoughtbot.com/link/24077/16984642/how-ai-can-streamline-code-reviews)
+
 [Finding the opposite of what you have with rails invert_where](https://feed.thoughtbot.com/link/24077/16983574/finding-the-opposite-of-what-you-have-with-rails-invert_where)
 
 [Hotwire and That Syncing Feeling](https://feed.thoughtbot.com/link/24077/16982272/hotwire-and-that-syncing-feeling)
