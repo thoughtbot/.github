@@ -15,6 +15,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[How we use AI to accelerate our MVPs](https://feed.thoughtbot.com/link/24077/16987587/how-we-use-ai-to-accelerate-our-mvps)
+
 [Safe dynamic object access in TypeScript](https://feed.thoughtbot.com/link/24077/16986735/safe-dynamic-object-access-in-typescript)
 
 [ActiveRecord query log tags for GraphQL](https://feed.thoughtbot.com/link/24077/16985371/activerecord-query-log-tags-for-graphql)
@@ -23,14 +25,14 @@ project with a stronger team and improved processes.
 
 [Finding the opposite of what you have with rails invert_where](https://feed.thoughtbot.com/link/24077/16983574/finding-the-opposite-of-what-you-have-with-rails-invert_where)
 
-[Hotwire and That Syncing Feeling](https://feed.thoughtbot.com/link/24077/16982272/hotwire-and-that-syncing-feeling)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[566: Staying Grounded and Product Innovation with Tanu Chellam ](https://podcast.thoughtbot.com/566)
+
 [457: Time Zones with Sally Hall](https://bikeshed.thoughtbot.com/457)
 
 [565: Coding Journeys with Will and Sami](https://podcast.thoughtbot.com/565)
@@ -38,8 +40,6 @@ project with a stronger team and improved processes.
 [564: Making humans more valuable, not less with Andrei Oprisan](https://podcast.thoughtbot.com/564)
 
 [563: Next-Gen Aging: The Venture Capital Perspective with James Hueston](https://podcast.thoughtbot.com/563)
-
-[456: Typescript with Jimmy Thigpen](https://bikeshed.thoughtbot.com/456)
 
 <!-- podcasts ends -->
 </td></tr></table>
