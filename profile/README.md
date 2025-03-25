@@ -15,6 +15,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Using the Presenter Pattern in Ruby on Rails](https://feed.thoughtbot.com/link/24077/16990932/using-the-presenter-pattern-in-ruby-on-rails)
+
 [content_for -- What is it good_for?](https://feed.thoughtbot.com/link/24077/16990127/content-for-what-is-it-good-for)
 
 [thoughtbot is pausing activity on X and Meta](https://feed.thoughtbot.com/link/24077/16988633/thoughtbot-is-pausing-activity-on-x-and-meta)
@@ -22,8 +24,6 @@ project with a stronger team and improved processes.
 [Giant Robots, Giant Changes: Season 15 Gets Personal](https://feed.thoughtbot.com/link/24077/16988634/giant-robots-giant-changes-season-15-gets-personal)
 
 [How we use AI to accelerate our MVPs](https://feed.thoughtbot.com/link/24077/16987587/how-we-use-ai-to-accelerate-our-mvps)
-
-[Safe dynamic object access in TypeScript](https://feed.thoughtbot.com/link/24077/16986735/safe-dynamic-object-access-in-typescript)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
