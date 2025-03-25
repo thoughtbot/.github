@@ -1,8 +1,7 @@
 ## Welcome to thoughtbot on GitHub!
 
 [thoughtbot][1] is your expert partner for [product design and development][2].
-We bring digital products from idea to success and teach you how because we
-care.
+We help our clients lead the way with better products, faster teams, and stronger growth.
 
 thoughtbot is a global consultancy renowned for our community contributions and
 client outcomes. We use an agile, human-centered strategy for web and mobile
