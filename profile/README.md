@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Reasoning by Analogy](https://feed.thoughtbot.com/link/24077/16992441/reasoning-by-analogy)
+
 [thoughtbot x ProductCon 2025](https://feed.thoughtbot.com/link/24077/16991691/thoughtbot-x-productcon-2025)
 
 [Using the Presenter Pattern in Ruby on Rails](https://feed.thoughtbot.com/link/24077/16990932/using-the-presenter-pattern-in-ruby-on-rails)
@@ -22,14 +24,14 @@ project with a stronger team and improved processes.
 
 [thoughtbot is pausing activity on X and Meta](https://feed.thoughtbot.com/link/24077/16988633/thoughtbot-is-pausing-activity-on-x-and-meta)
 
-[Giant Robots, Giant Changes: Season 15 Gets Personal](https://feed.thoughtbot.com/link/24077/16988634/giant-robots-giant-changes-season-15-gets-personal)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[567: The Future of Digital Health: Where Are We Headed with Steven Wardell](https://podcast.thoughtbot.com/567)
+
 [566: Staying Grounded and Product Innovation with Tanu Chellam ](https://podcast.thoughtbot.com/566)
 
 [457: Time Zones with Sally Hall](https://bikeshed.thoughtbot.com/457)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [565: Coding Journeys with Will and Sami](https://podcast.thoughtbot.com/565)
 
 [564: Making humans more valuable, not less with Andrei Oprisan](https://podcast.thoughtbot.com/564)
-
-[563: Next-Gen Aging: The Venture Capital Perspective with James Hueston](https://podcast.thoughtbot.com/563)
 
 <!-- podcasts ends -->
 </td></tr></table>
