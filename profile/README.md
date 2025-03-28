@@ -14,15 +14,15 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[How transparency helps us navigate during calm and chaos](https://feed.thoughtbot.com/link/24077/16993200/how-transparency-helps-us-navigate-during-calm-and-chaos)
+
+[Ruby on Rails agency in London](https://feed.thoughtbot.com/link/24077/16993201/ruby-on-rails-agency-in-london)
+
 [Reasoning by Analogy](https://feed.thoughtbot.com/link/24077/16992441/reasoning-by-analogy)
 
 [thoughtbot x ProductCon 2025](https://feed.thoughtbot.com/link/24077/16991691/thoughtbot-x-productcon-2025)
 
 [Using the Presenter Pattern in Ruby on Rails](https://feed.thoughtbot.com/link/24077/16990932/using-the-presenter-pattern-in-ruby-on-rails)
-
-[content_for -- What is it good_for?](https://feed.thoughtbot.com/link/24077/16990127/content-for-what-is-it-good-for)
-
-[thoughtbot is pausing activity on X and Meta](https://feed.thoughtbot.com/link/24077/16988633/thoughtbot-is-pausing-activity-on-x-and-meta)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
