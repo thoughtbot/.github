@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[How fast can an ActiveRecord SQL query run?](https://feed.thoughtbot.com/link/24077/16995265/how-fast-can-an-activerecord-sql-query-run)
+
 [How transparency helps us navigate during calm and chaos](https://feed.thoughtbot.com/link/24077/16993200/how-transparency-helps-us-navigate-during-calm-and-chaos)
 
 [Ruby on Rails agency in London](https://feed.thoughtbot.com/link/24077/16993201/ruby-on-rails-agency-in-london)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [Reasoning by Analogy](https://feed.thoughtbot.com/link/24077/16992441/reasoning-by-analogy)
 
 [thoughtbot x ProductCon 2025](https://feed.thoughtbot.com/link/24077/16991691/thoughtbot-x-productcon-2025)
-
-[Using the Presenter Pattern in Ruby on Rails](https://feed.thoughtbot.com/link/24077/16990932/using-the-presenter-pattern-in-ruby-on-rails)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
