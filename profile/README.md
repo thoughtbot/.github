@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Rails 8’s Propshaft, A Sprockets’ quiet replacement?](https://feed.thoughtbot.com/link/24077/16998667/rails-8-s-propshaft-a-sprockets-quiet-replacement)
+
 [Giant Robots Ep 568: What does Carbon even mean? With Polly and Otto from True](https://feed.thoughtbot.com/link/24077/16998026/giant-robots-ep-568-what-does-carbon-even-mean-with-polly-and-otto-from-true)
 
 [Falsehoods software teams believe about user feedback](https://feed.thoughtbot.com/link/24077/16997653/falsehoods-software-teams-believe-about-user-feedback)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [🎙️ Introducing AI for Business, a new blog series](https://feed.thoughtbot.com/link/24077/16996775/introducing-ai-for-business-a-new-blog-series)
 
 [Giant Robots Ep 567: The future of digital health: Where are we headed with Steven Wardell](https://feed.thoughtbot.com/link/24077/16996062/giant-robots-ep-567-the-future-of-digital-health-where-are-we-headed-with-steven-wardell)
-
-[Should I hire an agency to develop my MVP or build my own team?](https://feed.thoughtbot.com/link/24077/16996063/should-i-hire-my-own-team-or-an-agency-for-my-mvp)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
