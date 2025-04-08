@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Going beyond AI prototyping: Lessons from SXSW](https://feed.thoughtbot.com/link/24077/17000999/going-beyond-ai-prototyping-lessons-from-sxsw)
+
 [Avoiding N+1 queries the Railsy way with strict loading](https://feed.thoughtbot.com/link/24077/17000238/strict-loading-in-rails-8-a-railsy-way-to-avoid-n-1-queries)
 
 [Designing better organizations enabled by AI: Lessons from SXSW](https://feed.thoughtbot.com/link/24077/16999784/designing-better-organizations-enabled-by-ai-lessons-from-sxsw)
@@ -22,14 +24,14 @@ project with a stronger team and improved processes.
 
 [Giant Robots Ep 568: What does Carbon even mean? With Polly and Otto from True](https://feed.thoughtbot.com/link/24077/16998026/giant-robots-ep-568-what-does-carbon-even-mean-with-polly-and-otto-from-true)
 
-[Falsehoods software teams believe about user feedback](https://feed.thoughtbot.com/link/24077/16997653/falsehoods-software-teams-believe-about-user-feedback)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[458: Learning Typescript with Aji Slater](https://bikeshed.thoughtbot.com/458)
+
 [568: What does Carbon even mean? With Polly and Otto from True](https://podcast.thoughtbot.com/568)
 
 [567: The Future of Digital Health: Where Are We Headed with Steven Wardell](https://podcast.thoughtbot.com/567)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [566: Staying Grounded and Product Innovation with Tanu Chellam ](https://podcast.thoughtbot.com/566)
 
 [457: Time Zones with Sally Hall](https://bikeshed.thoughtbot.com/457)
-
-[565: Coding Journeys with Will and Sami](https://podcast.thoughtbot.com/565)
 
 <!-- podcasts ends -->
 </td></tr></table>
