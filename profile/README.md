@@ -14,15 +14,15 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[AI for Business: A history of Artificial Intelligence](https://feed.thoughtbot.com/link/24077/17001833/a-history-of-artificial-intelligence)
+
+[My key takeaways from the All Things Open.AI conference](https://feed.thoughtbot.com/link/24077/17001834/my-key-takeaways-from-the-all-things-open-ai-conference)
+
 [Going beyond AI prototyping: Lessons from SXSW](https://feed.thoughtbot.com/link/24077/17000999/going-beyond-ai-prototyping-lessons-from-sxsw)
 
 [Avoiding N+1 queries the Railsy way with strict loading](https://feed.thoughtbot.com/link/24077/17000238/strict-loading-in-rails-8-a-railsy-way-to-avoid-n-1-queries)
 
 [Designing better organizations enabled by AI: Lessons from SXSW](https://feed.thoughtbot.com/link/24077/16999784/designing-better-organizations-enabled-by-ai-lessons-from-sxsw)
-
-[Rails 8’s Propshaft, A Sprockets’ quiet replacement?](https://feed.thoughtbot.com/link/24077/16998667/rails-8-s-propshaft-a-sprockets-quiet-replacement)
-
-[Giant Robots Ep 568: What does Carbon even mean? With Polly and Otto from True](https://feed.thoughtbot.com/link/24077/16998026/giant-robots-ep-568-what-does-carbon-even-mean-with-polly-and-otto-from-true)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
