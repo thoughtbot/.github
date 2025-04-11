@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Ruby Strings: DnD Alignment chart](https://feed.thoughtbot.com/link/24077/17003585/ruby-strings-dnd-alignment-chart)
+
 [How to respect OpenAI's rate limits in Rails](https://feed.thoughtbot.com/link/24077/17002600/openai-rate-limits)
 
 [AI for Business: A history of Artificial Intelligence](https://feed.thoughtbot.com/link/24077/17001833/a-history-of-artificial-intelligence)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [My key takeaways from the All Things Open.AI conference](https://feed.thoughtbot.com/link/24077/17001834/my-key-takeaways-from-the-all-things-open-ai-conference)
 
 [Going beyond AI prototyping: Lessons from SXSW](https://feed.thoughtbot.com/link/24077/17000999/going-beyond-ai-prototyping-lessons-from-sxsw)
-
-[Avoiding N+1 queries the Railsy way with strict loading](https://feed.thoughtbot.com/link/24077/17000238/strict-loading-in-rails-8-a-railsy-way-to-avoid-n-1-queries)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
