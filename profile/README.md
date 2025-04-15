@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[5 things to avoid when hiring your MVP team](https://feed.thoughtbot.com/link/24077/17006187/5-things-to-avoid-when-hiring-your-mvp-team)
+
 [Tools and resources our designers are using right now](https://feed.thoughtbot.com/link/24077/17005377/tools-and-resources-our-designers-are-using-right-now)
 
 [Ruby Strings: DnD Alignment chart](https://feed.thoughtbot.com/link/24077/17003585/ruby-strings-dnd-alignment-chart)
@@ -22,14 +24,14 @@ project with a stronger team and improved processes.
 
 [AI for Business: A history of Artificial Intelligence](https://feed.thoughtbot.com/link/24077/17001833/a-history-of-artificial-intelligence)
 
-[My key takeaways from the All Things Open.AI conference](https://feed.thoughtbot.com/link/24077/17001834/my-key-takeaways-from-the-all-things-open-ai-conference)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[459: Paper Data Structures with Sally Hall](https://bikeshed.thoughtbot.com/459)
+
 [569: Automation is king with Karen King](https://podcast.thoughtbot.com/569)
 
 [458: Learning Typescript with Aji Slater](https://bikeshed.thoughtbot.com/458)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [568: What does Carbon even mean? With Polly and Otto from True](https://podcast.thoughtbot.com/568)
 
 [567: The Future of Digital Health: Where Are We Headed with Steven Wardell](https://podcast.thoughtbot.com/567)
-
-[566: Staying Grounded and Product Innovation with Tanu Chellam ](https://podcast.thoughtbot.com/566)
 
 <!-- podcasts ends -->
 </td></tr></table>
