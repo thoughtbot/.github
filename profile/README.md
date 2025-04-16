@@ -14,15 +14,15 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[AI for Business: How to harness AI](https://feed.thoughtbot.com/link/24077/17007047/digital-transformation-how-to-harness-ai)
+
 [5 things to avoid when hiring your MVP team](https://feed.thoughtbot.com/link/24077/17006187/5-things-to-avoid-when-hiring-your-mvp-team)
 
 [Tools and resources our designers are using right now](https://feed.thoughtbot.com/link/24077/17005377/tools-and-resources-our-designers-are-using-right-now)
 
 [Ruby Strings: DnD Alignment chart](https://feed.thoughtbot.com/link/24077/17003585/ruby-strings-dnd-alignment-chart)
 
-[How to respect OpenAI's rate limits in Rails](https://feed.thoughtbot.com/link/24077/17002600/openai-rate-limits)
-
-[AI for Business: A history of Artificial Intelligence](https://feed.thoughtbot.com/link/24077/17001833/a-history-of-artificial-intelligence)
+[Giant Robots Ep 569: Automation is king with Karen King](https://feed.thoughtbot.com/link/24077/17006856/giant-robots-ep-569-automation-is-king-with-karen-king)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
