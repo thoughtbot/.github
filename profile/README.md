@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Making the case for Rails monoliths over microservices](https://feed.thoughtbot.com/link/24077/17011189/making-the-case-for-monoliths-over-microservices)
+
 [Comparing development AI tools](https://feed.thoughtbot.com/link/24077/17009590/ai-tools-overview)
 
 [Giant Robots Ep 570: Rolling for Initiative with Chad, Will and Sami](https://feed.thoughtbot.com/link/24077/17008944/giant-robots-ep-570-rolling-for-initiative-with-chad-will-and-sami)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [Faster feedback loops with Rails Runner](https://feed.thoughtbot.com/link/24077/17008677/rails-runner)
 
 [AI for Business: How to harness AI](https://feed.thoughtbot.com/link/24077/17007047/digital-transformation-how-to-harness-ai)
-
-[The Bike Shed Ep 459: Paper Data Structures with Sally Hall](https://feed.thoughtbot.com/link/24077/17008357/the-bike-shed-ep-459-paper-data-structures-with-sally-hall)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
