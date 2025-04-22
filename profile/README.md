@@ -14,15 +14,15 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[The Bike Shed Ep 460: Programer Productivity with Valerie Burzynski](https://feed.thoughtbot.com/link/24077/17012141/the-bike-shed-ep-460-programer-productivity-with-valerie-burzynski)
+
+[Between immutability and memoization, you might have to choose](https://feed.thoughtbot.com/link/24077/17011872/between-immutability-and-memoization-you-might-have-to-choose)
+
 [Making the case for Rails monoliths over microservices](https://feed.thoughtbot.com/link/24077/17011189/making-the-case-for-monoliths-over-microservices)
 
 [Comparing development AI tools](https://feed.thoughtbot.com/link/24077/17009590/ai-tools-overview)
 
 [Giant Robots Ep 570: Rolling for Initiative with Chad, Will and Sami](https://feed.thoughtbot.com/link/24077/17008944/giant-robots-ep-570-rolling-for-initiative-with-chad-will-and-sami)
-
-[Faster feedback loops with Rails Runner](https://feed.thoughtbot.com/link/24077/17008677/rails-runner)
-
-[AI for Business: How to harness AI](https://feed.thoughtbot.com/link/24077/17007047/digital-transformation-how-to-harness-ai)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
@@ -30,6 +30,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[460: Programer Productivity with Valerie Burzynski](https://bikeshed.thoughtbot.com/460)
+
 [570: Rolling for Initiative with Chad, Will and Sami](https://podcast.thoughtbot.com/570)
 
 [459: Paper Data Structures with Sally Hall](https://bikeshed.thoughtbot.com/459)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [569: Automation is king with Karen King](https://podcast.thoughtbot.com/569)
 
 [458: Learning Typescript with Aji Slater](https://bikeshed.thoughtbot.com/458)
-
-[568: What does Carbon even mean? With Polly and Otto from True](https://podcast.thoughtbot.com/568)
 
 <!-- podcasts ends -->
 </td></tr></table>
