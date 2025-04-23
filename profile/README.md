@@ -14,15 +14,15 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[AI for Business: AI and automation](https://feed.thoughtbot.com/link/24077/17012688/automation-and-ai)
+
+[How to build and scale high-performing engineering teams - virtual event](https://feed.thoughtbot.com/link/24077/17012386/how-to-build-and-scale-high-performing-engineering-teams-virtual-event)
+
 [The Bike Shed Ep 460: Programer Productivity with Valerie Burzynski](https://feed.thoughtbot.com/link/24077/17012141/the-bike-shed-ep-460-programer-productivity-with-valerie-burzynski)
 
 [Between immutability and memoization, you might have to choose](https://feed.thoughtbot.com/link/24077/17011872/between-immutability-and-memoization-you-might-have-to-choose)
 
 [Making the case for Rails monoliths over microservices](https://feed.thoughtbot.com/link/24077/17011189/making-the-case-for-monoliths-over-microservices)
-
-[Comparing development AI tools](https://feed.thoughtbot.com/link/24077/17009590/ai-tools-overview)
-
-[Giant Robots Ep 570: Rolling for Initiative with Chad, Will and Sami](https://feed.thoughtbot.com/link/24077/17008944/giant-robots-ep-570-rolling-for-initiative-with-chad-will-and-sami)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
