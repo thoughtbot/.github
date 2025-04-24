@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[AI in Focus: Connecting DeepSeek to Rails](https://feed.thoughtbot.com/link/24077/17013534/ai-in-focus:connecting-deepseek-to-rails)
+
 [AI for Business: AI and automation](https://feed.thoughtbot.com/link/24077/17012688/automation-and-ai)
 
 [How to build and scale high-performing engineering teams - virtual event](https://feed.thoughtbot.com/link/24077/17012386/how-to-build-and-scale-high-performing-engineering-teams-virtual-event)
@@ -22,14 +24,14 @@ project with a stronger team and improved processes.
 
 [Between immutability and memoization, you might have to choose](https://feed.thoughtbot.com/link/24077/17011872/between-immutability-and-memoization-you-might-have-to-choose)
 
-[Making the case for Rails monoliths over microservices](https://feed.thoughtbot.com/link/24077/17011189/making-the-case-for-monoliths-over-microservices)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[571: Space, Software, and Surprises with Rémy Hannequin](https://podcast.thoughtbot.com/571)
+
 [460: Programer Productivity with Valerie Burzynski](https://bikeshed.thoughtbot.com/460)
 
 [570: Rolling for Initiative with Chad, Will and Sami](https://podcast.thoughtbot.com/570)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [459: Paper Data Structures with Sally Hall](https://bikeshed.thoughtbot.com/459)
 
 [569: Automation is king with Karen King](https://podcast.thoughtbot.com/569)
-
-[458: Learning Typescript with Aji Slater](https://bikeshed.thoughtbot.com/458)
 
 <!-- podcasts ends -->
 </td></tr></table>
