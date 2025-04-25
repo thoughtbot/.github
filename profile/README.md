@@ -14,15 +14,15 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Don't Steal a Penguin -- A Guide to Rails Flashes](https://feed.thoughtbot.com/link/24077/17014294/rails-flashes-guide)
+
+[Giant Robots Ep 571: Space, Software, and Surprises with Rémy Hannequin](https://feed.thoughtbot.com/link/24077/17014590/giant-robots-ep-571-space-software-and-surprises-with-remy-hannequin)
+
 [AI in Focus: Connecting DeepSeek to Rails](https://feed.thoughtbot.com/link/24077/17013534/ai-in-focus:connecting-deepseek-to-rails)
 
 [AI for Business: AI and automation](https://feed.thoughtbot.com/link/24077/17012688/automation-and-ai)
 
 [How to build and scale high-performing engineering teams - virtual event](https://feed.thoughtbot.com/link/24077/17012386/how-to-build-and-scale-high-performing-engineering-teams-virtual-event)
-
-[The Bike Shed Ep 460: Programer Productivity with Valerie Burzynski](https://feed.thoughtbot.com/link/24077/17012141/the-bike-shed-ep-460-programer-productivity-with-valerie-burzynski)
-
-[Between immutability and memoization, you might have to choose](https://feed.thoughtbot.com/link/24077/17011872/between-immutability-and-memoization-you-might-have-to-choose)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
