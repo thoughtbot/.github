@@ -14,15 +14,15 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[The rise of the intelligent marketplace: lessons learned from thoughtbot clients](https://feed.thoughtbot.com/link/24077/17018041/the-rise-of-the-intelligent-marketplace-lessons-learned-from-thoughtbot-clients)
+
+[The meaning of work in an AI world](https://feed.thoughtbot.com/link/24077/17018042/the-meaning-of-work-in-an-ai-world)
+
 [Sorting elegantly in Rails with in_order_of](https://feed.thoughtbot.com/link/24077/17017077/sorting-elegantly-in-rails-with-in_order_of)
 
 [Learn what you can, then move on](https://feed.thoughtbot.com/link/24077/17017078/learn-what-you-can-then-move-on)
 
 [Don't Steal a Penguin -- A Guide to Rails Flashes](https://feed.thoughtbot.com/link/24077/17014294/rails-flashes-guide)
-
-[Giant Robots Ep 571: Space, Software, and Surprises with Rémy Hannequin](https://feed.thoughtbot.com/link/24077/17014590/giant-robots-ep-571-space-software-and-surprises-with-remy-hannequin)
-
-[AI in Focus: Connecting DeepSeek to Rails](https://feed.thoughtbot.com/link/24077/17013534/ai-in-focus:connecting-deepseek-to-rails)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
@@ -30,6 +30,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[461: Writing new vs existing code with Sara Jackson](https://bikeshed.thoughtbot.com/461)
+
 [571: Space, Software, and Surprises with Rémy Hannequin](https://podcast.thoughtbot.com/571)
 
 [460: Programer Productivity with Valerie Burzynski](https://bikeshed.thoughtbot.com/460)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [570: Rolling for Initiative with Chad, Will and Sami](https://podcast.thoughtbot.com/570)
 
 [459: Paper Data Structures with Sally Hall](https://bikeshed.thoughtbot.com/459)
-
-[569: Automation is king with Karen King](https://podcast.thoughtbot.com/569)
 
 <!-- podcasts ends -->
 </td></tr></table>
