@@ -14,15 +14,15 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[AI for Business: AI and cognitive insight](https://feed.thoughtbot.com/link/24077/17018799/ai-and-cognitive-insight)
+
+[The Bike Shed Ep 461: Writing new vs existing code with Sara Jackson](https://feed.thoughtbot.com/link/24077/17019039/the-bike-shed-ep-461-writing-new-vs-existing-code-with-sara-jackson)
+
 [The rise of the intelligent marketplace: lessons learned from thoughtbot clients](https://feed.thoughtbot.com/link/24077/17018041/the-rise-of-the-intelligent-marketplace-lessons-learned-from-thoughtbot-clients)
 
 [The meaning of work in an AI world](https://feed.thoughtbot.com/link/24077/17018042/the-meaning-of-work-in-an-ai-world)
 
 [Sorting elegantly in Rails with in_order_of](https://feed.thoughtbot.com/link/24077/17017077/sorting-elegantly-in-rails-with-in_order_of)
-
-[Learn what you can, then move on](https://feed.thoughtbot.com/link/24077/17017078/learn-what-you-can-then-move-on)
-
-[Don't Steal a Penguin -- A Guide to Rails Flashes](https://feed.thoughtbot.com/link/24077/17014294/rails-flashes-guide)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
