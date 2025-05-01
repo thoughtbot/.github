@@ -14,15 +14,15 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Giant Robots Ep 572: Close To Your Customers with Sarah Merlin](https://feed.thoughtbot.com/link/24077/17019794/giant-robots-ep-572-close-to-your-customers-with-sarah-merlin)
+
+[Why React Native is a strong option for a mobile MVP](https://feed.thoughtbot.com/link/24077/17019601/why-react-native-is-the-best-choice-for-a-mobile-mvp)
+
 [AI for Business: AI and cognitive insight](https://feed.thoughtbot.com/link/24077/17018799/ai-and-cognitive-insight)
 
 [The Bike Shed Ep 461: Writing new vs existing code with Sara Jackson](https://feed.thoughtbot.com/link/24077/17019039/the-bike-shed-ep-461-writing-new-vs-existing-code-with-sara-jackson)
 
 [The rise of the intelligent marketplace: lessons learned from thoughtbot clients](https://feed.thoughtbot.com/link/24077/17018041/the-rise-of-the-intelligent-marketplace-lessons-learned-from-thoughtbot-clients)
-
-[The meaning of work in an AI world](https://feed.thoughtbot.com/link/24077/17018042/the-meaning-of-work-in-an-ai-world)
-
-[Sorting elegantly in Rails with in_order_of](https://feed.thoughtbot.com/link/24077/17017077/sorting-elegantly-in-rails-with-in_order_of)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
@@ -30,6 +30,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[572: Close To Your Customers with Sarah Merlin](https://podcast.thoughtbot.com/572)
+
 [461: Writing new vs existing code with Sara Jackson](https://bikeshed.thoughtbot.com/461)
 
 [571: Space, Software, and Surprises with Rémy Hannequin](https://podcast.thoughtbot.com/571)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [460: Programer Productivity with Valerie Burzynski](https://bikeshed.thoughtbot.com/460)
 
 [570: Rolling for Initiative with Chad, Will and Sami](https://podcast.thoughtbot.com/570)
-
-[459: Paper Data Structures with Sally Hall](https://bikeshed.thoughtbot.com/459)
 
 <!-- podcasts ends -->
 </td></tr></table>
