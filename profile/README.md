@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Common mistakes founders make when building an MVP (and how to avoid them)](https://feed.thoughtbot.com/link/24077/17021812/common-mistakes-founders-make-when-building-an-mvp-and-how-to-avoid-them)
+
 [Ofcom’s Protection of Children Codes - Happy Birthday to me 🎂](https://feed.thoughtbot.com/link/24077/17020617/ofcom-s-protection-of-children-codes-happy-birthday-to-me)
 
 [Design’s strategic value is alive and well: More lessons from SXSW](https://feed.thoughtbot.com/link/24077/17020363/design-s-strategic-value-is-alive-and-well-more-lessons-from-sxsw)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [Giant Robots Ep 572: Close To Your Customers with Sarah Merlin](https://feed.thoughtbot.com/link/24077/17019794/giant-robots-ep-572-close-to-your-customers-with-sarah-merlin)
 
 [Why React Native is a strong option for a mobile MVP](https://feed.thoughtbot.com/link/24077/17019601/why-react-native-is-the-best-choice-for-a-mobile-mvp)
-
-[AI for Business: AI and cognitive insight](https://feed.thoughtbot.com/link/24077/17018799/ai-and-cognitive-insight)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
