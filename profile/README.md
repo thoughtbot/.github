@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[AI for Business: AI and cognitive engagement](https://feed.thoughtbot.com/link/24077/17023390/ai-and-cognitive-engagement)
+
 [Top 5 product mistakes we see in AgeTech (and how to avoid them)](https://feed.thoughtbot.com/link/24077/17022612/top-5-product-mistakes-we-see-in-agetech-and-how-to-avoid-them)
 
 [Developing a voice AI app in Rails for drive-through ordering](https://feed.thoughtbot.com/link/24077/17022613/developing-a-voice-ai-app-in-rails-for-drive-through-ordering)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [Common mistakes founders make when building an MVP (and how to avoid them)](https://feed.thoughtbot.com/link/24077/17021812/common-mistakes-founders-make-when-building-an-mvp-and-how-to-avoid-them)
 
 [Ofcom’s Protection of Children Codes - Happy Birthday to me 🎂](https://feed.thoughtbot.com/link/24077/17020617/ofcom-s-protection-of-children-codes-happy-birthday-to-me)
-
-[Design’s strategic value is alive and well: More lessons from SXSW](https://feed.thoughtbot.com/link/24077/17020363/design-s-strategic-value-is-alive-and-well-more-lessons-from-sxsw)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
