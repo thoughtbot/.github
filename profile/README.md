@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Top 5 Ruby on Rails Consultancies in 2025](https://feed.thoughtbot.com/link/24077/17028540/top-5-ruby-on-rails-consultancies-in-2025)
+
 [Moving from a Rails Monolith to Microservices: Things to Consider Before You Regret It](https://feed.thoughtbot.com/link/24077/17026514/moving-from-a-rails-monolith-to-microservices-things-to-consider-before-you-regret-it)
 
 [Giant Robots Ep 573: Mocking the Future: Tom Akehurst on WireMock and API Testing](https://feed.thoughtbot.com/link/24077/17025899/giant-robots-ep-573-mocking-the-future-tom-akehurst-on-wiremock-and-api-testing)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [Developer Essentials: How to Complete a Task](https://feed.thoughtbot.com/link/24077/17025657/developer-essentials-how-to-complete-a-task)
 
 [AI for Business: AI and cognitive engagement](https://feed.thoughtbot.com/link/24077/17023390/ai-and-cognitive-engagement)
-
-[Top 5 product mistakes we see in AgeTech (and how to avoid them)](https://feed.thoughtbot.com/link/24077/17022612/top-5-product-mistakes-we-see-in-agetech-and-how-to-avoid-them)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
