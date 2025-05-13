@@ -14,15 +14,15 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Product vs Project Management: what's the difference?](https://feed.thoughtbot.com/link/24077/17029286/product-vs-project-management-what-s-the-difference)
+
+[NWRUG's (Manchester, UK) May 2025 Meeting — Rails AntiPatterns Revisited](https://feed.thoughtbot.com/link/24077/17028909/nwrug-s-may-2025-meeting-rails-antipatterns-revisited)
+
 [Top 5 Ruby on Rails Consultancies in 2025](https://feed.thoughtbot.com/link/24077/17028540/top-5-ruby-on-rails-consultancies-in-2025)
 
 [Moving from a Rails Monolith to Microservices: Things to Consider Before You Regret It](https://feed.thoughtbot.com/link/24077/17026514/moving-from-a-rails-monolith-to-microservices-things-to-consider-before-you-regret-it)
 
 [Giant Robots Ep 573: Mocking the Future: Tom Akehurst on WireMock and API Testing](https://feed.thoughtbot.com/link/24077/17025899/giant-robots-ep-573-mocking-the-future-tom-akehurst-on-wiremock-and-api-testing)
-
-[Developer Essentials: How to Complete a Task](https://feed.thoughtbot.com/link/24077/17025657/developer-essentials-how-to-complete-a-task)
-
-[AI for Business: AI and cognitive engagement](https://feed.thoughtbot.com/link/24077/17023390/ai-and-cognitive-engagement)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
@@ -30,6 +30,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[463: All about modals with Elaina Natario](https://bikeshed.thoughtbot.com/463)
+
 [573: Mocking the Future: Tom Akehurst on WireMock and API Testing](https://podcast.thoughtbot.com/573)
 
 [462: Decomposition as a key developer skill with Steve Polito](https://bikeshed.thoughtbot.com/462)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [572: Close To Your Customers with Sarah Merlin](https://podcast.thoughtbot.com/572)
 
 [461: Writing new vs existing code with Sara Jackson](https://bikeshed.thoughtbot.com/461)
-
-[571: Space, Software, and Surprises with Rémy Hannequin](https://podcast.thoughtbot.com/571)
 
 <!-- podcasts ends -->
 </td></tr></table>
