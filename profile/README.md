@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[AI for business: Evolution V revolution](https://feed.thoughtbot.com/link/24077/17030299/ai-for-business-evolution-v-revolution)
+
 [Product vs Project Management: what's the difference?](https://feed.thoughtbot.com/link/24077/17029286/product-vs-project-management-what-s-the-difference)
 
 [NWRUG's (Manchester, UK) May 2025 Meeting — Rails AntiPatterns Revisited](https://feed.thoughtbot.com/link/24077/17028909/nwrug-s-may-2025-meeting-rails-antipatterns-revisited)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [Top 5 Ruby on Rails Consultancies in 2025](https://feed.thoughtbot.com/link/24077/17028540/top-5-ruby-on-rails-consultancies-in-2025)
 
 [Moving from a Rails Monolith to Microservices: Things to Consider Before You Regret It](https://feed.thoughtbot.com/link/24077/17026514/moving-from-a-rails-monolith-to-microservices-things-to-consider-before-you-regret-it)
-
-[Giant Robots Ep 573: Mocking the Future: Tom Akehurst on WireMock and API Testing](https://feed.thoughtbot.com/link/24077/17025899/giant-robots-ep-573-mocking-the-future-tom-akehurst-on-wiremock-and-api-testing)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
