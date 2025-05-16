@@ -14,15 +14,15 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[When to build an in-house engineering team and when to hire an agency](https://feed.thoughtbot.com/link/24077/17031820/when-to-build-an-in-house-engineering-team-and-when-to-hire-an-agency)
+
 [From idea to impact: The role of rapid prototyping in AgeTech](https://feed.thoughtbot.com/link/24077/17031043/from-idea-to-impact-the-role-of-rapid-prototyping-in-agetech)
 
 [AI-led or Human-led Coding? We have to choose.](https://feed.thoughtbot.com/link/24077/17031044/ai-led-or-human-led-coding-you-decide)
 
-[AI for business: Evolution V revolution](https://feed.thoughtbot.com/link/24077/17030299/ai-for-business-evolution-v-revolution)
+[AI for Business: Evolution V revolution](https://feed.thoughtbot.com/link/24077/17030299/ai-for-business-evolution-v-revolution)
 
 [Product vs Project Management: what's the difference?](https://feed.thoughtbot.com/link/24077/17029286/product-vs-project-management-what-s-the-difference)
-
-[NWRUG's (Manchester, UK) May 2025 Meeting — Rails AntiPatterns Revisited](https://feed.thoughtbot.com/link/24077/17028909/nwrug-s-may-2025-meeting-rails-antipatterns-revisited)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
