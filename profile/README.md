@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[How to get composite keys to play with Rails view helpers](https://feed.thoughtbot.com/link/24077/17033331/how-to-get-composite-keys-to-play-with-rails-view-helpers)
+
 [When to build an in-house engineering team and when to hire an agency](https://feed.thoughtbot.com/link/24077/17031820/when-to-build-an-in-house-engineering-team-and-when-to-hire-an-agency)
 
 [From idea to impact: The role of rapid prototyping in AgeTech](https://feed.thoughtbot.com/link/24077/17031043/from-idea-to-impact-the-role-of-rapid-prototyping-in-agetech)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [AI-led or Human-led Coding? We have to choose.](https://feed.thoughtbot.com/link/24077/17031044/ai-led-or-human-led-coding-you-decide)
 
 [AI for Business: Evolution V revolution](https://feed.thoughtbot.com/link/24077/17030299/ai-for-business-evolution-v-revolution)
-
-[Product vs Project Management: what's the difference?](https://feed.thoughtbot.com/link/24077/17029286/product-vs-project-management-what-s-the-difference)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
