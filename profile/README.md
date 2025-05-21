@@ -14,15 +14,15 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[thoughtbot at Helvetic Ruby 2025](https://feed.thoughtbot.com/link/24077/17034907/thoughtbot-at-helvetic-ruby-2025)
+
+[AI for Business: Adoption challenges - people](https://feed.thoughtbot.com/link/24077/17034908/ai-for-business-adoption-challenges-people)
+
 [You don't need a CTO for that – meet your Fractional Tech Lead](https://feed.thoughtbot.com/link/24077/17034178/you-don-t-need-a-cto-for-that-meet-your-fractional-tech-lead)
 
 [How to get composite keys to play with Rails view helpers](https://feed.thoughtbot.com/link/24077/17033331/how-to-get-composite-keys-to-play-with-rails-view-helpers)
 
 [When to build an in-house engineering team and when to hire an agency](https://feed.thoughtbot.com/link/24077/17031820/when-to-build-an-in-house-engineering-team-and-when-to-hire-an-agency)
-
-[From idea to impact: The role of rapid prototyping in AgeTech](https://feed.thoughtbot.com/link/24077/17031043/from-idea-to-impact-the-role-of-rapid-prototyping-in-agetech)
-
-[AI-led or Human-led Coding? We have to choose.](https://feed.thoughtbot.com/link/24077/17031044/ai-led-or-human-led-coding-you-decide)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
