@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[The art of writing meaningful Git commit messages](https://feed.thoughtbot.com/link/24077/17035563/the-art-of-writing-meaningful-git-commit-messages)
+
 [thoughtbot at Helvetic Ruby 2025](https://feed.thoughtbot.com/link/24077/17034907/thoughtbot-at-helvetic-ruby-2025)
 
 [AI for Business: Adoption challenges - people](https://feed.thoughtbot.com/link/24077/17034908/ai-for-business-adoption-challenges-people)
@@ -22,14 +24,14 @@ project with a stronger team and improved processes.
 
 [How to get composite keys to play with Rails view helpers](https://feed.thoughtbot.com/link/24077/17033331/how-to-get-composite-keys-to-play-with-rails-view-helpers)
 
-[When to build an in-house engineering team and when to hire an agency](https://feed.thoughtbot.com/link/24077/17031820/when-to-build-an-in-house-engineering-team-and-when-to-hire-an-agency)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[575: I might have to get dressed for these with Chad, Sami and Will](https://podcast.thoughtbot.com/575)
+
 [464: Modelling the stars with Rémy Hannequin](https://bikeshed.thoughtbot.com/464)
 
 [574: Developer Life After Design Systems with Kathryn Grayson Nanz](https://podcast.thoughtbot.com/574)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [463: All about modals with Elaina Natario](https://bikeshed.thoughtbot.com/463)
 
 [573: Mocking the Future: Tom Akehurst on WireMock and API Testing](https://podcast.thoughtbot.com/573)
-
-[462: Decomposition as a key developer skill with Steve Polito](https://bikeshed.thoughtbot.com/462)
 
 <!-- podcasts ends -->
 </td></tr></table>
