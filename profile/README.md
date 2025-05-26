@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Theme-Based Iterations](https://feed.thoughtbot.com/link/24077/17037859/theme-based-iterations)
+
 [From dev to design: How fractional support flexes to fit your team](https://feed.thoughtbot.com/link/24077/17036362/from-dev-to-design-how-fractional-support-flexes-to-fit-your-team)
 
 [Giant Robots Ep 575: I might have to get dressed for these with Chad, Sami and Will](https://feed.thoughtbot.com/link/24077/17035999/giant-robots-ep-575-i-might-have-to-get-dressed-for-these-with-chad-sami-and-will)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [The art of writing meaningful Git commit messages](https://feed.thoughtbot.com/link/24077/17035563/the-art-of-writing-meaningful-git-commit-messages)
 
 [thoughtbot at Helvetic Ruby 2025](https://feed.thoughtbot.com/link/24077/17034907/thoughtbot-at-helvetic-ruby-2025)
-
-[AI for Business: Adoption challenges - people](https://feed.thoughtbot.com/link/24077/17034908/ai-for-business-adoption-challenges-people)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
