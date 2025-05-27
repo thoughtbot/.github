@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Let Rails Help You](https://feed.thoughtbot.com/link/24077/17038618/let-rails-help-you)
+
 [Theme-Based Iterations](https://feed.thoughtbot.com/link/24077/17037859/theme-based-iterations)
 
 [From dev to design: How fractional support flexes to fit your team](https://feed.thoughtbot.com/link/24077/17036362/from-dev-to-design-how-fractional-support-flexes-to-fit-your-team)
@@ -22,14 +24,14 @@ project with a stronger team and improved processes.
 
 [The art of writing meaningful Git commit messages](https://feed.thoughtbot.com/link/24077/17035563/the-art-of-writing-meaningful-git-commit-messages)
 
-[thoughtbot at Helvetic Ruby 2025](https://feed.thoughtbot.com/link/24077/17034907/thoughtbot-at-helvetic-ruby-2025)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[465: What is quality software with Elaina Natario](https://bikeshed.thoughtbot.com/465)
+
 [575: I might have to get dressed for these with Chad, Sami and Will](https://podcast.thoughtbot.com/575)
 
 [464: Modelling the stars with Rémy Hannequin](https://bikeshed.thoughtbot.com/464)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [574: Developer Life After Design Systems with Kathryn Grayson Nanz](https://podcast.thoughtbot.com/574)
 
 [463: All about modals with Elaina Natario](https://bikeshed.thoughtbot.com/463)
-
-[573: Mocking the Future: Tom Akehurst on WireMock and API Testing](https://podcast.thoughtbot.com/573)
 
 <!-- podcasts ends -->
 </td></tr></table>
