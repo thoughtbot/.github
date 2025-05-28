@@ -4,6 +4,10 @@ require "feedjira"
 
 require "feed_item"
 
+class Feedjira::Parser::AtomEntry
+  element "thoughtbot:auto_social_share", as: :auto_social_share
+end
+
 class RssFeed
   include Enumerable
 
@@ -12,7 +16,7 @@ class RssFeed
   end
 
   def each
-    feed.entries.each do |entry|
+    feed.entries.reject { it.auto_social_share == "false" }.each do |entry|
       yield FeedItem.new(
         id: entry.id,
         title: entry.title,

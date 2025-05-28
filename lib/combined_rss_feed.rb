@@ -1,5 +1,9 @@
 require "rss_feed"
 
+class Feedjira::Parser::ITunesRSSItem
+  element "thoughtbot:auto_social_share", as: :auto_social_share
+end
+
 class CombinedRssFeed
   include Enumerable
 
