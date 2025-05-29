@@ -14,15 +14,15 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Giant Robots Ep 576: I never get bored with John Nunemaker](https://feed.thoughtbot.com/link/24077/17040604/giant-robots-ep-576-i-never-get-bored-with-john-nunemaker)
+
+[Still doing Product yourself? This is why your startup’s stalling](https://feed.thoughtbot.com/link/24077/17040369/still-doing-product-yourself-this-is-why-your-startup-s-stalling)
+
 [AI for Business: Adoption challenges - legal, societal and ethical considerations](https://feed.thoughtbot.com/link/24077/17039434/ai-for-business-adoption-challenges-legal-societal-and-ethical-considerations)
 
+[The Bike Shed Ep 465: What is quality software with Elaina Natario](https://feed.thoughtbot.com/link/24077/17040287/the-bike-shed-ep-465-what-is-quality-software-with-elaina-natario)
+
 [Let Rails Help You](https://feed.thoughtbot.com/link/24077/17038618/let-rails-help-you)
-
-[Theme-Based Iterations](https://feed.thoughtbot.com/link/24077/17037859/theme-based-iterations)
-
-[From dev to design: How fractional support flexes to fit your team](https://feed.thoughtbot.com/link/24077/17036362/from-dev-to-design-how-fractional-support-flexes-to-fit-your-team)
-
-[Giant Robots Ep 575: I might have to get dressed for these with Chad, Sami and Will](https://feed.thoughtbot.com/link/24077/17035999/giant-robots-ep-575-i-might-have-to-get-dressed-for-these-with-chad-sami-and-will)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
@@ -30,6 +30,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[576: I never get bored with John Nunemaker](https://podcast.thoughtbot.com/576)
+
 [465: What is quality software with Elaina Natario](https://bikeshed.thoughtbot.com/465)
 
 [575: I might have to get dressed for these with Chad, Sami and Will](https://podcast.thoughtbot.com/575)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [464: Modelling the stars with Rémy Hannequin](https://bikeshed.thoughtbot.com/464)
 
 [574: Developer Life After Design Systems with Kathryn Grayson Nanz](https://podcast.thoughtbot.com/574)
-
-[463: All about modals with Elaina Natario](https://bikeshed.thoughtbot.com/463)
 
 <!-- podcasts ends -->
 </td></tr></table>
