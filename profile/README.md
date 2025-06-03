@@ -14,15 +14,15 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[AI meets AgeTech: Where predictive care and digital companions are headed](https://feed.thoughtbot.com/link/24077/17043710/ai-meets-agetech-where-predictive-care-and-digital-companions-are-headed)
+
+[Learning Terraform - A hands-on, open source contribution](https://feed.thoughtbot.com/link/24077/17043711/learning-terraform-a-hands-on-open-source-contribution)
+
 [Do you really know how to ORDER BY?](https://feed.thoughtbot.com/link/24077/17042791/do-you-really-know-how-to-order-by)
 
 [This week in #dev (May 16, 2025)](https://feed.thoughtbot.com/link/24077/17041172/this-week-in-dev-may-16-2025)
 
 [Still doing Product yourself? This is why your startup’s stalling](https://feed.thoughtbot.com/link/24077/17040369/still-doing-product-yourself-this-is-why-your-startup-s-stalling)
-
-[AI for Business: Adoption challenges - legal, societal and ethical considerations](https://feed.thoughtbot.com/link/24077/17039434/ai-for-business-adoption-challenges-legal-societal-and-ethical-considerations)
-
-[Let Rails Help You](https://feed.thoughtbot.com/link/24077/17038618/let-rails-help-you)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
