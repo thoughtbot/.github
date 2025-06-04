@@ -14,15 +14,15 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Designing for an aging population: Unlocking market opportunities through user research](https://feed.thoughtbot.com/link/24077/17044367/designing-for-the-aging-population-unlocking-market-opportunities-through-user-research)
+
+[AI for Business: Implementation strategy](https://feed.thoughtbot.com/link/24077/17044368/ai-for-business-implementation-strategy)
+
 [AI meets AgeTech: Where predictive care and digital companions are headed](https://feed.thoughtbot.com/link/24077/17043710/ai-meets-agetech-where-predictive-care-and-digital-companions-are-headed)
 
 [Learning Terraform - A hands-on, open source contribution](https://feed.thoughtbot.com/link/24077/17043711/learning-terraform-a-hands-on-open-source-contribution)
 
 [Do you really know how to ORDER BY?](https://feed.thoughtbot.com/link/24077/17042791/do-you-really-know-how-to-order-by)
-
-[This week in #dev (May 16, 2025)](https://feed.thoughtbot.com/link/24077/17041172/this-week-in-dev-may-16-2025)
-
-[Still doing Product yourself? This is why your startup’s stalling](https://feed.thoughtbot.com/link/24077/17040369/still-doing-product-yourself-this-is-why-your-startup-s-stalling)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
