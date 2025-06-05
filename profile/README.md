@@ -14,15 +14,15 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Building Strong Rails Teams: Join our hiring roundtable](https://feed.thoughtbot.com/link/24077/17045063/building-strong-rails-teams-join-our-hiring-roundtable)
+
+[Watch where you walk by planning experiments](https://feed.thoughtbot.com/link/24077/17045064/watch-where-you-walk-by-planning-experiments)
+
 [Designing for an aging population: Unlocking market opportunities through user research](https://feed.thoughtbot.com/link/24077/17044367/designing-for-the-aging-population-unlocking-market-opportunities-through-user-research)
 
 [AI for Business: Implementation strategy](https://feed.thoughtbot.com/link/24077/17044368/ai-for-business-implementation-strategy)
 
 [AI meets AgeTech: Where predictive care and digital companions are headed](https://feed.thoughtbot.com/link/24077/17043710/ai-meets-agetech-where-predictive-care-and-digital-companions-are-headed)
-
-[Learning Terraform - A hands-on, open source contribution](https://feed.thoughtbot.com/link/24077/17043711/learning-terraform-a-hands-on-open-source-contribution)
-
-[Do you really know how to ORDER BY?](https://feed.thoughtbot.com/link/24077/17042791/do-you-really-know-how-to-order-by)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
@@ -30,6 +30,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[577: Driving Innovation: Jack Burrows on Cars, Tech, and the Future of Carwow](https://podcast.thoughtbot.com/577)
+
 [576: I never get bored with John Nunemaker](https://podcast.thoughtbot.com/576)
 
 [465: What is quality software with Elaina Natario](https://bikeshed.thoughtbot.com/465)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [575: I might have to get dressed for these with Chad, Sami and Will](https://podcast.thoughtbot.com/575)
 
 [464: Modelling the stars with Rémy Hannequin](https://bikeshed.thoughtbot.com/464)
-
-[574: Developer Life After Design Systems with Kathryn Grayson Nanz](https://podcast.thoughtbot.com/574)
 
 <!-- podcasts ends -->
 </td></tr></table>
