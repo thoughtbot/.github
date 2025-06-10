@@ -14,15 +14,15 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Prevent logging sensitive information in Rails, and beyond](https://feed.thoughtbot.com/link/24077/17048177/parameter-filtering)
+
+[Building a Rails Feature with AI and Active Job](https://feed.thoughtbot.com/link/24077/17048127/ai-in-focus:building-a-rails-feature-with-ai-and-active-job)
+
 [6 key insights from Dublin Tech Summit 2025](https://feed.thoughtbot.com/link/24077/17046380/6-key-insights-from-dublin-tech-summit-2025)
 
 [Building Strong Rails Teams: Join our hiring roundtable](https://feed.thoughtbot.com/link/24077/17045063/building-strong-rails-teams-join-our-hiring-roundtable)
 
 [Watch where you walk by planning experiments](https://feed.thoughtbot.com/link/24077/17045064/watch-where-you-walk-by-planning-experiments)
-
-[Designing for an aging population: Unlocking market opportunities through user research](https://feed.thoughtbot.com/link/24077/17044367/designing-for-the-aging-population-unlocking-market-opportunities-through-user-research)
-
-[AI for Business: Implementation strategy](https://feed.thoughtbot.com/link/24077/17044368/ai-for-business-implementation-strategy)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
