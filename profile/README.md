@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[I just want to click the button](https://feed.thoughtbot.com/link/24077/17049071/i-just-want-to-click-the-button)
+
 [Prevent logging sensitive information in Rails, and beyond](https://feed.thoughtbot.com/link/24077/17048177/parameter-filtering)
 
 [Building a Rails Feature with AI and Active Job](https://feed.thoughtbot.com/link/24077/17048127/ai-in-focus:building-a-rails-feature-with-ai-and-active-job)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [6 key insights from Dublin Tech Summit 2025](https://feed.thoughtbot.com/link/24077/17046380/6-key-insights-from-dublin-tech-summit-2025)
 
 [Building Strong Rails Teams: Join our hiring roundtable](https://feed.thoughtbot.com/link/24077/17045063/building-strong-rails-teams-join-our-hiring-roundtable)
-
-[Watch where you walk by planning experiments](https://feed.thoughtbot.com/link/24077/17045064/watch-where-you-walk-by-planning-experiments)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
