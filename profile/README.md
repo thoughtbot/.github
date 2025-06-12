@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Can AI rebuild a Rails page in Next.js? We tried it](https://feed.thoughtbot.com/link/24077/17049771/can-ai-rebuild-a-rails-page-in-next-js-we-tried-it)
+
 [I just want to click the button](https://feed.thoughtbot.com/link/24077/17049071/i-just-want-to-click-the-button)
 
 [Prevent logging sensitive information in Rails, and beyond](https://feed.thoughtbot.com/link/24077/17048177/parameter-filtering)
@@ -22,14 +24,14 @@ project with a stronger team and improved processes.
 
 [6 key insights from Dublin Tech Summit 2025](https://feed.thoughtbot.com/link/24077/17046380/6-key-insights-from-dublin-tech-summit-2025)
 
-[Building Strong Rails Teams: Join our hiring roundtable](https://feed.thoughtbot.com/link/24077/17045063/building-strong-rails-teams-join-our-hiring-roundtable)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[578: We need to understand how it works with Luisa Herrmann](https://podcast.thoughtbot.com/578)
+
 [577: Driving Innovation: Jack Burrows on Cars, Tech, and the Future of Carwow](https://podcast.thoughtbot.com/577)
 
 [576: I never get bored with John Nunemaker](https://podcast.thoughtbot.com/576)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [465: What is quality software with Elaina Natario](https://bikeshed.thoughtbot.com/465)
 
 [575: I might have to get dressed for these with Chad, Sami and Will](https://podcast.thoughtbot.com/575)
-
-[464: Modelling the stars with Rémy Hannequin](https://bikeshed.thoughtbot.com/464)
 
 <!-- podcasts ends -->
 </td></tr></table>
