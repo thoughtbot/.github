@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Meet thoughtbot at Brighton Ruby 2025](https://feed.thoughtbot.com/link/24077/17050966/meet-thoughtbot-at-brighton-ruby-2025)
+
 [Can AI rebuild a Rails page in Next.js? We tried it](https://feed.thoughtbot.com/link/24077/17049771/can-ai-rebuild-a-rails-page-in-next-js-we-tried-it)
 
 [I just want to click the button](https://feed.thoughtbot.com/link/24077/17049071/i-just-want-to-click-the-button)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [Prevent logging sensitive information in Rails, and beyond](https://feed.thoughtbot.com/link/24077/17048177/parameter-filtering)
 
 [Building a Rails Feature with AI and Active Job](https://feed.thoughtbot.com/link/24077/17048127/ai-in-focus:building-a-rails-feature-with-ai-and-active-job)
-
-[6 key insights from Dublin Tech Summit 2025](https://feed.thoughtbot.com/link/24077/17046380/6-key-insights-from-dublin-tech-summit-2025)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
