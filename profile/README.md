@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Why AgeTech is the next frontier for innovation](https://feed.thoughtbot.com/link/24077/17053249/why-agetech-is-the-next-frontier-for-innovation)
+
 [Meet thoughtbot at Brighton Ruby 2025](https://feed.thoughtbot.com/link/24077/17050966/meet-thoughtbot-at-brighton-ruby-2025)
 
 [Can AI rebuild a Rails page in Next.js? We tried it](https://feed.thoughtbot.com/link/24077/17049771/can-ai-rebuild-a-rails-page-in-next-js-we-tried-it)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [I just want to click the button](https://feed.thoughtbot.com/link/24077/17049071/i-just-want-to-click-the-button)
 
 [Prevent logging sensitive information in Rails, and beyond](https://feed.thoughtbot.com/link/24077/17048177/parameter-filtering)
-
-[Building a Rails Feature with AI and Active Job](https://feed.thoughtbot.com/link/24077/17048127/ai-in-focus:building-a-rails-feature-with-ai-and-active-job)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
