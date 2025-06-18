@@ -22,8 +22,6 @@ project with a stronger team and improved processes.
 
 [I just want to click the button](https://feed.thoughtbot.com/link/24077/17049071/i-just-want-to-click-the-button)
 
-[Prevent logging sensitive information in Rails, and beyond](https://feed.thoughtbot.com/link/24077/17048177/parameter-filtering)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
