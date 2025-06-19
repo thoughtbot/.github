@@ -14,13 +14,13 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Introducing thoughtbot’s refreshed and more flexible logo](https://feed.thoughtbot.com/link/24077/17059279/introducing-thoughtbot-s-refreshed-and-more-flexible-logo)
+
 [Why AgeTech is the next frontier for innovation](https://feed.thoughtbot.com/link/24077/17053249/why-agetech-is-the-next-frontier-for-innovation)
 
 [Meet thoughtbot at Brighton Ruby 2025](https://feed.thoughtbot.com/link/24077/17050966/meet-thoughtbot-at-brighton-ruby-2025)
 
 [Can AI rebuild a Rails page in Next.js? We tried it](https://feed.thoughtbot.com/link/24077/17049771/can-ai-rebuild-a-rails-page-in-next-js-we-tried-it)
-
-[I just want to click the button](https://feed.thoughtbot.com/link/24077/17049071/i-just-want-to-click-the-button)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
@@ -28,6 +28,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[579: Products you don't want to build with Sami and Chad](https://podcast.thoughtbot.com/579)
+
 [578: We need to understand how it works with Luisa Herrmann](https://podcast.thoughtbot.com/578)
 
 [577: Driving Innovation: Jack Burrows on Cars, Tech, and the Future of Carwow](https://podcast.thoughtbot.com/577)
@@ -35,8 +37,6 @@ project with a stronger team and improved processes.
 [576: I never get bored with John Nunemaker](https://podcast.thoughtbot.com/576)
 
 [465: What is quality software with Elaina Natario](https://bikeshed.thoughtbot.com/465)
-
-[575: I might have to get dressed for these with Chad, Sami and Will](https://podcast.thoughtbot.com/575)
 
 <!-- podcasts ends -->
 </td></tr></table>
