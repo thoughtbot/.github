@@ -20,8 +20,6 @@ project with a stronger team and improved processes.
 
 [Meet thoughtbot at Brighton Ruby 2025](https://feed.thoughtbot.com/link/24077/17050966/meet-thoughtbot-at-brighton-ruby-2025)
 
-[Can AI rebuild a Rails page in Next.js? We tried it](https://feed.thoughtbot.com/link/24077/17049771/can-ai-rebuild-a-rails-page-in-next-js-we-tried-it)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
