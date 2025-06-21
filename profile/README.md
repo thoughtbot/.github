@@ -18,8 +18,6 @@ project with a stronger team and improved processes.
 
 [Why AgeTech is the next frontier for innovation](https://feed.thoughtbot.com/link/24077/17053249/why-agetech-is-the-next-frontier-for-innovation)
 
-[Meet thoughtbot at Brighton Ruby 2025](https://feed.thoughtbot.com/link/24077/17050966/meet-thoughtbot-at-brighton-ruby-2025)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
