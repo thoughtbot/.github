@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[When AI doesn't help!](https://feed.thoughtbot.com/link/24077/17061412/when-ai-doesn-t-help)
+
 [Introducing thoughtbot’s refreshed and more flexible logo](https://feed.thoughtbot.com/link/24077/17059279/introducing-thoughtbot-s-refreshed-and-more-flexible-logo)
 
 [Why AgeTech is the next frontier for innovation](https://feed.thoughtbot.com/link/24077/17053249/why-agetech-is-the-next-frontier-for-innovation)
