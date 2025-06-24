@@ -18,8 +18,6 @@ project with a stronger team and improved processes.
 
 [Introducing thoughtbot’s refreshed and more flexible logo](https://feed.thoughtbot.com/link/24077/17059279/introducing-thoughtbot-s-refreshed-and-more-flexible-logo)
 
-[Why AgeTech is the next frontier for innovation](https://feed.thoughtbot.com/link/24077/17053249/why-agetech-is-the-next-frontier-for-innovation)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
