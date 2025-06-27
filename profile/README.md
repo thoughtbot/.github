@@ -18,14 +18,14 @@ project with a stronger team and improved processes.
 
 [When AI doesn't help!](https://feed.thoughtbot.com/link/24077/17061412/when-ai-doesn-t-help)
 
-[Introducing thoughtbot’s refreshed and more flexible logo](https://feed.thoughtbot.com/link/24077/17059279/introducing-thoughtbot-s-refreshed-and-more-flexible-logo)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[580: Taking the complexity out of toddler's nutrition with Kay Lim](https://podcast.thoughtbot.com/580)
+
 [466: All about keynotes with Aji Slater](https://bikeshed.thoughtbot.com/466)
 
 [579: Products you don't want to build with Sami and Chad](https://podcast.thoughtbot.com/579)
@@ -33,8 +33,6 @@ project with a stronger team and improved processes.
 [578: We need to understand how it works with Luisa Herrmann](https://podcast.thoughtbot.com/578)
 
 [577: Driving Innovation: Jack Burrows on Cars, Tech, and the Future of Carwow](https://podcast.thoughtbot.com/577)
-
-[576: I never get bored with John Nunemaker](https://podcast.thoughtbot.com/576)
 
 <!-- podcasts ends -->
 </td></tr></table>
