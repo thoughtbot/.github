@@ -14,7 +14,6 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[Cybersecurity Basics: We're Cyber Essentials Recertified in 2025 (How You Can Do It Too)](https://feed.thoughtbot.com/link/24077/17062959/cybersecurity-basics-we-re-cyber-essentials-recertified-in-2025-here-s-how-you-can-do-it-too)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
@@ -22,6 +21,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[581: Crafting Community & Code: Henrique Cardoso on Euruko 2025 & BSPK](https://podcast.thoughtbot.com/581)
+
 [467: How to get the most out of attending a conference with Matheus Richard](https://bikeshed.thoughtbot.com/467)
 
 [580: Taking the complexity out of toddler's nutrition with Kay Lim](https://podcast.thoughtbot.com/580)
@@ -29,8 +30,6 @@ project with a stronger team and improved processes.
 [466: All about keynotes with Aji Slater](https://bikeshed.thoughtbot.com/466)
 
 [579: Products you don't want to build with Sami and Chad](https://podcast.thoughtbot.com/579)
-
-[578: We need to understand how it works with Luisa Herrmann](https://podcast.thoughtbot.com/578)
 
 <!-- podcasts ends -->
 </td></tr></table>
