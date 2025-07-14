@@ -14,6 +14,7 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Enough unix to get by](https://feed.thoughtbot.com/link/24077/17092396/enough-unix-to-get-by)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
