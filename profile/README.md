@@ -14,13 +14,13 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Staying agile in regulated industries: how to stay compliant while moving fast](https://feed.thoughtbot.com/link/24077/17102093/agile-in-regulated-industries-how-to-stay-compliant-while-moving-fast)
+
 [AI in Focus: Refactoring Rails with AI tools](https://feed.thoughtbot.com/link/24077/17101384/ai-in-focus:refactoring-rails)
 
 [From Rails to JavaScript: A spectrum of integration options](https://feed.thoughtbot.com/link/24077/17100566/from-rails-to-javascript-a-spectrum-of-integration-options)
 
 [The hard truth about soft deletion](https://feed.thoughtbot.com/link/24077/17094078/the-hard-truth-about-soft-deletion)
-
-[A thread-safety gotcha with CurrentAttributes](https://feed.thoughtbot.com/link/24077/17094046/a-thread-safety-gotcha-with-currentattributes)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
