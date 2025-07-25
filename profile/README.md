@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[What to put in an investor pitch deck (especially for first-time founders)](https://feed.thoughtbot.com/link/24077/17103398/what-to-put-in-an-investor-pitch-deck-especially-if-it-s-your-first-time)
+
 [Staying agile in regulated industries: how to stay compliant while moving fast](https://feed.thoughtbot.com/link/24077/17102093/agile-in-regulated-industries-how-to-stay-compliant-while-moving-fast)
 
 [AI in Focus: Refactoring Rails with AI tools](https://feed.thoughtbot.com/link/24077/17101384/ai-in-focus:refactoring-rails)
