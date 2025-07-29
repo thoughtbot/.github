@@ -20,8 +20,6 @@ project with a stronger team and improved processes.
 
 [AI in Focus: Refactoring Rails with AI tools](https://feed.thoughtbot.com/link/24077/17101384/ai-in-focus:refactoring-rails)
 
-[From Rails to JavaScript: A spectrum of integration options](https://feed.thoughtbot.com/link/24077/17100566/from-rails-to-javascript-a-spectrum-of-integration-options)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
