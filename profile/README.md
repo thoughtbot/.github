@@ -18,8 +18,6 @@ project with a stronger team and improved processes.
 
 [Staying agile in regulated industries: how to stay compliant while moving fast](https://feed.thoughtbot.com/link/24077/17102093/agile-in-regulated-industries-how-to-stay-compliant-while-moving-fast)
 
-[AI in Focus: Refactoring Rails with AI tools](https://feed.thoughtbot.com/link/24077/17101384/ai-in-focus:refactoring-rails)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
