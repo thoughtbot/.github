@@ -16,14 +16,14 @@ project with a stronger team and improved processes.
 <!-- blog starts -->
 [What to put in an investor pitch deck (especially for first-time founders)](https://feed.thoughtbot.com/link/24077/17103398/what-to-put-in-an-investor-pitch-deck-especially-if-it-s-your-first-time)
 
-[Staying agile in regulated industries: how to stay compliant while moving fast](https://feed.thoughtbot.com/link/24077/17102093/agile-in-regulated-industries-how-to-stay-compliant-while-moving-fast)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[585: Teachable Moments](https://podcast.thoughtbot.com/585)
+
 [584: When AI Meets Healthcare and Buddhism with Jan Kroschinski](https://podcast.thoughtbot.com/584)
 
 [468: RailsConf Recap with Tess Griffin](https://bikeshed.thoughtbot.com/468)
@@ -31,8 +31,6 @@ project with a stronger team and improved processes.
 [583: Solid Queue with Rosa Gutierrez from 37Signals](https://podcast.thoughtbot.com/583)
 
 [582: Product market fit is the hardest thing with Jon Gamble](https://podcast.thoughtbot.com/582)
-
-[581: Crafting Community & Code: Henrique Cardoso on Euruko 2025 & BSPK](https://podcast.thoughtbot.com/581)
 
 <!-- podcasts ends -->
 </td></tr></table>
