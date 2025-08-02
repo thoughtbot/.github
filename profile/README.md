@@ -14,7 +14,7 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[What to put in an investor pitch deck (especially for first-time founders)](https://feed.thoughtbot.com/link/24077/17103398/what-to-put-in-an-investor-pitch-deck-especially-if-it-s-your-first-time)
+[This week in #dev (Jul 25, 2025)](https://feed.thoughtbot.com/link/24077/17109891/this-week-in-dev-jul-25-2025)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
