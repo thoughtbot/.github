@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[What you see may not be what you get](https://feed.thoughtbot.com/link/24077/17112120/what-you-see-may-not-be-what-you-get)
+
 [Tools for AI assisted Software development](https://feed.thoughtbot.com/link/24077/17110913/tools-for-ai-assisted-software-development)
 
 [This week in #dev (Jul 25, 2025)](https://feed.thoughtbot.com/link/24077/17109891/this-week-in-dev-jul-25-2025)
