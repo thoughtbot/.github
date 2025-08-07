@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[A few thoughtbot memories from the final RailsConf](https://feed.thoughtbot.com/link/24077/17112711/a-few-thoughtbot-memories-from-the-final-railsconf)
+
 [What you see may not be what you get](https://feed.thoughtbot.com/link/24077/17112120/what-you-see-may-not-be-what-you-get)
 
 [Tools for AI assisted Software development](https://feed.thoughtbot.com/link/24077/17110913/tools-for-ai-assisted-software-development)
@@ -26,6 +28,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[586: What is your self-age? with Leanne Clark-Shirley](https://podcast.thoughtbot.com/586)
+
 [585: Teachable Moments](https://podcast.thoughtbot.com/585)
 
 [584: When AI Meets Healthcare and Buddhism with Jan Kroschinski](https://podcast.thoughtbot.com/584)
@@ -33,8 +37,6 @@ project with a stronger team and improved processes.
 [468: RailsConf Recap with Tess Griffin](https://bikeshed.thoughtbot.com/468)
 
 [583: Solid Queue with Rosa Gutierrez from 37Signals](https://podcast.thoughtbot.com/583)
-
-[582: Product market fit is the hardest thing with Jon Gamble](https://podcast.thoughtbot.com/582)
 
 <!-- podcasts ends -->
 </td></tr></table>
