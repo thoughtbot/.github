@@ -20,8 +20,6 @@ project with a stronger team and improved processes.
 
 [Tools for AI assisted Software development](https://feed.thoughtbot.com/link/24077/17110913/tools-for-ai-assisted-software-development)
 
-[This week in #dev (Jul 25, 2025)](https://feed.thoughtbot.com/link/24077/17109891/this-week-in-dev-jul-25-2025)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
