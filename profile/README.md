@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Keep track of color contrast in Figma with our plugin](https://feed.thoughtbot.com/link/24077/17114935/keep-track-of-color-contrast-in-figma-with-our-plugin)
+
 [A few thoughtbot memories from the final RailsConf](https://feed.thoughtbot.com/link/24077/17112711/a-few-thoughtbot-memories-from-the-final-railsconf)
 
 [What you see may not be what you get](https://feed.thoughtbot.com/link/24077/17112120/what-you-see-may-not-be-what-you-get)
