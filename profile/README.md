@@ -18,14 +18,14 @@ project with a stronger team and improved processes.
 
 [A few thoughtbot memories from the final RailsConf](https://feed.thoughtbot.com/link/24077/17112711/a-few-thoughtbot-memories-from-the-final-railsconf)
 
-[What you see may not be what you get](https://feed.thoughtbot.com/link/24077/17112120/what-you-see-may-not-be-what-you-get)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[587: How to go viral with Michael Praetorius](https://podcast.thoughtbot.com/587)
+
 [469: How are we using AI? with Jimmy Thigpen](https://bikeshed.thoughtbot.com/469)
 
 [586: What is your self-age? with Leanne Clark-Shirley](https://podcast.thoughtbot.com/586)
@@ -33,8 +33,6 @@ project with a stronger team and improved processes.
 [585: Teachable Moments](https://podcast.thoughtbot.com/585)
 
 [584: When AI Meets Healthcare and Buddhism with Jan Kroschinski](https://podcast.thoughtbot.com/584)
-
-[468: RailsConf Recap with Tess Griffin](https://bikeshed.thoughtbot.com/468)
 
 <!-- podcasts ends -->
 </td></tr></table>
