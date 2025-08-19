@@ -14,7 +14,6 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[Keep track of color contrast in Figma with our plugin](https://feed.thoughtbot.com/link/24077/17114935/keep-track-of-color-contrast-in-figma-with-our-plugin)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
@@ -22,6 +21,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[470: All about queues with Adam McCrea](https://bikeshed.thoughtbot.com/470)
+
 [587: How to go viral with Michael Praetorius](https://podcast.thoughtbot.com/587)
 
 [469: How are we using AI? with Jimmy Thigpen](https://bikeshed.thoughtbot.com/469)
@@ -29,8 +30,6 @@ project with a stronger team and improved processes.
 [586: What is your self-age? with Leanne Clark-Shirley](https://podcast.thoughtbot.com/586)
 
 [585: Teachable Moments](https://podcast.thoughtbot.com/585)
-
-[584: When AI Meets Healthcare and Buddhism with Jan Kroschinski](https://podcast.thoughtbot.com/584)
 
 <!-- podcasts ends -->
 </td></tr></table>
