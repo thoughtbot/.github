@@ -21,6 +21,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[588: When a designer meets a developer with Jeremy Blaze](https://podcast.thoughtbot.com/588)
+
 [470: All about queues with Adam McCrea](https://bikeshed.thoughtbot.com/470)
 
 [587: How to go viral with Michael Praetorius](https://podcast.thoughtbot.com/587)
@@ -28,8 +30,6 @@ project with a stronger team and improved processes.
 [469: How are we using AI? with Jimmy Thigpen](https://bikeshed.thoughtbot.com/469)
 
 [586: What is your self-age? with Leanne Clark-Shirley](https://podcast.thoughtbot.com/586)
-
-[585: Teachable Moments](https://podcast.thoughtbot.com/585)
 
 <!-- podcasts ends -->
 </td></tr></table>
