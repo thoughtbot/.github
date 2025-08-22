@@ -14,6 +14,9 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Introducing Top Secret](https://feed.thoughtbot.com/link/24077/17123998/top-secret)
+
+[Announcing thoughtbot Open Summit 2025: Leading the way in Rails and beyond](https://feed.thoughtbot.com/link/24077/17123806/announcing-thoughtbot-open-summit-2025-leading-the-way-in-rails-and-beyond)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
