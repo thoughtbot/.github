@@ -16,8 +16,6 @@ project with a stronger team and improved processes.
 <!-- blog starts -->
 [ChatGPT is writing the same product plan for your competitors](https://feed.thoughtbot.com/link/24077/17129359/chatgpt-is-writing-the-same-product-plan-for-your-competitors)
 
-[Introducing Top Secret](https://feed.thoughtbot.com/link/24077/17123998/top-secret)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
