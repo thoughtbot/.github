@@ -24,6 +24,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[472: What is the skill in software development?](https://bikeshed.thoughtbot.com/472)
+
 [589: Behind the Scenes at thoughtbot - Our work setups](https://podcast.thoughtbot.com/589)
 
 [471: New Hosts Join the Show](https://bikeshed.thoughtbot.com/471)
@@ -31,8 +33,6 @@ project with a stronger team and improved processes.
 [588: When a designer meets a developer with Jeremy Blaze](https://podcast.thoughtbot.com/588)
 
 [470: All about queues with Adam McCrea](https://bikeshed.thoughtbot.com/470)
-
-[587: How to go viral with Michael Praetorius](https://podcast.thoughtbot.com/587)
 
 <!-- podcasts ends -->
 </td></tr></table>
