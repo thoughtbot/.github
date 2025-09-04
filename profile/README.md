@@ -24,6 +24,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[590: Making AI work for users with Louis Gutierrez](https://podcast.thoughtbot.com/590)
+
 [472: What is the skill in software development?](https://bikeshed.thoughtbot.com/472)
 
 [589: Behind the Scenes at thoughtbot - Our work setups](https://podcast.thoughtbot.com/589)
@@ -31,8 +33,6 @@ project with a stronger team and improved processes.
 [471: New Hosts Join the Show](https://bikeshed.thoughtbot.com/471)
 
 [588: When a designer meets a developer with Jeremy Blaze](https://podcast.thoughtbot.com/588)
-
-[470: All about queues with Adam McCrea](https://bikeshed.thoughtbot.com/470)
 
 <!-- podcasts ends -->
 </td></tr></table>
