@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Meet us at EuRuKo 2025](https://feed.thoughtbot.com/link/24077/17136518/meet-us-at-euruko-2025)
+
 [Upcoming JavaScript and React Conferences for 2025](https://feed.thoughtbot.com/link/24077/17130875/upcoming-javascript-and-react-conferences-for-2025)
 
 [ChatGPT is writing the same product plan for your competitors](https://feed.thoughtbot.com/link/24077/17129359/chatgpt-is-writing-the-same-product-plan-for-your-competitors)
