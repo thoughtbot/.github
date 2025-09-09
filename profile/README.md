@@ -16,14 +16,14 @@ project with a stronger team and improved processes.
 <!-- blog starts -->
 [Meet us at EuRuKo 2025](https://feed.thoughtbot.com/link/24077/17136518/meet-us-at-euruko-2025)
 
-[Upcoming JavaScript and React Conferences for 2025](https://feed.thoughtbot.com/link/24077/17130875/upcoming-javascript-and-react-conferences-for-2025)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[473: Mental models for browsers](https://bikeshed.thoughtbot.com/473)
+
 [590: Making AI work for users with Louis Gutierrez](https://podcast.thoughtbot.com/590)
 
 [472: What is the skill in software development?](https://bikeshed.thoughtbot.com/472)
@@ -31,8 +31,6 @@ project with a stronger team and improved processes.
 [589: Behind the Scenes at thoughtbot - Our work setups](https://podcast.thoughtbot.com/589)
 
 [471: New Hosts Join the Show](https://bikeshed.thoughtbot.com/471)
-
-[588: When a designer meets a developer with Jeremy Blaze](https://podcast.thoughtbot.com/588)
 
 <!-- podcasts ends -->
 </td></tr></table>
