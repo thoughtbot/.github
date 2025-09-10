@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Our Philosophy on Developer Rotation](https://feed.thoughtbot.com/link/24077/17140846/our-philosophy-on-developer-rotation)
+
 [Meet us at EuRuKo 2025](https://feed.thoughtbot.com/link/24077/17136518/meet-us-at-euruko-2025)
 
 <!-- blog ends -->
