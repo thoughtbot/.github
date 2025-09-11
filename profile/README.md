@@ -14,7 +14,7 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[Our Philosophy on Developer Rotation](https://feed.thoughtbot.com/link/24077/17140846/our-philosophy-on-developer-rotation)
+[Our philosophy on developer rotations](https://feed.thoughtbot.com/link/24077/17140846/our-philosophy-on-developer-rotation)
 
 [Meet us at EuRuKo 2025](https://feed.thoughtbot.com/link/24077/17136518/meet-us-at-euruko-2025)
 
@@ -24,6 +24,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[591: Redefining Women's Health: Beyond the Traditional View with Amani Bright and Julia Lasater](https://podcast.thoughtbot.com/591)
+
 [473: Mental models for browsers](https://bikeshed.thoughtbot.com/473)
 
 [590: Making AI work for users with Louis Gutierrez](https://podcast.thoughtbot.com/590)
@@ -31,8 +33,6 @@ project with a stronger team and improved processes.
 [472: What is the skill in software development?](https://bikeshed.thoughtbot.com/472)
 
 [589: Behind the Scenes at thoughtbot - Our work setups](https://podcast.thoughtbot.com/589)
-
-[471: New Hosts Join the Show](https://bikeshed.thoughtbot.com/471)
 
 <!-- podcasts ends -->
 </td></tr></table>
