@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Lessons from using AI in Discovery ](https://feed.thoughtbot.com/link/19063/17154650/lup-0632.mp4)
+
 [Our philosophy on developer rotations](https://feed.thoughtbot.com/link/24077/17140846/our-philosophy-on-developer-rotation)
 
 <!-- blog ends -->
