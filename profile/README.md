@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Leaving clients with more than a Figma file: a guide to design system handoff documentation](https://feed.thoughtbot.com/link/24099/17155931/format=h.264)
+
 [Lessons from using AI in Discovery ](https://feed.thoughtbot.com/link/19063/17154650/lup-0632.mp4)
 
 [Our philosophy on developer rotations](https://feed.thoughtbot.com/link/24077/17140846/our-philosophy-on-developer-rotation)
@@ -24,6 +26,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[474: Board games and programming](https://bikeshed.thoughtbot.com/474)
+
 [591: Redefining Women's Health: Beyond the Traditional View with Amani Bright and Julia Lasater](https://podcast.thoughtbot.com/591)
 
 [473: Mental models for browsers](https://bikeshed.thoughtbot.com/473)
@@ -31,8 +35,6 @@ project with a stronger team and improved processes.
 [590: Making AI work for users with Louis Gutierrez](https://podcast.thoughtbot.com/590)
 
 [472: What is the skill in software development?](https://bikeshed.thoughtbot.com/472)
-
-[589: Behind the Scenes at thoughtbot - Our work setups](https://podcast.thoughtbot.com/589)
 
 <!-- podcasts ends -->
 </td></tr></table>
