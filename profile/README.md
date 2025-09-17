@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Superglue 2.0 Alpha: React ♥️ Rails Turbo Streams!](https://feed.thoughtbot.com/link/24172/17161540/wintablet-cap-129-13-05-2020_mf_51030636_feed_1.mp3)
+
 [Leaving clients with more than a Figma file: a guide to design system handoff documentation](https://feed.thoughtbot.com/link/24099/17155931/format=h.264)
 
 [Lessons from using AI in Discovery ](https://feed.thoughtbot.com/link/19063/17154650/lup-0632.mp4)
