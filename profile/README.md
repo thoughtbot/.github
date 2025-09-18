@@ -20,14 +20,14 @@ project with a stronger team and improved processes.
 
 [Lessons from using AI in Discovery ](https://feed.thoughtbot.com/link/19063/17154650/lup-0632.mp4)
 
-[Our philosophy on developer rotations](https://feed.thoughtbot.com/link/24077/17140846/our-philosophy-on-developer-rotation)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[592: Utopia or Dystopia: Why the Future of AI and XR Is Still Ours to Shape with Don Shin](https://podcast.thoughtbot.com/592)
+
 [474: Board games and programming](https://bikeshed.thoughtbot.com/474)
 
 [591: Redefining Women's Health: Beyond the Traditional View with Amani Bright and Julia Lasater](https://podcast.thoughtbot.com/591)
@@ -35,8 +35,6 @@ project with a stronger team and improved processes.
 [473: Mental models for browsers](https://bikeshed.thoughtbot.com/473)
 
 [590: Making AI work for users with Louis Gutierrez](https://podcast.thoughtbot.com/590)
-
-[472: What is the skill in software development?](https://bikeshed.thoughtbot.com/472)
 
 <!-- podcasts ends -->
 </td></tr></table>
