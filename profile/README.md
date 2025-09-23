@@ -18,14 +18,14 @@ project with a stronger team and improved processes.
 
 [Leaving clients with more than a Figma file: a guide to design system handoff documentation](https://feed.thoughtbot.com/link/24077/17155930/leaving-clients-with-more-than-a-figma-file-a-guide-to-design-system-handoff-documentation)
 
-[Lessons from using AI in Discovery ](https://feed.thoughtbot.com/link/24077/17154649/lessons-from-using-ai-in-discovery)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[475: Invisible Mentorship](https://bikeshed.thoughtbot.com/475)
+
 [592: Utopia or Dystopia: Why the Future of AI and XR Is Still Ours to Shape with Don Shin](https://podcast.thoughtbot.com/592)
 
 [474: Board games and programming](https://bikeshed.thoughtbot.com/474)
@@ -33,8 +33,6 @@ project with a stronger team and improved processes.
 [591: Redefining Women's Health: Beyond the Traditional View with Amani Bright and Julia Lasater](https://podcast.thoughtbot.com/591)
 
 [473: Mental models for browsers](https://bikeshed.thoughtbot.com/473)
-
-[590: Making AI work for users with Louis Gutierrez](https://podcast.thoughtbot.com/590)
 
 <!-- podcasts ends -->
 </td></tr></table>
