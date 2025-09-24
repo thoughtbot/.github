@@ -14,9 +14,9 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[Superglue 2.0 Alpha: React ♥️ Rails Turbo Streams!](https://feed.thoughtbot.com/link/24077/17161539/superglue-2-0-alpha-react-rails-turbo-streams)
+[Introducing The Opinionated thoughtbotter: Hot takes from our senior team](https://feed.thoughtbot.com/link/24077/17169329/introducing-the-opinionated-thoughtbotter-hot-takes-from-our-senior-team)
 
-[Leaving clients with more than a Figma file: a guide to design system handoff documentation](https://feed.thoughtbot.com/link/24077/17155930/leaving-clients-with-more-than-a-figma-file-a-guide-to-design-system-handoff-documentation)
+[Superglue 2.0 Alpha: React ♥️ Rails Turbo Streams!](https://feed.thoughtbot.com/link/24077/17161539/superglue-2-0-alpha-react-rails-turbo-streams)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
