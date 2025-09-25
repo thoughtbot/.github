@@ -16,14 +16,14 @@ project with a stronger team and improved processes.
 <!-- blog starts -->
 [Introducing The Opinionated thoughtbotter: Hot takes from our senior team](https://feed.thoughtbot.com/link/24077/17169329/introducing-the-opinionated-thoughtbotter-hot-takes-from-our-senior-team)
 
-[Superglue 2.0 Alpha: React ♥️ Rails Turbo Streams!](https://feed.thoughtbot.com/link/24077/17161539/superglue-2-0-alpha-react-rails-turbo-streams)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[593: Recent Discoveries: From MCP servers to video game heartbreak](https://podcast.thoughtbot.com/593)
+
 [475: Invisible Mentorship](https://bikeshed.thoughtbot.com/475)
 
 [592: Utopia or Dystopia: Why the Future of AI and XR Is Still Ours to Shape with Don Shin](https://podcast.thoughtbot.com/592)
@@ -31,8 +31,6 @@ project with a stronger team and improved processes.
 [474: Board games and programming](https://bikeshed.thoughtbot.com/474)
 
 [591: Redefining Women's Health: Beyond the Traditional View with Amani Bright and Julia Lasater](https://podcast.thoughtbot.com/591)
-
-[473: Mental models for browsers](https://bikeshed.thoughtbot.com/473)
 
 <!-- podcasts ends -->
 </td></tr></table>
