@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[🎙️ FREE Resource: Product Design Sprint FigJam Template](https://feed.thoughtbot.com/link/24077/17173309/free-resource-product-design-sprint-figjam-template)
+
 [Introducing The Opinionated thoughtbotter: Hot takes from our senior team](https://feed.thoughtbot.com/link/24077/17169329/introducing-the-opinionated-thoughtbotter-hot-takes-from-our-senior-team)
 
 <!-- blog ends -->
