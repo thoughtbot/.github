@@ -14,7 +14,9 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[🎙️ FREE Resource: Product Design Sprint FigJam Template](https://feed.thoughtbot.com/link/24077/17173309/free-resource-product-design-sprint-figjam-template)
+[What sets thoughtbot designers apart?](https://feed.thoughtbot.com/link/24077/17174057/what-sets-thoughtbot-designers-apart)
+
+[🎙️ Free Resource: Product Design Sprint FigJam Template](https://feed.thoughtbot.com/link/24077/17173309/free-resource-product-design-sprint-figjam-template)
 
 [Introducing The Opinionated thoughtbotter: Hot takes from our senior team](https://feed.thoughtbot.com/link/24077/17169329/introducing-the-opinionated-thoughtbotter-hot-takes-from-our-senior-team)
 
@@ -24,6 +26,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[476: Green Flags for Code](https://bikeshed.thoughtbot.com/476)
+
 [593: Recent Discoveries: From MCP servers to video game heartbreak](https://podcast.thoughtbot.com/593)
 
 [475: Invisible Mentorship](https://bikeshed.thoughtbot.com/475)
@@ -31,8 +35,6 @@ project with a stronger team and improved processes.
 [592: Utopia or Dystopia: Why the Future of AI and XR Is Still Ours to Shape with Don Shin](https://podcast.thoughtbot.com/592)
 
 [474: Board games and programming](https://bikeshed.thoughtbot.com/474)
-
-[591: Redefining Women's Health: Beyond the Traditional View with Amani Bright and Julia Lasater](https://podcast.thoughtbot.com/591)
 
 <!-- podcasts ends -->
 </td></tr></table>
