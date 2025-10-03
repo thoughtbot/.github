@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[New thoughtbot merch store just launched!](https://feed.thoughtbot.com/link/24077/17177259/new-thoughtbot-merch-store-just-launched)
+
 [thoughtbot’s internal consulting course is now public](https://feed.thoughtbot.com/link/24077/17174879/thoughtbot-s-internal-consulting-course-is-now-public)
 
 [What sets thoughtbot designers apart?](https://feed.thoughtbot.com/link/24077/17174057/what-sets-thoughtbot-designers-apart)
