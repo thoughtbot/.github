@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Releasing v 1.0 of Administrate LIVE at thoughtbot Open Summit](https://feed.thoughtbot.com/link/24077/17180325/releasing-v-1-0-of-administrate-live-at-thoughtbot-open-summit)
+
 [Fear isn’t the enemy in teamwork — silence is.](https://feed.thoughtbot.com/link/24077/17179495/fear-isn-t-the-enemy-in-teamwork-silence-is)
 
 [New thoughtbot merch store just launched!](https://feed.thoughtbot.com/link/24077/17177259/new-thoughtbot-merch-store-just-launched)
@@ -22,14 +24,14 @@ project with a stronger team and improved processes.
 
 [What sets thoughtbot designers apart?](https://feed.thoughtbot.com/link/24077/17174057/what-sets-thoughtbot-designers-apart)
 
-[🎙️ Free Resource: Product Design Sprint FigJam Template](https://feed.thoughtbot.com/link/24077/17173309/free-resource-product-design-sprint-figjam-template)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[477: Change Management](https://bikeshed.thoughtbot.com/477)
+
 [476: Green Flags for Code](https://bikeshed.thoughtbot.com/476)
 
 [593: Recent Discoveries: From MCP servers to video game heartbreak](https://podcast.thoughtbot.com/593)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [475: Invisible Mentorship](https://bikeshed.thoughtbot.com/475)
 
 [592: Utopia or Dystopia: Why the Future of AI and XR Is Still Ours to Shape with Don Shin](https://podcast.thoughtbot.com/592)
-
-[474: Board games and programming](https://bikeshed.thoughtbot.com/474)
 
 <!-- podcasts ends -->
 </td></tr></table>
