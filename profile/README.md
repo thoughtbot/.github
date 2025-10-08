@@ -22,8 +22,6 @@ project with a stronger team and improved processes.
 
 [thoughtbot’s internal consulting course is now public](https://feed.thoughtbot.com/link/24077/17174879/thoughtbot-s-internal-consulting-course-is-now-public)
 
-[What sets thoughtbot designers apart?](https://feed.thoughtbot.com/link/24077/17174057/what-sets-thoughtbot-designers-apart)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
