@@ -20,14 +20,14 @@ project with a stronger team and improved processes.
 
 [New thoughtbot merch store just launched!](https://feed.thoughtbot.com/link/24077/17177259/new-thoughtbot-merch-store-just-launched)
 
-[thoughtbot’s internal consulting course is now public](https://feed.thoughtbot.com/link/24077/17174879/thoughtbot-s-internal-consulting-course-is-now-public)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[594: AI is Draining with Pablo Curell](https://podcast.thoughtbot.com/594)
+
 [477: Change Management](https://bikeshed.thoughtbot.com/477)
 
 [476: Green Flags for Code](https://bikeshed.thoughtbot.com/476)
@@ -35,8 +35,6 @@ project with a stronger team and improved processes.
 [593: Recent Discoveries: From MCP servers to video game heartbreak](https://podcast.thoughtbot.com/593)
 
 [475: Invisible Mentorship](https://bikeshed.thoughtbot.com/475)
-
-[592: Utopia or Dystopia: Why the Future of AI and XR Is Still Ours to Shape with Don Shin](https://podcast.thoughtbot.com/592)
 
 <!-- podcasts ends -->
 </td></tr></table>
