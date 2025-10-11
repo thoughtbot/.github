@@ -18,8 +18,6 @@ project with a stronger team and improved processes.
 
 [Fear isn’t the enemy in teamwork — silence is.](https://feed.thoughtbot.com/link/24077/17179495/fear-isn-t-the-enemy-in-teamwork-silence-is)
 
-[New thoughtbot merch store just launched!](https://feed.thoughtbot.com/link/24077/17177259/new-thoughtbot-merch-store-just-launched)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
