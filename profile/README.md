@@ -16,14 +16,14 @@ project with a stronger team and improved processes.
 <!-- blog starts -->
 [Releasing v 1.0 of Administrate LIVE at thoughtbot Open Summit](https://feed.thoughtbot.com/link/24077/17180325/releasing-v-1-0-of-administrate-live-at-thoughtbot-open-summit)
 
-[Fear isn’t the enemy in teamwork — silence is.](https://feed.thoughtbot.com/link/24077/17179495/fear-isn-t-the-enemy-in-teamwork-silence-is)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[478: ADHD at work](https://bikeshed.thoughtbot.com/478)
+
 [594: AI is Draining with Pablo Curell](https://podcast.thoughtbot.com/594)
 
 [477: Change Management](https://bikeshed.thoughtbot.com/477)
@@ -31,8 +31,6 @@ project with a stronger team and improved processes.
 [476: Green Flags for Code](https://bikeshed.thoughtbot.com/476)
 
 [593: Recent Discoveries: From MCP servers to video game heartbreak](https://podcast.thoughtbot.com/593)
-
-[475: Invisible Mentorship](https://bikeshed.thoughtbot.com/475)
 
 <!-- podcasts ends -->
 </td></tr></table>
