@@ -14,7 +14,7 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[Releasing v 1.0 of Administrate LIVE at thoughtbot Open Summit](https://feed.thoughtbot.com/link/24077/17180325/releasing-v-1-0-of-administrate-live-at-thoughtbot-open-summit)
+[Putting our values to work: rethinking expenses](https://feed.thoughtbot.com/link/24077/17185859/putting-our-values-to-work-rethinking-expenses)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
