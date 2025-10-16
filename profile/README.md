@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Finding Your Niche as a Full Stack Designer](https://feed.thoughtbot.com/link/24077/17186592/finding-your-niche-as-a-full-stack-designer)
+
 [Putting our values to work: rethinking expenses](https://feed.thoughtbot.com/link/24077/17185859/putting-our-values-to-work-rethinking-expenses)
 
 <!-- blog ends -->
