@@ -24,6 +24,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[479: Hardly Strictly Remotely In-Person](https://bikeshed.thoughtbot.com/479)
+
 [478: ADHD at work](https://bikeshed.thoughtbot.com/478)
 
 [594: AI is Draining with Pablo Curell](https://podcast.thoughtbot.com/594)
@@ -31,8 +33,6 @@ project with a stronger team and improved processes.
 [477: Change Management](https://bikeshed.thoughtbot.com/477)
 
 [476: Green Flags for Code](https://bikeshed.thoughtbot.com/476)
-
-[593: Recent Discoveries: From MCP servers to video game heartbreak](https://podcast.thoughtbot.com/593)
 
 <!-- podcasts ends -->
 </td></tr></table>
