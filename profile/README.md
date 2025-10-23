@@ -14,9 +14,9 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[Finding Your Niche as a Full Stack Designer](https://feed.thoughtbot.com/link/24077/17186592/finding-your-niche-as-a-full-stack-designer)
+[Announcing the thoughtbot Open Summit 2025 full schedule](https://feed.thoughtbot.com/link/24077/17191603/announcing-the-thoughtbot-open-summit-2025-full-schedule)
 
-[Putting our values to work: rethinking expenses](https://feed.thoughtbot.com/link/24077/17185859/putting-our-values-to-work-rethinking-expenses)
+[Finding Your Niche as a Full Stack Designer](https://feed.thoughtbot.com/link/24077/17186592/finding-your-niche-as-a-full-stack-designer)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
@@ -24,6 +24,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[595: Projects in Progress and Nature’s Ultimate Sacrifice](https://podcast.thoughtbot.com/595)
+
 [479: Hardly Strictly Remotely In-Person](https://bikeshed.thoughtbot.com/479)
 
 [478: ADHD at work](https://bikeshed.thoughtbot.com/478)
@@ -31,8 +33,6 @@ project with a stronger team and improved processes.
 [594: AI is Draining with Pablo Curell](https://podcast.thoughtbot.com/594)
 
 [477: Change Management](https://bikeshed.thoughtbot.com/477)
-
-[476: Green Flags for Code](https://bikeshed.thoughtbot.com/476)
 
 <!-- podcasts ends -->
 </td></tr></table>
