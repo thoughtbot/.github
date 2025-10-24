@@ -14,9 +14,9 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[Announcing the thoughtbot Open Summit 2025 full schedule](https://feed.thoughtbot.com/link/24077/17191603/announcing-the-thoughtbot-open-summit-2025-full-schedule)
+[Bridging the gap between Rails and React with Superglue at thoughtbot Open Summit](https://feed.thoughtbot.com/link/24077/17192329/bridging-the-gap-between-rails-and-react-with-superglue-at-thoughtbot-open-summit)
 
-[Finding Your Niche as a Full Stack Designer](https://feed.thoughtbot.com/link/24077/17186592/finding-your-niche-as-a-full-stack-designer)
+[Announcing the thoughtbot Open Summit 2025 full schedule](https://feed.thoughtbot.com/link/24077/17191603/announcing-the-thoughtbot-open-summit-2025-full-schedule)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
