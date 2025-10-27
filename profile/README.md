@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Rethinking CSS with Roux - debuting at thoughtbot Open Summit](https://feed.thoughtbot.com/link/24077/17193934/rethinking-css-with-roux-debuting-at-thoughtbot-open-summit)
+
 [Bridging the gap between Rails and React with Superglue at thoughtbot Open Summit](https://feed.thoughtbot.com/link/24077/17192329/bridging-the-gap-between-rails-and-react-with-superglue-at-thoughtbot-open-summit)
 
 [Announcing the thoughtbot Open Summit 2025 full schedule](https://feed.thoughtbot.com/link/24077/17191603/announcing-the-thoughtbot-open-summit-2025-full-schedule)
