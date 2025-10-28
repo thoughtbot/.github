@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Extending factory_bot with custom strategies at thoughtbot Open Summit](https://feed.thoughtbot.com/link/24077/17197391/extending-factory_bot-with-custom-strategies-at-thoughtbot-open-summit)
+
 [Rethinking CSS with Roux - debuting at thoughtbot Open Summit](https://feed.thoughtbot.com/link/24077/17193934/rethinking-css-with-roux-debuting-at-thoughtbot-open-summit)
 
 [Bridging the gap between Rails and React with Superglue at thoughtbot Open Summit](https://feed.thoughtbot.com/link/24077/17192329/bridging-the-gap-between-rails-and-react-with-superglue-at-thoughtbot-open-summit)
@@ -26,6 +28,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[480: The President's Doctor with Jared Turner](https://bikeshed.thoughtbot.com/480)
+
 [595: Projects in Progress and Nature’s Ultimate Sacrifice](https://podcast.thoughtbot.com/595)
 
 [479: Hardly Strictly Remotely In-Person](https://bikeshed.thoughtbot.com/479)
@@ -33,8 +37,6 @@ project with a stronger team and improved processes.
 [478: ADHD at work](https://bikeshed.thoughtbot.com/478)
 
 [594: AI is Draining with Pablo Curell](https://podcast.thoughtbot.com/594)
-
-[477: Change Management](https://bikeshed.thoughtbot.com/477)
 
 <!-- podcasts ends -->
 </td></tr></table>
