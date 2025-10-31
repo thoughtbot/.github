@@ -20,8 +20,6 @@ project with a stronger team and improved processes.
 
 [Bridging the gap between Rails and React with Superglue at thoughtbot Open Summit](https://feed.thoughtbot.com/link/24077/17192329/bridging-the-gap-between-rails-and-react-with-superglue-at-thoughtbot-open-summit)
 
-[Announcing the thoughtbot Open Summit 2025 full schedule](https://feed.thoughtbot.com/link/24077/17191603/announcing-the-thoughtbot-open-summit-2025-full-schedule)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
