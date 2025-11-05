@@ -14,7 +14,6 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[Extending factory_bot with custom strategies at thoughtbot Open Summit](https://feed.thoughtbot.com/link/24077/17197391/extending-factory_bot-with-custom-strategies-at-thoughtbot-open-summit)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
