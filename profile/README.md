@@ -26,6 +26,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[482: Labels for our job](https://bikeshed.thoughtbot.com/482)
+
 [481: Dev Horror Stories](https://bikeshed.thoughtbot.com/481)
 
 [480: The President's Doctor with Jared Turner](https://bikeshed.thoughtbot.com/480)
@@ -33,8 +35,6 @@ project with a stronger team and improved processes.
 [595: Projects in Progress and Nature’s Ultimate Sacrifice](https://podcast.thoughtbot.com/595)
 
 [479: Hardly Strictly Remotely In-Person](https://bikeshed.thoughtbot.com/479)
-
-[478: ADHD at work](https://bikeshed.thoughtbot.com/478)
 
 <!-- podcasts ends -->
 </td></tr></table>
