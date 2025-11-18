@@ -16,12 +16,6 @@ project with a stronger team and improved processes.
 <!-- blog starts -->
 [How to use LLMs without driving your team mad](https://feed.thoughtbot.com/link/24077/17210463/how-to-use-llms-without-driving-your-team-mad)
 
-[My Favorite Mac VoiceOver commands](https://feed.thoughtbot.com/link/24077/17206141/my-favorite-mac-voiceover-commands)
-
-[How to design a join code system](https://feed.thoughtbot.com/link/24077/17206142/join-code-system-design)
-
-[thoughtbot at Just Product 2025](https://feed.thoughtbot.com/link/24077/17206143/thoughtbot-at-just-product-2025)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
