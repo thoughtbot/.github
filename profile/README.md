@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[AI in Focus: Pair programming with AI](https://feed.thoughtbot.com/link/24077/17213291/ai-in-focus-pair-programming-with-ai)
+
 [Presenting at tiny ruby on Friday, November 21, 2025!](https://feed.thoughtbot.com/link/24077/17211994/presenting-at-tiny-ruby-on-friday-november-21-2025)
 
 [How to use LLMs without driving your team mad](https://feed.thoughtbot.com/link/24077/17210463/how-to-use-llms-without-driving-your-team-mad)
@@ -24,6 +26,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[597: Say Yes with Nick Merwin](https://podcast.thoughtbot.com/597)
+
 [483: Comparing notes on note-taking](https://bikeshed.thoughtbot.com/483)
 
 [596: Building Bridges Between Brands and Creators: The Story of Sheer](https://podcast.thoughtbot.com/596)
@@ -31,8 +35,6 @@ project with a stronger team and improved processes.
 [482: Labels for our job](https://bikeshed.thoughtbot.com/482)
 
 [481: Dev Horror Stories](https://bikeshed.thoughtbot.com/481)
-
-[480: The President's Doctor with Jared Turner](https://bikeshed.thoughtbot.com/480)
 
 <!-- podcasts ends -->
 </td></tr></table>
