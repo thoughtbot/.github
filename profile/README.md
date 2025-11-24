@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Git 3.0 will use main as the default branch](https://feed.thoughtbot.com/link/24077/17215498/git-3-0-will-use-main-as-the-default-branch)
+
 [We're a fully-remote company. Why host concurrent In-Person and Remote Summits?](https://feed.thoughtbot.com/link/24077/17214142/we-re-a-fully-remote-company-why-host-concurrent-in-person-and-remote-summits)
 
 [AI in Focus: Pair programming with AI](https://feed.thoughtbot.com/link/24077/17213291/ai-in-focus-pair-programming-with-ai)
