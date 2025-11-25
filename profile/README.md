@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Querying encrypted data in Rails using Deterministic Encryption](https://feed.thoughtbot.com/link/24077/17216253/querying-encrypted-data-in-rails-using-deterministic-encryption)
+
 [Git 3.0 will use main as the default branch](https://feed.thoughtbot.com/link/24077/17215498/git-3-0-will-use-main-as-the-default-branch)
 
 [We're a fully-remote company. Why host concurrent In-Person and Remote Summits?](https://feed.thoughtbot.com/link/24077/17214142/we-re-a-fully-remote-company-why-host-concurrent-in-person-and-remote-summits)
@@ -22,14 +24,14 @@ project with a stronger team and improved processes.
 
 [Presenting at tiny ruby on Friday, November 21, 2025!](https://feed.thoughtbot.com/link/24077/17211994/presenting-at-tiny-ruby-on-friday-november-21-2025)
 
-[How to use LLMs without driving your team mad](https://feed.thoughtbot.com/link/24077/17210463/how-to-use-llms-without-driving-your-team-mad)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[484: The Season 1 Recap](https://bikeshed.thoughtbot.com/484)
+
 [597: Say Yes with Nick Merwin](https://podcast.thoughtbot.com/597)
 
 [483: Comparing notes on note-taking](https://bikeshed.thoughtbot.com/483)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [596: Building Bridges Between Brands and Creators: The Story of Sheer](https://podcast.thoughtbot.com/596)
 
 [482: Labels for our job](https://bikeshed.thoughtbot.com/482)
-
-[481: Dev Horror Stories](https://bikeshed.thoughtbot.com/481)
 
 <!-- podcasts ends -->
 </td></tr></table>
