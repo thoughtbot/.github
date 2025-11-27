@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[You cannot not lead](https://feed.thoughtbot.com/link/24077/17217669/you-cannot-not-lead)
+
 [Querying encrypted data in Rails using Deterministic Encryption](https://feed.thoughtbot.com/link/24077/17216253/querying-encrypted-data-in-rails-using-deterministic-encryption)
 
 [Git 3.0 will use main as the default branch](https://feed.thoughtbot.com/link/24077/17215498/git-3-0-will-use-main-as-the-default-branch)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [We're a fully-remote company. Why host concurrent In-Person and Remote Summits?](https://feed.thoughtbot.com/link/24077/17214142/we-re-a-fully-remote-company-why-host-concurrent-in-person-and-remote-summits)
 
 [AI in Focus: Pair programming with AI](https://feed.thoughtbot.com/link/24077/17213291/ai-in-focus-pair-programming-with-ai)
-
-[Presenting at tiny ruby on Friday, November 21, 2025!](https://feed.thoughtbot.com/link/24077/17211994/presenting-at-tiny-ruby-on-friday-november-21-2025)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
