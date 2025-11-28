@@ -22,8 +22,6 @@ project with a stronger team and improved processes.
 
 [We're a fully-remote company. Why host concurrent In-Person and Remote Summits?](https://feed.thoughtbot.com/link/24077/17214142/we-re-a-fully-remote-company-why-host-concurrent-in-person-and-remote-summits)
 
-[AI in Focus: Pair programming with AI](https://feed.thoughtbot.com/link/24077/17213291/ai-in-focus-pair-programming-with-ai)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
