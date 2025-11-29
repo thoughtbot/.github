@@ -20,8 +20,6 @@ project with a stronger team and improved processes.
 
 [Git 3.0 will use main as the default branch](https://feed.thoughtbot.com/link/24077/17215498/git-3-0-will-use-main-as-the-default-branch)
 
-[We're a fully-remote company. Why host concurrent In-Person and Remote Summits?](https://feed.thoughtbot.com/link/24077/17214142/we-re-a-fully-remote-company-why-host-concurrent-in-person-and-remote-summits)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
