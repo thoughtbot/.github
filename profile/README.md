@@ -16,8 +16,6 @@ project with a stronger team and improved processes.
 <!-- blog starts -->
 [You cannot not lead](https://feed.thoughtbot.com/link/24077/17217669/you-cannot-not-lead)
 
-[Querying encrypted data in Rails using Deterministic Encryption](https://feed.thoughtbot.com/link/24077/17216253/querying-encrypted-data-in-rails-using-deterministic-encryption)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
