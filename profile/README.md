@@ -14,7 +14,6 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[You cannot not lead](https://feed.thoughtbot.com/link/24077/17217669/you-cannot-not-lead)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
