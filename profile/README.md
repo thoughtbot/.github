@@ -14,6 +14,7 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Turn Any Idea Into a Validated MVP](https://feed.thoughtbot.com/link/24077/17226796/turn-any-idea-into-a-validated-mvp)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
