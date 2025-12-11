@@ -22,6 +22,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[598: Animals and AI Accounting with Sam Landsberg](https://podcast.thoughtbot.com/598)
+
 [484: The Season 1 Recap](https://bikeshed.thoughtbot.com/484)
 
 [597: Say Yes with Nick Merwin](https://podcast.thoughtbot.com/597)
@@ -29,8 +31,6 @@ project with a stronger team and improved processes.
 [483: Comparing notes on note-taking](https://bikeshed.thoughtbot.com/483)
 
 [596: Building Bridges Between Brands and Creators: The Story of Sheer](https://podcast.thoughtbot.com/596)
-
-[482: Labels for our job](https://bikeshed.thoughtbot.com/482)
 
 <!-- podcasts ends -->
 </td></tr></table>
