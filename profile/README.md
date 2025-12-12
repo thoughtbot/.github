@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[How to review AI generated PRs](https://feed.thoughtbot.com/link/24077/17231009/how-to-review-ai-generated-prs)
+
 [Turn Any Idea Into a Validated MVP](https://feed.thoughtbot.com/link/24077/17226796/turn-any-idea-into-a-validated-mvp)
 
 <!-- blog ends -->
