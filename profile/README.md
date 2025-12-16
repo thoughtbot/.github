@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[The Arrange/Act/Assert pattern](https://feed.thoughtbot.com/link/24077/17234608/the-arrange-act-assert-pattern)
+
 [Testing is software engineering](https://feed.thoughtbot.com/link/24077/17233863/testing-is-software-engineering)
 
 [How to review AI generated PRs](https://feed.thoughtbot.com/link/24077/17231009/how-to-review-ai-generated-prs)
@@ -26,6 +28,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[485: HTTP Basic Auth](https://bikeshed.thoughtbot.com/485)
+
 [598: Animals and AI Accounting with Sam Landsberg](https://podcast.thoughtbot.com/598)
 
 [484: The Season 1 Recap](https://bikeshed.thoughtbot.com/484)
@@ -33,8 +37,6 @@ project with a stronger team and improved processes.
 [597: Say Yes with Nick Merwin](https://podcast.thoughtbot.com/597)
 
 [483: Comparing notes on note-taking](https://bikeshed.thoughtbot.com/483)
-
-[596: Building Bridges Between Brands and Creators: The Story of Sheer](https://podcast.thoughtbot.com/596)
 
 <!-- podcasts ends -->
 </td></tr></table>
