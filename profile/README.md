@@ -14,13 +14,13 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[How fast can you go?](https://feed.thoughtbot.com/link/24077/17235926/minimum_turnaround_time)
+
 [The Arrange/Act/Assert pattern](https://feed.thoughtbot.com/link/24077/17234608/the-arrange-act-assert-pattern)
 
 [Testing is software engineering](https://feed.thoughtbot.com/link/24077/17233863/testing-is-software-engineering)
 
 [How to review AI generated PRs](https://feed.thoughtbot.com/link/24077/17231009/how-to-review-ai-generated-prs)
-
-[Turn Any Idea Into a Validated MVP](https://feed.thoughtbot.com/link/24077/17226796/turn-any-idea-into-a-validated-mvp)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
