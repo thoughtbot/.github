@@ -30,6 +30,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[486: ActiveModel Everywhere](https://bikeshed.thoughtbot.com/486)
+
 [485: HTTP Basic Auth](https://bikeshed.thoughtbot.com/485)
 
 [598: Animals and AI Accounting with Sam Landsberg](https://podcast.thoughtbot.com/598)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [484: The Season 1 Recap](https://bikeshed.thoughtbot.com/484)
 
 [597: Say Yes with Nick Merwin](https://podcast.thoughtbot.com/597)
-
-[483: Comparing notes on note-taking](https://bikeshed.thoughtbot.com/483)
 
 <!-- podcasts ends -->
 </td></tr></table>
