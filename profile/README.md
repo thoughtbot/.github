@@ -22,8 +22,6 @@ project with a stronger team and improved processes.
 
 [How fast can you go?](https://feed.thoughtbot.com/link/24077/17235926/minimum_turnaround_time)
 
-[The Arrange/Act/Assert pattern](https://feed.thoughtbot.com/link/24077/17234608/the-arrange-act-assert-pattern)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
