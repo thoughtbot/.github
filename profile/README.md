@@ -20,8 +20,6 @@ project with a stronger team and improved processes.
 
 [How a £20 mirror solved a £35,000 engineering problem (and why you, a Product Founder, CTO or Head of R&D should care)](https://feed.thoughtbot.com/link/24077/17237555/how-a-20-mirror-solved-a-35-000-engineering-problem-and-why-you-a-product-founder-cto-or-head-of-r-d-should-care)
 
-[How fast can you go?](https://feed.thoughtbot.com/link/24077/17235926/minimum_turnaround_time)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
