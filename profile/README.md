@@ -16,10 +16,6 @@ project with a stronger team and improved processes.
 <!-- blog starts -->
 [Working across time zones: When async becomes the default](https://feed.thoughtbot.com/link/24077/17239408/working-across-time-zones-when-async-becomes-the-default)
 
-[Your End-of-Year Software Audit Checklist (for Technical Product Teams)](https://feed.thoughtbot.com/link/24077/17237554/your-end-of-year-software-audit-checklist-for-technical-product-teams)
-
-[How a £20 mirror solved a £35,000 engineering problem (and why you, a Product Founder, CTO or Head of R&D should care)](https://feed.thoughtbot.com/link/24077/17237555/how-a-20-mirror-solved-a-35-000-engineering-problem-and-why-you-a-product-founder-cto-or-head-of-r-d-should-care)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
