@@ -14,7 +14,9 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[Working across time zones: When async becomes the default](https://feed.thoughtbot.com/link/24077/17239408/working-across-time-zones-when-async-becomes-the-default)
+[Wrapping up 2025 with our thanks](https://feed.thoughtbot.com/link/24077/17243632/wrapping-up-2025-with-our-thanks)
+
+[Your legacy software is a ticking bomb](https://feed.thoughtbot.com/link/24077/17243457/your-legacy-software-is-a-ticking-bomb)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
@@ -22,6 +24,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[487: ActiveModel custom attributes](https://bikeshed.thoughtbot.com/487)
+
 [486: ActiveModel Everywhere](https://bikeshed.thoughtbot.com/486)
 
 [485: HTTP Basic Auth](https://bikeshed.thoughtbot.com/485)
@@ -29,8 +33,6 @@ project with a stronger team and improved processes.
 [598: Animals and AI Accounting with Sam Landsberg](https://podcast.thoughtbot.com/598)
 
 [484: The Season 1 Recap](https://bikeshed.thoughtbot.com/484)
-
-[597: Say Yes with Nick Merwin](https://podcast.thoughtbot.com/597)
 
 <!-- podcasts ends -->
 </td></tr></table>
