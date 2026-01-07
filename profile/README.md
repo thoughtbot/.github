@@ -16,8 +16,6 @@ project with a stronger team and improved processes.
 <!-- blog starts -->
 [ChatGPT agent: Experimenting with QA automation](https://feed.thoughtbot.com/link/24077/17247674/chatgpt-agent-experimenting-with-qa-automation)
 
-[Wrapping up 2025 with our thanks](https://feed.thoughtbot.com/link/24077/17243632/wrapping-up-2025-with-our-thanks)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
