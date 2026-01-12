@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Prevent the Robocalypse with Claude Code and TDD](https://feed.thoughtbot.com/link/24077/17251311/prevent-the-robocalypse-with-tdd)
+
 [ChatGPT agent: Experimenting with QA automation](https://feed.thoughtbot.com/link/24077/17247674/chatgpt-agent-experimenting-with-qa-automation)
 
 <!-- blog ends -->
