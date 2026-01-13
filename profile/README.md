@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Rapid prototyping with Claude Code: How we transformed our design sprint process](https://feed.thoughtbot.com/link/24077/17252028/rapid-prototyping-with-claude-code-how-we-transformed-our-design-sprint-process)
+
 [Prevent the Robocalypse with Claude Code and TDD](https://feed.thoughtbot.com/link/24077/17251311/prevent-the-robocalypse-with-tdd)
 
 [ChatGPT agent: Experimenting with QA automation](https://feed.thoughtbot.com/link/24077/17247674/chatgpt-agent-experimenting-with-qa-automation)
@@ -24,6 +26,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[489: What makes a codebase welcoming](https://bikeshed.thoughtbot.com/489)
+
 [488: The Playful Portland Programming Paradigm](https://bikeshed.thoughtbot.com/488)
 
 [487: ActiveModel custom attributes](https://bikeshed.thoughtbot.com/487)
@@ -31,8 +35,6 @@ project with a stronger team and improved processes.
 [486: ActiveModel Everywhere](https://bikeshed.thoughtbot.com/486)
 
 [485: HTTP Basic Auth](https://bikeshed.thoughtbot.com/485)
-
-[598: Animals and AI Accounting with Sam Landsberg](https://podcast.thoughtbot.com/598)
 
 <!-- podcasts ends -->
 </td></tr></table>
