@@ -14,11 +14,13 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[ A JavaScript Developer's Guide to Rails - Series Introduction](https://feed.thoughtbot.com/link/24077/17252800/a-javascript-developer-s-guide-to-rails-series-introduction)
+
+[Building programmable QA with AI](https://feed.thoughtbot.com/link/24077/17252801/building-programmable-qa-with-ai)
+
 [Rapid prototyping with Claude Code: How we transformed our design sprint process](https://feed.thoughtbot.com/link/24077/17252028/rapid-prototyping-with-claude-code-how-we-transformed-our-design-sprint-process)
 
 [Prevent the Robocalypse with Claude Code and TDD](https://feed.thoughtbot.com/link/24077/17251311/prevent-the-robocalypse-with-tdd)
-
-[ChatGPT agent: Experimenting with QA automation](https://feed.thoughtbot.com/link/24077/17247674/chatgpt-agent-experimenting-with-qa-automation)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
