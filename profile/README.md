@@ -28,6 +28,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[599: Be Bold](https://podcast.thoughtbot.com/599)
+
 [489: What makes a codebase welcoming](https://bikeshed.thoughtbot.com/489)
 
 [488: The Playful Portland Programming Paradigm](https://bikeshed.thoughtbot.com/488)
@@ -35,8 +37,6 @@ project with a stronger team and improved processes.
 [487: ActiveModel custom attributes](https://bikeshed.thoughtbot.com/487)
 
 [486: ActiveModel Everywhere](https://bikeshed.thoughtbot.com/486)
-
-[485: HTTP Basic Auth](https://bikeshed.thoughtbot.com/485)
 
 <!-- podcasts ends -->
 </td></tr></table>
