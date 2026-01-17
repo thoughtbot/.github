@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Our UK Tech Leader Tour](https://feed.thoughtbot.com/link/24077/17254932/our-uk-tech-leader-tour)
+
 [ A JavaScript Developer's Guide to Rails - Series Introduction](https://feed.thoughtbot.com/link/24077/17252800/a-javascript-developer-s-guide-to-rails-series-introduction)
 
 [Building programmable QA with AI](https://feed.thoughtbot.com/link/24077/17252801/building-programmable-qa-with-ai)
