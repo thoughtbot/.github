@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[A JavaScript developer's guide to Rails: Where Does Everything Come From?](https://feed.thoughtbot.com/link/24077/17258897/a-javascript-developer-s-guide-to-rails-where-does-everything-come-from)
+
 [Code Audits in the Days of AI](https://feed.thoughtbot.com/link/24077/17258142/audit-using-thoughtbot-best-practices-with-claude-skills)
 
 [This week in #dev (Jan 9, 2026)](https://feed.thoughtbot.com/link/24077/17256458/this-week-in-dev-jan-9-2026)
@@ -22,14 +24,14 @@ project with a stronger team and improved processes.
 
 [ A JavaScript Developer's Guide to Rails - Series Introduction](https://feed.thoughtbot.com/link/24077/17252800/a-javascript-developer-s-guide-to-rails-series-introduction)
 
-[Building programmable QA with AI](https://feed.thoughtbot.com/link/24077/17252801/building-programmable-qa-with-ai)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[490: Large Language Misadventure](https://bikeshed.thoughtbot.com/490)
+
 [599: Be Bold](https://podcast.thoughtbot.com/599)
 
 [489: What makes a codebase welcoming](https://bikeshed.thoughtbot.com/489)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [488: The Playful Portland Programming Paradigm](https://bikeshed.thoughtbot.com/488)
 
 [487: ActiveModel custom attributes](https://bikeshed.thoughtbot.com/487)
-
-[486: ActiveModel Everywhere](https://bikeshed.thoughtbot.com/486)
 
 <!-- podcasts ends -->
 </td></tr></table>
