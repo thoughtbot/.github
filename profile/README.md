@@ -22,8 +22,6 @@ project with a stronger team and improved processes.
 
 [Our UK Tech Leader Tour](https://feed.thoughtbot.com/link/24077/17254932/our-uk-tech-leader-tour)
 
-[ A JavaScript Developer's Guide to Rails - Series Introduction](https://feed.thoughtbot.com/link/24077/17252800/a-javascript-developer-s-guide-to-rails-series-introduction)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
