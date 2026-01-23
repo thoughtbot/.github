@@ -28,6 +28,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[600: The Special One](https://podcast.thoughtbot.com/600)
+
 [490: Large Language Misadventure](https://bikeshed.thoughtbot.com/490)
 
 [599: Be Bold](https://podcast.thoughtbot.com/599)
@@ -35,8 +37,6 @@ project with a stronger team and improved processes.
 [489: What makes a codebase welcoming](https://bikeshed.thoughtbot.com/489)
 
 [488: The Playful Portland Programming Paradigm](https://bikeshed.thoughtbot.com/488)
-
-[487: ActiveModel custom attributes](https://bikeshed.thoughtbot.com/487)
 
 <!-- podcasts ends -->
 </td></tr></table>
