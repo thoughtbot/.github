@@ -20,8 +20,6 @@ project with a stronger team and improved processes.
 
 [Code audits In the days Of AI - A new Claude skill](https://feed.thoughtbot.com/link/24077/17258142/audit-using-thoughtbot-best-practices-with-claude-skills)
 
-[This week in #dev (Jan 9, 2026)](https://feed.thoughtbot.com/link/24077/17256458/this-week-in-dev-jan-9-2026)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
