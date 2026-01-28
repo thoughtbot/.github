@@ -14,11 +14,11 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[A JavaScript developer's guide to Rails: What does Composition Over Inheritance mean?](https://feed.thoughtbot.com/link/24077/17264854/a-javascript-developer-s-guide-to-rails-what-does-composition-over-inheritance-mean)
+
 [What Shoulda Matchers Is Actually Doing For You](https://feed.thoughtbot.com/link/24077/17261468/what-shoulda-matchers-is-actually-doing-for-you)
 
 [A JavaScript developer's guide to Rails: Where Does Everything Come From?](https://feed.thoughtbot.com/link/24077/17258897/a-javascript-developer-s-guide-to-rails-where-does-everything-come-from)
-
-[Code audits In the days Of AI - A new Claude skill](https://feed.thoughtbot.com/link/24077/17258142/audit-using-thoughtbot-best-practices-with-claude-skills)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
@@ -26,6 +26,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[491: Influences that shaped our thinking](https://bikeshed.thoughtbot.com/491)
+
 [600: The Special One](https://podcast.thoughtbot.com/600)
 
 [490: Large Language Misadventure](https://bikeshed.thoughtbot.com/490)
@@ -33,8 +35,6 @@ project with a stronger team and improved processes.
 [599: Be Bold](https://podcast.thoughtbot.com/599)
 
 [489: What makes a codebase welcoming](https://bikeshed.thoughtbot.com/489)
-
-[488: The Playful Portland Programming Paradigm](https://bikeshed.thoughtbot.com/488)
 
 <!-- podcasts ends -->
 </td></tr></table>
