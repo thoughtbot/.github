@@ -26,6 +26,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[601: The thing that makes us human](https://podcast.thoughtbot.com/601)
+
 [491: Influences that shaped our thinking](https://bikeshed.thoughtbot.com/491)
 
 [600: The Special One](https://podcast.thoughtbot.com/600)
@@ -33,8 +35,6 @@ project with a stronger team and improved processes.
 [490: Large Language Misadventure](https://bikeshed.thoughtbot.com/490)
 
 [599: Be Bold](https://podcast.thoughtbot.com/599)
-
-[489: What makes a codebase welcoming](https://bikeshed.thoughtbot.com/489)
 
 <!-- podcasts ends -->
 </td></tr></table>
