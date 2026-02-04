@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[A JavaScript developer's guide to Rails: ActiveRecord Fundamentals](https://feed.thoughtbot.com/link/24077/17269509/a-javascript-developer-s-guide-to-rails-activerecord-fundamentals)
+
 [What do our workspaces look like? (2026 Edition)](https://feed.thoughtbot.com/link/24077/17265522/what-do-our-workspaces-look-like-2026-edition)
 
 [A JavaScript developer's guide to Rails: What does Composition Over Inheritance mean?](https://feed.thoughtbot.com/link/24077/17264854/a-javascript-developer-s-guide-to-rails-what-does-composition-over-inheritance-mean)
@@ -24,6 +26,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[492: Defining value within your team](https://bikeshed.thoughtbot.com/492)
+
 [601: The thing that makes us human](https://podcast.thoughtbot.com/601)
 
 [491: Influences that shaped our thinking](https://bikeshed.thoughtbot.com/491)
@@ -31,8 +35,6 @@ project with a stronger team and improved processes.
 [600: The Special One](https://podcast.thoughtbot.com/600)
 
 [490: Large Language Misadventure](https://bikeshed.thoughtbot.com/490)
-
-[599: Be Bold](https://podcast.thoughtbot.com/599)
 
 <!-- podcasts ends -->
 </td></tr></table>
