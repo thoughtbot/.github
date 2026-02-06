@@ -18,8 +18,6 @@ project with a stronger team and improved processes.
 
 [A JavaScript developer's guide to Rails: ActiveRecord Fundamentals](https://feed.thoughtbot.com/link/24077/17269509/a-javascript-developer-s-guide-to-rails-activerecord-fundamentals)
 
-[What do our workspaces look like? (2026 Edition)](https://feed.thoughtbot.com/link/24077/17265522/what-do-our-workspaces-look-like-2026-edition)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
