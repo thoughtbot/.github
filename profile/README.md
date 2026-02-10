@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Claude Code: Production ready code in a two-week sprint](https://feed.thoughtbot.com/link/24077/17272900/claude-code-skills-production-ready-code-in-a-two-week-sprint)
+
 [Teach your models to act, not just be](https://feed.thoughtbot.com/link/24077/17271700/teach-your-models-to-act-not-just-be)
 
 [Announcing Michel: A scheduling gem for health tech](https://feed.thoughtbot.com/link/24077/17270209/announcing-michel-a-scheduling-gem-for-health-tech)
