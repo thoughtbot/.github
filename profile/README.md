@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[A JavaScript developer's guide to Rails: What is Polymorphic Rails Model?](https://feed.thoughtbot.com/link/24077/17273981/a-javascript-developer-s-guide-to-rails-what-is-polymorphic-rails-model)
+
 [Claude Code: Production ready code in a two-week sprint](https://feed.thoughtbot.com/link/24077/17272900/claude-code-skills-production-ready-code-in-a-two-week-sprint)
 
 [Teach your models to act, not just be](https://feed.thoughtbot.com/link/24077/17271700/teach-your-models-to-act-not-just-be)
@@ -28,6 +30,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[493: Suspenders with Steve Polito](https://bikeshed.thoughtbot.com/493)
+
 [492: Defining value within your team](https://bikeshed.thoughtbot.com/492)
 
 [601: The thing that makes us human](https://podcast.thoughtbot.com/601)
@@ -35,8 +39,6 @@ project with a stronger team and improved processes.
 [491: Influences that shaped our thinking](https://bikeshed.thoughtbot.com/491)
 
 [600: The Special One](https://podcast.thoughtbot.com/600)
-
-[490: Large Language Misadventure](https://bikeshed.thoughtbot.com/490)
 
 <!-- podcasts ends -->
 </td></tr></table>
