@@ -22,8 +22,6 @@ project with a stronger team and improved processes.
 
 [Announcing Michel: A scheduling gem for health tech](https://feed.thoughtbot.com/link/24077/17270209/announcing-michel-a-scheduling-gem-for-health-tech)
 
-[A JavaScript developer's guide to Rails: ActiveRecord Fundamentals](https://feed.thoughtbot.com/link/24077/17269509/a-javascript-developer-s-guide-to-rails-activerecord-fundamentals)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
