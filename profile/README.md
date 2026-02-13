@@ -20,14 +20,14 @@ project with a stronger team and improved processes.
 
 [Teach your models to act, not just be](https://feed.thoughtbot.com/link/24077/17271700/teach-your-models-to-act-not-just-be)
 
-[Announcing Michel: A scheduling gem for health tech](https://feed.thoughtbot.com/link/24077/17270209/announcing-michel-a-scheduling-gem-for-health-tech)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[602: Understanding the Impact with Jason Stadther](https://podcast.thoughtbot.com/602)
+
 [493: Suspenders with Steve Polito](https://bikeshed.thoughtbot.com/493)
 
 [492: Defining value within your team](https://bikeshed.thoughtbot.com/492)
@@ -35,8 +35,6 @@ project with a stronger team and improved processes.
 [601: The thing that makes us human](https://podcast.thoughtbot.com/601)
 
 [491: Influences that shaped our thinking](https://bikeshed.thoughtbot.com/491)
-
-[600: The Special One](https://podcast.thoughtbot.com/600)
 
 <!-- podcasts ends -->
 </td></tr></table>
