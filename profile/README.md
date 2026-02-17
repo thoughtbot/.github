@@ -18,8 +18,6 @@ project with a stronger team and improved processes.
 
 [A JavaScript developer's guide to Rails: What is Polymorphic Rails Model?](https://feed.thoughtbot.com/link/24077/17273981/a-javascript-developer-s-guide-to-rails-what-is-polymorphic-rails-model)
 
-[Claude Code: Production ready code in a two-week sprint](https://feed.thoughtbot.com/link/24077/17272900/claude-code-skills-production-ready-code-in-a-two-week-sprint)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
