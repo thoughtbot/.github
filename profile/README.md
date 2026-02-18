@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[A JavaScript developer's guide to Rails: Authorization with Pundit](https://feed.thoughtbot.com/link/24077/17278248/a-javascript-developer-s-guide-to-rails-authorization-with-pundit)
+
 [props_template 1.0: A high performance, more opinionated jbuilder replacement](https://feed.thoughtbot.com/link/24077/17275908/props_template-1-0-a-high-performance-more-opinionated-jbuilder-replacement)
 
 [A JavaScript developer's guide to Rails: What is Polymorphic Rails Model?](https://feed.thoughtbot.com/link/24077/17273981/a-javascript-developer-s-guide-to-rails-what-is-polymorphic-rails-model)
@@ -24,6 +26,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[494: Primitive Obsession](https://bikeshed.thoughtbot.com/494)
+
 [602: Understanding the Impact with Jason Stadther](https://podcast.thoughtbot.com/602)
 
 [493: Suspenders with Steve Polito](https://bikeshed.thoughtbot.com/493)
@@ -31,8 +35,6 @@ project with a stronger team and improved processes.
 [492: Defining value within your team](https://bikeshed.thoughtbot.com/492)
 
 [601: The thing that makes us human](https://podcast.thoughtbot.com/601)
-
-[491: Influences that shaped our thinking](https://bikeshed.thoughtbot.com/491)
 
 <!-- podcasts ends -->
 </td></tr></table>
