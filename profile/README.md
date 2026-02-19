@@ -14,11 +14,11 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Our first Tech Leaders Meetup in Bristol, UK](https://feed.thoughtbot.com/link/24077/17278754/our-first-tech-leaders-meetup-in-bristol-uk)
+
 [A JavaScript developer's guide to Rails: Authorization with Pundit](https://feed.thoughtbot.com/link/24077/17278248/a-javascript-developer-s-guide-to-rails-authorization-with-pundit)
 
 [props_template 1.0: A high performance, more opinionated jbuilder replacement](https://feed.thoughtbot.com/link/24077/17275908/props_template-1-0-a-high-performance-more-opinionated-jbuilder-replacement)
-
-[A JavaScript developer's guide to Rails: What is Polymorphic Rails Model?](https://feed.thoughtbot.com/link/24077/17273981/a-javascript-developer-s-guide-to-rails-what-is-polymorphic-rails-model)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
