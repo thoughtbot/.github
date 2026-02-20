@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Going beyond vibe coding with ReadySetGo](https://feed.thoughtbot.com/link/24077/17279512/going-beyond-vibe-coding-with-readysetgo)
+
 [Our first Tech Leaders Meetup in Bristol, UK](https://feed.thoughtbot.com/link/24077/17278754/our-first-tech-leaders-meetup-in-bristol-uk)
 
 [A JavaScript developer's guide to Rails: Authorization with Pundit](https://feed.thoughtbot.com/link/24077/17278248/a-javascript-developer-s-guide-to-rails-authorization-with-pundit)
@@ -26,6 +28,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[603: The product we are going to build](https://podcast.thoughtbot.com/603)
+
 [494: Primitive Obsession](https://bikeshed.thoughtbot.com/494)
 
 [602: Understanding the Impact with Jason Stadther](https://podcast.thoughtbot.com/602)
@@ -33,8 +37,6 @@ project with a stronger team and improved processes.
 [493: Suspenders with Steve Polito](https://bikeshed.thoughtbot.com/493)
 
 [492: Defining value within your team](https://bikeshed.thoughtbot.com/492)
-
-[601: The thing that makes us human](https://podcast.thoughtbot.com/601)
 
 <!-- podcasts ends -->
 </td></tr></table>
