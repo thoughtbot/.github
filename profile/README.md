@@ -14,13 +14,11 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[Going beyond vibe coding with ReadySetGo](https://feed.thoughtbot.com/link/24077/17279512/going-beyond-vibe-coding-with-readysetgo)
+[Going beyond vibe coding with ReadySetGo](https://feed.thoughtbot.com/link/24077/17280372/going-beyond-vibe-coding-with-readysetgo)
 
-[Our first Tech Leaders Meetup in Bristol, UK](https://feed.thoughtbot.com/link/24077/17278754/our-first-tech-leaders-meetup-in-bristol-uk)
+[Our first Tech Leaders Meetup in Bristol, UK](https://feed.thoughtbot.com/link/24077/17280374/our-first-tech-leaders-meetup-in-bristol-uk)
 
-[A JavaScript developer's guide to Rails: Authorization with Pundit](https://feed.thoughtbot.com/link/24077/17278248/a-javascript-developer-s-guide-to-rails-authorization-with-pundit)
-
-[props_template 1.0: A high performance, more opinionated jbuilder replacement](https://feed.thoughtbot.com/link/24077/17275908/props_template-1-0-a-high-performance-more-opinionated-jbuilder-replacement)
+[A JavaScript developer's guide to Rails: Authorization with Pundit](https://feed.thoughtbot.com/link/24077/17280375/a-javascript-developer-s-guide-to-rails-authorization-with-pundit)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
