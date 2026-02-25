@@ -14,6 +14,10 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[How to choose and implement an LLM for your healthcare product](https://feed.thoughtbot.com/link/24077/17283129/how-to-choose-and-implement-an-llm-for-your-healthcare-product)
+
+[Claude Code skills: Automating FDA-required documentation for software as a medical device](https://feed.thoughtbot.com/link/24077/17282950/claude-code-skills-automating-fda-required-documentation-for-software-as-a-medical-device)
+
 [Going beyond vibe coding with ReadySetGo](https://feed.thoughtbot.com/link/24077/17279512/going-beyond-vibe-coding-with-readysetgo)
 
 [Our first Tech Leaders Meetup in Bristol, UK](https://feed.thoughtbot.com/link/24077/17278754/our-first-tech-leaders-meetup-in-bristol-uk)
@@ -26,6 +30,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[495: A shortcut to years of experience](https://bikeshed.thoughtbot.com/495)
+
 [603: The product we are going to build](https://podcast.thoughtbot.com/603)
 
 [494: Primitive Obsession](https://bikeshed.thoughtbot.com/494)
@@ -33,8 +39,6 @@ project with a stronger team and improved processes.
 [602: Understanding the Impact with Jason Stadther](https://podcast.thoughtbot.com/602)
 
 [493: Suspenders with Steve Polito](https://bikeshed.thoughtbot.com/493)
-
-[492: Defining value within your team](https://bikeshed.thoughtbot.com/492)
 
 <!-- podcasts ends -->
 </td></tr></table>
