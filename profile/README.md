@@ -14,9 +14,9 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[Claude Code skills: Automating FDA-required documentation for software as a medical device](https://feed.thoughtbot.com/link/24077/17282950/claude-code-skills-automating-fda-required-documentation-for-software-as-a-medical-device)
+[How to choose and implement an LLM for your healthcare product](https://feed.thoughtbot.com/link/24077/17283129/how-to-choose-and-implement-an-llm-for-your-healthcare-product)
 
-[Going beyond vibe coding with ReadySetGo](https://feed.thoughtbot.com/link/24077/17279512/going-beyond-vibe-coding-with-readysetgo)
+[Claude Code skills: Automating FDA-required documentation for software as a medical device](https://feed.thoughtbot.com/link/24077/17282950/claude-code-skills-automating-fda-required-documentation-for-software-as-a-medical-device)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
