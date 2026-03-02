@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Your chat bot needs a better rate limit strategy](https://feed.thoughtbot.com/link/24077/17287435/chat-bot-per-user-rate-limits)
+
 [How to choose and implement an LLM for your healthcare product](https://feed.thoughtbot.com/link/24077/17283129/how-to-choose-and-implement-an-llm-for-your-healthcare-product)
 
 [Claude Code skills: Automating FDA-required documentation for software as a medical device](https://feed.thoughtbot.com/link/24077/17282950/claude-code-skills-automating-fda-required-documentation-for-software-as-a-medical-device)
