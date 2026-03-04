@@ -26,6 +26,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[496: Test suite performance](https://bikeshed.thoughtbot.com/496)
+
 [495: A shortcut to years of experience](https://bikeshed.thoughtbot.com/495)
 
 [603: The product we are going to build](https://podcast.thoughtbot.com/603)
@@ -33,8 +35,6 @@ project with a stronger team and improved processes.
 [494: Primitive Obsession](https://bikeshed.thoughtbot.com/494)
 
 [602: Understanding the Impact with Jason Stadther](https://podcast.thoughtbot.com/602)
-
-[493: Suspenders with Steve Polito](https://bikeshed.thoughtbot.com/493)
 
 <!-- podcasts ends -->
 </td></tr></table>
