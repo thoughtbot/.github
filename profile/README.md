@@ -14,9 +14,9 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[Your chat bot needs a better rate limit strategy](https://feed.thoughtbot.com/link/24077/17287435/chat-bot-per-user-rate-limits)
+[Combine Capybara selectors to avoid the sequential timeout trap](https://feed.thoughtbot.com/link/24077/17294824/combine-capybara-selectors-to-avoid-the-sequential-timeout-trap)
 
-[How to choose and implement an LLM for your healthcare product](https://feed.thoughtbot.com/link/24077/17283129/how-to-choose-and-implement-an-llm-for-your-healthcare-product)
+[Your chat bot needs a better rate limit strategy](https://feed.thoughtbot.com/link/24077/17287435/chat-bot-per-user-rate-limits)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
