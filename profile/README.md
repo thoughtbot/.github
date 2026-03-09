@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Claude Skill incoming! Generating Postman collections with AI](https://feed.thoughtbot.com/link/24077/17295913/claude-skill-incoming-generating-postman-collections-with-ai)
+
 [Combine Capybara selectors to avoid the sequential timeout trap](https://feed.thoughtbot.com/link/24077/17294824/combine-capybara-selectors-to-avoid-the-sequential-timeout-trap)
 
 [Your chat bot needs a better rate limit strategy](https://feed.thoughtbot.com/link/24077/17287435/chat-bot-per-user-rate-limits)
