@@ -24,6 +24,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[604: Driving change and delivery with British Business Bank](https://podcast.thoughtbot.com/604)
+
 [497: Diagrams we love](https://bikeshed.thoughtbot.com/497)
 
 [496: Test suite performance](https://bikeshed.thoughtbot.com/496)
@@ -31,8 +33,6 @@ project with a stronger team and improved processes.
 [495: A shortcut to years of experience](https://bikeshed.thoughtbot.com/495)
 
 [603: The product we are going to build](https://podcast.thoughtbot.com/603)
-
-[494: Primitive Obsession](https://bikeshed.thoughtbot.com/494)
 
 <!-- podcasts ends -->
 </td></tr></table>
