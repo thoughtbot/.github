@@ -14,7 +14,9 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[Claude Skill incoming! Generating Postman collections with AI](https://feed.thoughtbot.com/link/24077/17295913/claude-skill-incoming-generating-postman-collections-with-ai)
+[Introducing Test Budget: a linter for test performance](https://feed.thoughtbot.com/link/24077/17300482/introducing-test-budget)
+
+[How to launch a Lovable MVP in 2026](https://feed.thoughtbot.com/link/24077/17300448/how-to-launch-a-lovable-mvp-in-2026)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
