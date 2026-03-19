@@ -14,6 +14,10 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[I copied a prompt and built a management system in a week](https://feed.thoughtbot.com/link/24077/17301814/i-copied-a-prompt-and-built-a-management-system-in-a-week)
+
+[Observability for your LLM-powered apps: OTel Instrumentation for RubyLLM](https://feed.thoughtbot.com/link/24077/17301693/observability-for-your-llm-powered-apps-otel-instrumentation-for-rubyllm)
+
 [Introducing Test Budget: a linter for test performance](https://feed.thoughtbot.com/link/24077/17300482/introducing-test-budget)
 
 [How to launch a Lovable MVP in 2026](https://feed.thoughtbot.com/link/24077/17300448/how-to-launch-a-lovable-mvp-in-2026)
