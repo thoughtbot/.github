@@ -28,6 +28,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[605: AI: It doesn't have to be this way with Lord Chris Holmes](https://podcast.thoughtbot.com/605)
+
 [498: Season 2 Recap](https://bikeshed.thoughtbot.com/498)
 
 [604: Driving change and delivery with British Business Bank](https://podcast.thoughtbot.com/604)
@@ -35,8 +37,6 @@ project with a stronger team and improved processes.
 [497: Diagrams we love](https://bikeshed.thoughtbot.com/497)
 
 [496: Test suite performance](https://bikeshed.thoughtbot.com/496)
-
-[495: A shortcut to years of experience](https://bikeshed.thoughtbot.com/495)
 
 <!-- podcasts ends -->
 </td></tr></table>
