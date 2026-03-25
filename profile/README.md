@@ -20,8 +20,6 @@ project with a stronger team and improved processes.
 
 [Observability for your LLM-powered apps: OTel Instrumentation for RubyLLM](https://feed.thoughtbot.com/link/24077/17301693/observability-for-your-llm-powered-apps-otel-instrumentation-for-rubyllm)
 
-[Introducing Test Budget: a linter for test performance](https://feed.thoughtbot.com/link/24077/17300482/introducing-test-budget)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
