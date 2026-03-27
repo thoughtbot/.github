@@ -14,9 +14,9 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[Meet Duck Typer: your new duck typing friend](https://feed.thoughtbot.com/link/24077/17303719/meet-duck-typer-your-new-duck-typing-friend)
+[How strategic product design reduces risk before you write code](https://feed.thoughtbot.com/link/24077/17307123/how-strategic-product-design-reduces-risk-before-you-write-code)
 
-[I copied a prompt and built a management system in a week](https://feed.thoughtbot.com/link/24077/17301814/i-copied-a-prompt-and-built-a-management-system-in-a-week)
+[Meet Duck Typer: your new duck typing friend](https://feed.thoughtbot.com/link/24077/17303719/meet-duck-typer-your-new-duck-typing-friend)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
@@ -24,6 +24,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[606: AI layoffs are BS](https://podcast.thoughtbot.com/606)
+
 [605: AI: It doesn't have to be this way with Lord Chris Holmes](https://podcast.thoughtbot.com/605)
 
 [498: Season 2 Recap](https://bikeshed.thoughtbot.com/498)
@@ -31,8 +33,6 @@ project with a stronger team and improved processes.
 [604: Driving change and delivery with British Business Bank](https://podcast.thoughtbot.com/604)
 
 [497: Diagrams we love](https://bikeshed.thoughtbot.com/497)
-
-[496: Test suite performance](https://bikeshed.thoughtbot.com/496)
 
 <!-- podcasts ends -->
 </td></tr></table>
