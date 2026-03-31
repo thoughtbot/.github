@@ -14,11 +14,11 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Attending and speaking at Haggis Ruby](https://feed.thoughtbot.com/link/24077/17309889/attending-and-speaking-at-haggis-ruby)
+
 [Enhancing job reliability with Sidekiq Pro's super fetch strategy](https://feed.thoughtbot.com/link/24077/17309128/enhancing-job-reliability-with-sidekiq-pro-s-super-fetch-strategy)
 
 [How strategic product design reduces risk before you write code](https://feed.thoughtbot.com/link/24077/17307123/how-strategic-product-design-reduces-risk-before-you-write-code)
-
-[Meet Duck Typer: your new duck typing friend](https://feed.thoughtbot.com/link/24077/17303719/meet-duck-typer-your-new-duck-typing-friend)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
