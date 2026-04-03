@@ -26,6 +26,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[607: Applying the Efficiency of Credit Cards to the Healthcare Industry with Raja Rajamannar](https://podcast.thoughtbot.com/607)
+
 [606: AI layoffs are BS](https://podcast.thoughtbot.com/606)
 
 [605: AI: It doesn't have to be this way with Lord Chris Holmes](https://podcast.thoughtbot.com/605)
@@ -33,8 +35,6 @@ project with a stronger team and improved processes.
 [498: Season 2 Recap](https://bikeshed.thoughtbot.com/498)
 
 [604: Driving change and delivery with British Business Bank](https://podcast.thoughtbot.com/604)
-
-[497: Diagrams we love](https://bikeshed.thoughtbot.com/497)
 
 <!-- podcasts ends -->
 </td></tr></table>
