@@ -18,8 +18,6 @@ project with a stronger team and improved processes.
 
 [Enhancing job reliability with Sidekiq Pro's super fetch strategy](https://feed.thoughtbot.com/link/24077/17309128/enhancing-job-reliability-with-sidekiq-pro-s-super-fetch-strategy)
 
-[How strategic product design reduces risk before you write code](https://feed.thoughtbot.com/link/24077/17307123/how-strategic-product-design-reduces-risk-before-you-write-code)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
