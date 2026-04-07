@@ -16,8 +16,6 @@ project with a stronger team and improved processes.
 <!-- blog starts -->
 [Attending and speaking at Haggis Ruby](https://feed.thoughtbot.com/link/24077/17309889/attending-and-speaking-at-haggis-ruby)
 
-[Enhancing job reliability with Sidekiq Pro's super fetch strategy](https://feed.thoughtbot.com/link/24077/17309128/enhancing-job-reliability-with-sidekiq-pro-s-super-fetch-strategy)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
