@@ -14,7 +14,7 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[Attending and speaking at Haggis Ruby](https://feed.thoughtbot.com/link/24077/17309889/attending-and-speaking-at-haggis-ruby)
+[Sixty-six commits and the commands that didn't survive](https://feed.thoughtbot.com/link/24077/17315561/sixty-six-commits-and-the-commands-that-didnt-survive)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
