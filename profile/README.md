@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[You, too, can make a boilerplate](https://feed.thoughtbot.com/link/24077/17316738/you-too-can-make-a-boilerplate)
+
 [Sixty-six commits and the commands that didn't survive](https://feed.thoughtbot.com/link/24077/17315561/sixty-six-commits-and-the-commands-that-didnt-survive)
 
 <!-- blog ends -->
