@@ -14,13 +14,13 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[The AI stack I developed to help me context switch](https://feed.thoughtbot.com/link/24077/17319924/the-ai-stack-i-developed-to-help-me-context-switch)
+
 [The age of snarky UI](https://feed.thoughtbot.com/link/24077/17319236/the-age-of-snarky-ui)
 
 [AI in Focus: A new Claude Skill for Rails code audits](https://feed.thoughtbot.com/link/24077/17318078/ai-in-focus:a-new-claude-skill-for-rails-code-audits)
 
 [You, too, can make a boilerplate](https://feed.thoughtbot.com/link/24077/17316738/you-too-can-make-a-boilerplate)
-
-[Sixty-six commits and the commands that didn't survive](https://feed.thoughtbot.com/link/24077/17315561/sixty-six-commits-and-the-commands-that-didnt-survive)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
