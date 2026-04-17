@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[PII filtering for RubyLLM with Top Secret](https://feed.thoughtbot.com/link/24077/17320519/ruby-llm-top-secret)
+
 [The AI stack I developed to help me context switch](https://feed.thoughtbot.com/link/24077/17319924/the-ai-stack-i-developed-to-help-me-context-switch)
 
 [The age of snarky UI](https://feed.thoughtbot.com/link/24077/17319236/the-age-of-snarky-ui)
@@ -28,6 +30,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[608: Project Updates with Will, Chad and Sami](https://podcast.thoughtbot.com/608)
+
 [607: Applying the Efficiency of Credit Cards to the Healthcare Industry with Raja Rajamannar](https://podcast.thoughtbot.com/607)
 
 [606: AI layoffs are BS](https://podcast.thoughtbot.com/606)
@@ -35,8 +39,6 @@ project with a stronger team and improved processes.
 [605: AI: It doesn't have to be this way with Lord Chris Holmes](https://podcast.thoughtbot.com/605)
 
 [498: Season 2 Recap](https://bikeshed.thoughtbot.com/498)
-
-[604: Driving change and delivery with British Business Bank](https://podcast.thoughtbot.com/604)
 
 <!-- podcasts ends -->
 </td></tr></table>
