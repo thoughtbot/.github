@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Let's enable MFA for all Ruby gems](https://feed.thoughtbot.com/link/24077/17322568/lets-enable-mfa-for-all-ruby-gems)
+
 [Ship faster: How to unlock development speed in regulated industries ](https://feed.thoughtbot.com/link/24077/17322002/ship-faster-how-to-unlock-development-speed-in-regulated-industries)
 
 [PII filtering for RubyLLM with Top Secret](https://feed.thoughtbot.com/link/24077/17320519/ruby-llm-top-secret)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [The AI stack I developed to help me context switch](https://feed.thoughtbot.com/link/24077/17319924/the-ai-stack-i-developed-to-help-me-context-switch)
 
 [The age of snarky UI](https://feed.thoughtbot.com/link/24077/17319236/the-age-of-snarky-ui)
-
-[AI in Focus: A new Claude Skill for Rails code audits](https://feed.thoughtbot.com/link/24077/17318078/ai-in-focus:a-new-claude-skill-for-rails-code-audits)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
