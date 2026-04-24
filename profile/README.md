@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Trimming our CSS with sibling-index() and sibling-count()](https://feed.thoughtbot.com/link/24077/17324472/trimming-our-css-with-sibling-index-and-sibling-count)
+
 [Seven commands and the communication layer that emerged](https://feed.thoughtbot.com/link/24077/17323874/seven-commands-and-the-communication-layer-that-emerged)
 
 [Human vs Machine: the Bug](https://feed.thoughtbot.com/link/24077/17323259/human-vs-machine-the-bug)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [Let's enable MFA for all Ruby gems](https://feed.thoughtbot.com/link/24077/17322568/lets-enable-mfa-for-all-ruby-gems)
 
 [Ship faster: How to unlock development speed in regulated industries ](https://feed.thoughtbot.com/link/24077/17322002/ship-faster-how-to-unlock-development-speed-in-regulated-industries)
-
-[PII filtering for RubyLLM with Top Secret](https://feed.thoughtbot.com/link/24077/17320519/ruby-llm-top-secret)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
