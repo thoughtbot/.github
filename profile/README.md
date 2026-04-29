@@ -22,14 +22,14 @@ project with a stronger team and improved processes.
 
 [Human vs Machine: the Bug](https://feed.thoughtbot.com/link/24077/17323259/human-vs-machine-the-bug)
 
-[Let's enable MFA for all Ruby gems](https://feed.thoughtbot.com/link/24077/17322568/lets-enable-mfa-for-all-ruby-gems)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[BikeTube ShedTacular!](https://bikeshed.thoughtbot.com/499)
+
 [608: Project Updates with Will, Chad and Sami](https://podcast.thoughtbot.com/608)
 
 [607: Applying the Efficiency of Credit Cards to the Healthcare Industry with Raja Rajamannar](https://podcast.thoughtbot.com/607)
@@ -37,8 +37,6 @@ project with a stronger team and improved processes.
 [606: AI layoffs are BS](https://podcast.thoughtbot.com/606)
 
 [605: AI: It doesn't have to be this way with Lord Chris Holmes](https://podcast.thoughtbot.com/605)
-
-[498: Season 2 Recap](https://bikeshed.thoughtbot.com/498)
 
 <!-- podcasts ends -->
 </td></tr></table>
