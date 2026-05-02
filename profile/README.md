@@ -20,8 +20,6 @@ project with a stronger team and improved processes.
 
 [Retro-driven development](https://feed.thoughtbot.com/link/24077/17326678/retro-driven-development)
 
-[Trimming our CSS with sibling-index() and sibling-count()](https://feed.thoughtbot.com/link/24077/17324472/trimming-our-css-with-sibling-index-and-sibling-count)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
