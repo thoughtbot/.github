@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Simple, affordable unsupervised agentic coding from my phone with Claude Code in Github Actions](https://feed.thoughtbot.com/link/24077/17331339/creating-software-while-afk-with-github-workflows)
+
 [Your carousel might not be accessible: designing for reduced motion](https://feed.thoughtbot.com/link/24077/17328934/your-carousel-might-not-be-accessible)
 
 [Reviewing Dependabot PRs is boring. Let Claude do it for you.](https://feed.thoughtbot.com/link/24077/17328151/reviewing-dependabot-prs-is-boring-let-claude-do-it-for-you)
