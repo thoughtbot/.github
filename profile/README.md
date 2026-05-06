@@ -14,13 +14,15 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[The output must be cleaned (with skill)](https://feed.thoughtbot.com/link/24077/17335132/the-output-must-be-cleaned-with-skill)
+
+[Austin Tech Leaders is growing, thoughtfully (and we have the photos to prove it)](https://feed.thoughtbot.com/link/24077/17334888/austin-tech-leaders-is-growing-thoughtfully-and-we-have-the-photos-to-prove-it)
+
 [Simple, affordable unsupervised agentic coding from my phone with Claude Code in Github Actions](https://feed.thoughtbot.com/link/24077/17331339/creating-software-while-afk-with-github-workflows)
 
 [Your carousel might not be accessible: designing for reduced motion](https://feed.thoughtbot.com/link/24077/17328934/your-carousel-might-not-be-accessible)
 
 [Reviewing Dependabot PRs is boring. Let Claude do it for you.](https://feed.thoughtbot.com/link/24077/17328151/reviewing-dependabot-prs-is-boring-let-claude-do-it-for-you)
-
-[Retro-driven development](https://feed.thoughtbot.com/link/24077/17326678/retro-driven-development)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
