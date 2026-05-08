@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[A Conversation With The Situation](https://feed.thoughtbot.com/link/24077/17336549/a-conversation-with-the-situation)
+
 [The TEXTSIZE trap: how TDS silently truncates your binary data in Rails](https://feed.thoughtbot.com/link/24077/17335812/the-textsize-trap-how-tds-silently-truncates-your-binary-data-in-rails)
 
 [The output must be cleaned (with skill)](https://feed.thoughtbot.com/link/24077/17335132/the-output-must-be-cleaned-with-skill)
@@ -22,14 +24,14 @@ project with a stronger team and improved processes.
 
 [Simple, affordable unsupervised agentic coding from my phone with Claude Code in Github Actions](https://feed.thoughtbot.com/link/24077/17331339/creating-software-while-afk-with-github-workflows)
 
-[Your carousel might not be accessible: designing for reduced motion](https://feed.thoughtbot.com/link/24077/17328934/your-carousel-might-not-be-accessible)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[610: It’s Okay Not to Use AI](https://podcast.thoughtbot.com/610)
+
 [609: Pennylane is in my ears](https://podcast.thoughtbot.com/609)
 
 [499: BikeTube ShedTacular!](https://bikeshed.thoughtbot.com/499)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [608: Project Updates with Will, Chad and Sami](https://podcast.thoughtbot.com/608)
 
 [607: Applying the Efficiency of Credit Cards to the Healthcare Industry with Raja Rajamannar](https://podcast.thoughtbot.com/607)
-
-[606: AI layoffs are BS](https://podcast.thoughtbot.com/606)
 
 <!-- podcasts ends -->
 </td></tr></table>
