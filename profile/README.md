@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[The Pace Of Feedback](https://feed.thoughtbot.com/link/24077/17338007/the-pace-of-feedback)
+
 [A Conversation With The Situation](https://feed.thoughtbot.com/link/24077/17336549/a-conversation-with-the-situation)
 
 [The TEXTSIZE trap: how TDS silently truncates your binary data in Rails](https://feed.thoughtbot.com/link/24077/17335812/the-textsize-trap-how-tds-silently-truncates-your-binary-data-in-rails)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [The output must be cleaned (with skill)](https://feed.thoughtbot.com/link/24077/17335132/the-output-must-be-cleaned-with-skill)
 
 [Austin Tech Leaders is growing, thoughtfully (and we have the photos to prove it)](https://feed.thoughtbot.com/link/24077/17334888/austin-tech-leaders-is-growing-thoughtfully-and-we-have-the-photos-to-prove-it)
-
-[Simple, affordable unsupervised agentic coding from my phone with Claude Code in Github Actions](https://feed.thoughtbot.com/link/24077/17331339/creating-software-while-afk-with-github-workflows)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
