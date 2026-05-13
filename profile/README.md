@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Reflections on my conversation with Lord Chris Holmes MBE](https://feed.thoughtbot.com/link/24077/17339520/reflections-on-my-conversation-with-lord-chris-holmes)
+
 [Illusions Of Fluency](https://feed.thoughtbot.com/link/24077/17338825/illusion-of-fluency)
 
 [The Pace Of Feedback](https://feed.thoughtbot.com/link/24077/17338007/the-pace-of-feedback)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [A Conversation With The Situation](https://feed.thoughtbot.com/link/24077/17336549/a-conversation-with-the-situation)
 
 [The TEXTSIZE trap: how TDS silently truncates your binary data in Rails](https://feed.thoughtbot.com/link/24077/17335812/the-textsize-trap-how-tds-silently-truncates-your-binary-data-in-rails)
-
-[The output must be cleaned (with skill)](https://feed.thoughtbot.com/link/24077/17335132/the-output-must-be-cleaned-with-skill)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
