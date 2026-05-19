@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Summer Special: We’re Taking London Tech Leaders Outdoors](https://feed.thoughtbot.com/link/24077/17343816/summer-special-we-re-taking-london-tech-leaders-outdoors)
+
 [AI and minority languages](https://feed.thoughtbot.com/link/24077/17343052/ai-and-minority-languages)
 
 [6 key insights from Startup Grind Global 2026](https://feed.thoughtbot.com/link/24077/17341576/6-key-insights-from-startup-grind-global-2026)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [When to use (and not use) CSS shorthand properties](https://feed.thoughtbot.com/link/24077/17340884/when-to-use-and-not-use-css-shorthand-properties)
 
 [Reflections on my conversation with Lord Chris Holmes MBE](https://feed.thoughtbot.com/link/24077/17339520/reflections-on-my-conversation-with-lord-chris-holmes)
-
-[Illusions Of Fluency](https://feed.thoughtbot.com/link/24077/17338825/illusion-of-fluency)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
