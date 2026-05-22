@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Claude Code + Figma for non-technical designers](https://feed.thoughtbot.com/link/24077/17346059/claude-code-figma-for-non-technical-designers)
+
 [Why thoughtbot is joining the Ruby Alliance](https://feed.thoughtbot.com/link/24077/17344559/why-thoughtbot-is-joining-the-ruby-alliance)
 
 [Summer Special: We’re Taking London Tech Leaders Outdoors](https://feed.thoughtbot.com/link/24077/17343816/summer-special-we-re-taking-london-tech-leaders-outdoors)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [AI and minority languages](https://feed.thoughtbot.com/link/24077/17343052/ai-and-minority-languages)
 
 [6 key insights from Startup Grind Global 2026](https://feed.thoughtbot.com/link/24077/17341576/6-key-insights-from-startup-grind-global-2026)
-
-[When to use (and not use) CSS shorthand properties](https://feed.thoughtbot.com/link/24077/17340884/when-to-use-and-not-use-css-shorthand-properties)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
