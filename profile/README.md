@@ -22,8 +22,6 @@ project with a stronger team and improved processes.
 
 [AI and minority languages](https://feed.thoughtbot.com/link/24077/17343052/ai-and-minority-languages)
 
-[6 key insights from Startup Grind Global 2026](https://feed.thoughtbot.com/link/24077/17341576/6-key-insights-from-startup-grind-global-2026)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
