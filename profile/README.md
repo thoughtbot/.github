@@ -14,15 +14,15 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Lost, forgotten, and unfamiliar HTML](https://feed.thoughtbot.com/link/24077/17349022/lost-forgotten-and-unfamiliar-html)
+
+[Why Duck Typer?](https://feed.thoughtbot.com/link/24077/17348402/why-duck-typer)
+
 [Biometrics authentication for your mobile app](https://feed.thoughtbot.com/link/24077/17347609/biometrics-authentication-for-your-mobile-app)
 
 [Claude Code + Figma for non-technical designers](https://feed.thoughtbot.com/link/24077/17346059/claude-code-figma-for-non-technical-designers)
 
 [Why thoughtbot is joining the Ruby Alliance](https://feed.thoughtbot.com/link/24077/17344559/why-thoughtbot-is-joining-the-ruby-alliance)
-
-[Summer Special: We’re Taking London Tech Leaders Outdoors](https://feed.thoughtbot.com/link/24077/17343816/summer-special-we-re-taking-london-tech-leaders-outdoors)
-
-[AI and minority languages](https://feed.thoughtbot.com/link/24077/17343052/ai-and-minority-languages)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
@@ -30,6 +30,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[500: Celebrating with past hosts](https://bikeshed.thoughtbot.com/500)
+
 [611: Magic is the right word, with Brennan Dunn](https://podcast.thoughtbot.com/611)
 
 [610: It’s Okay Not to Use AI](https://podcast.thoughtbot.com/610)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [609: Pennylane is in my ears](https://podcast.thoughtbot.com/609)
 
 [499: BikeTube ShedTacular!](https://bikeshed.thoughtbot.com/499)
-
-[608: Project Updates with Will, Chad and Sami](https://podcast.thoughtbot.com/608)
 
 <!-- podcasts ends -->
 </td></tr></table>
