@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[This week in #dev (May 15, 2026)](https://feed.thoughtbot.com/link/24077/17349819/this-week-in-dev-may-15-2026)
+
 [Lost, forgotten, and unfamiliar HTML](https://feed.thoughtbot.com/link/24077/17349022/lost-forgotten-and-unfamiliar-html)
 
 [Why Duck Typer?](https://feed.thoughtbot.com/link/24077/17348402/why-duck-typer)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [Biometrics authentication for your mobile app](https://feed.thoughtbot.com/link/24077/17347609/biometrics-authentication-for-your-mobile-app)
 
 [Claude Code + Figma for non-technical designers](https://feed.thoughtbot.com/link/24077/17346059/claude-code-figma-for-non-technical-designers)
-
-[Why thoughtbot is joining the Ruby Alliance](https://feed.thoughtbot.com/link/24077/17344559/why-thoughtbot-is-joining-the-ruby-alliance)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
