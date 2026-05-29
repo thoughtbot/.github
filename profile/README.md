@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Can you really launch a tech business with a no-code app builder?](https://feed.thoughtbot.com/link/24077/17350451/can-you-really-launch-a-tech-business-with-a-no-code-app-builder)
+
 [This week in #dev (May 15, 2026)](https://feed.thoughtbot.com/link/24077/17349819/this-week-in-dev-may-15-2026)
 
 [Lost, forgotten, and unfamiliar HTML](https://feed.thoughtbot.com/link/24077/17349022/lost-forgotten-and-unfamiliar-html)
@@ -22,14 +24,14 @@ project with a stronger team and improved processes.
 
 [Biometrics authentication for your mobile app](https://feed.thoughtbot.com/link/24077/17347609/biometrics-authentication-for-your-mobile-app)
 
-[Claude Code + Figma for non-technical designers](https://feed.thoughtbot.com/link/24077/17346059/claude-code-figma-for-non-technical-designers)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[612: Do fish drink?](https://podcast.thoughtbot.com/612)
+
 [500: Celebrating with past hosts](https://bikeshed.thoughtbot.com/500)
 
 [611: Magic is the right word, with Brennan Dunn](https://podcast.thoughtbot.com/611)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [610: It’s Okay Not to Use AI](https://podcast.thoughtbot.com/610)
 
 [609: Pennylane is in my ears](https://podcast.thoughtbot.com/609)
-
-[499: BikeTube ShedTacular!](https://bikeshed.thoughtbot.com/499)
 
 <!-- podcasts ends -->
 </td></tr></table>
