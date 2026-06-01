@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[The Four Signals of AI Observability](https://feed.thoughtbot.com/link/24077/17351768/the-four-signals-of-ai-observability)
+
 [Can you really launch a tech business with a no-code app builder?](https://feed.thoughtbot.com/link/24077/17350451/can-you-really-launch-a-tech-business-with-a-no-code-app-builder)
 
 [This week in #dev (May 15, 2026)](https://feed.thoughtbot.com/link/24077/17349819/this-week-in-dev-may-15-2026)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [Lost, forgotten, and unfamiliar HTML](https://feed.thoughtbot.com/link/24077/17349022/lost-forgotten-and-unfamiliar-html)
 
 [Why Duck Typer?](https://feed.thoughtbot.com/link/24077/17348402/why-duck-typer)
-
-[Biometrics authentication for your mobile app](https://feed.thoughtbot.com/link/24077/17347609/biometrics-authentication-for-your-mobile-app)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
