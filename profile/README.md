@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Copy as Markdown: AI-friendly blog posts](https://feed.thoughtbot.com/link/24077/17352975/copy-as-markdown-ai-friendly-blog-posts)
+
 [The Four Signals of AI Observability](https://feed.thoughtbot.com/link/24077/17351768/the-four-signals-of-ai-observability)
 
 [Can you really launch a tech business with a no-code app builder?](https://feed.thoughtbot.com/link/24077/17350451/can-you-really-launch-a-tech-business-with-a-no-code-app-builder)
@@ -22,14 +24,14 @@ project with a stronger team and improved processes.
 
 [Lost, forgotten, and unfamiliar HTML](https://feed.thoughtbot.com/link/24077/17349022/lost-forgotten-and-unfamiliar-html)
 
-[Why Duck Typer?](https://feed.thoughtbot.com/link/24077/17348402/why-duck-typer)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[501: What makes for good technical writing?](https://bikeshed.thoughtbot.com/501)
+
 [612: Do fish drink?](https://podcast.thoughtbot.com/612)
 
 [500: Celebrating with past hosts](https://bikeshed.thoughtbot.com/500)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [611: Magic is the right word, with Brennan Dunn](https://podcast.thoughtbot.com/611)
 
 [610: It’s Okay Not to Use AI](https://podcast.thoughtbot.com/610)
-
-[609: Pennylane is in my ears](https://podcast.thoughtbot.com/609)
 
 <!-- podcasts ends -->
 </td></tr></table>
