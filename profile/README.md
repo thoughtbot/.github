@@ -22,8 +22,6 @@ project with a stronger team and improved processes.
 
 [This week in #dev (May 15, 2026)](https://feed.thoughtbot.com/link/24077/17349819/this-week-in-dev-may-15-2026)
 
-[Lost, forgotten, and unfamiliar HTML](https://feed.thoughtbot.com/link/24077/17349022/lost-forgotten-and-unfamiliar-html)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
