@@ -20,8 +20,6 @@ project with a stronger team and improved processes.
 
 [Can you really launch a tech business with a no-code app builder?](https://feed.thoughtbot.com/link/24077/17350451/can-you-really-launch-a-tech-business-with-a-no-code-app-builder)
 
-[This week in #dev (May 15, 2026)](https://feed.thoughtbot.com/link/24077/17349819/this-week-in-dev-may-15-2026)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
