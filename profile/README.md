@@ -18,8 +18,6 @@ project with a stronger team and improved processes.
 
 [The Four Signals of AI Observability](https://feed.thoughtbot.com/link/24077/17351768/the-four-signals-of-ai-observability)
 
-[Can you really launch a tech business with a no-code app builder?](https://feed.thoughtbot.com/link/24077/17350451/can-you-really-launch-a-tech-business-with-a-no-code-app-builder)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
