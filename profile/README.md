@@ -14,11 +14,11 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[How I Built a Chrome Extension Wrapper (and Everything That Tried to Stop Me)](https://feed.thoughtbot.com/link/24077/17356618/how-i-built-a-chrome-extension)
+
 [Enforcing Your Ruby Style Guide on AI-Generated Code](https://feed.thoughtbot.com/link/24077/17355952/enforcing-your-ruby-style-guide-on-ai-generated-code)
 
 [Copy as Markdown: AI-friendly blog posts](https://feed.thoughtbot.com/link/24077/17352975/copy-as-markdown-ai-friendly-blog-posts)
-
-[The Four Signals of AI Observability](https://feed.thoughtbot.com/link/24077/17351768/the-four-signals-of-ai-observability)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
