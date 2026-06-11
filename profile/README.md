@@ -20,8 +20,6 @@ project with a stronger team and improved processes.
 
 [Enforcing Your Ruby Style Guide on AI-Generated Code](https://feed.thoughtbot.com/link/24077/17355952/enforcing-your-ruby-style-guide-on-ai-generated-code)
 
-[Copy as Markdown: AI-friendly blog posts](https://feed.thoughtbot.com/link/24077/17352975/copy-as-markdown-ai-friendly-blog-posts)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
