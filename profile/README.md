@@ -26,6 +26,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[613: Preserving Companies and Design with Andy Budd](https://podcast.thoughtbot.com/613)
+
 [501: What makes for good technical writing?](https://bikeshed.thoughtbot.com/501)
 
 [612: Do fish drink?](https://podcast.thoughtbot.com/612)
@@ -33,8 +35,6 @@ project with a stronger team and improved processes.
 [500: Celebrating with past hosts](https://bikeshed.thoughtbot.com/500)
 
 [611: Magic is the right word, with Brennan Dunn](https://podcast.thoughtbot.com/611)
-
-[610: It’s Okay Not to Use AI](https://podcast.thoughtbot.com/610)
 
 <!-- podcasts ends -->
 </td></tr></table>
