@@ -14,11 +14,11 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[AI crawlers are inflating your view counts](https://feed.thoughtbot.com/link/24077/17361774/ai-crawlers-are-inflating-your-view-counts)
+
 [Toast: the 2-minute test that reveals how you think about building products](https://feed.thoughtbot.com/link/24077/17357242/toast-the-2-minute-test-that-reveals-how-you-think-about-building-products)
 
 [How I Built a Chrome Extension Wrapper (and Everything That Tried to Stop Me)](https://feed.thoughtbot.com/link/24077/17356618/how-i-built-a-chrome-extension)
-
-[Enforcing Your Ruby Style Guide on AI-Generated Code](https://feed.thoughtbot.com/link/24077/17355952/enforcing-your-ruby-style-guide-on-ai-generated-code)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
