@@ -14,11 +14,11 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[The mistake I didn't realise I was making when designing workshops](https://feed.thoughtbot.com/link/24077/17362369/the-mistake-i-didn-t-realise-i-was-making-when-designing-workshops)
+
 [AI crawlers are inflating your view counts](https://feed.thoughtbot.com/link/24077/17361774/ai-crawlers-are-inflating-your-view-counts)
 
 [Toast: the 2-minute test that reveals how you think about building products](https://feed.thoughtbot.com/link/24077/17357242/toast-the-2-minute-test-that-reveals-how-you-think-about-building-products)
-
-[How I Built a Chrome Extension Wrapper (and Everything That Tried to Stop Me)](https://feed.thoughtbot.com/link/24077/17356618/how-i-built-a-chrome-extension)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
@@ -26,6 +26,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[502: Apps That Make Our Work Go](https://bikeshed.thoughtbot.com/502)
+
 [613: Preserving Companies and Design with Andy Budd](https://podcast.thoughtbot.com/613)
 
 [501: What makes for good technical writing?](https://bikeshed.thoughtbot.com/501)
@@ -33,8 +35,6 @@ project with a stronger team and improved processes.
 [612: Do fish drink?](https://podcast.thoughtbot.com/612)
 
 [500: Celebrating with past hosts](https://bikeshed.thoughtbot.com/500)
-
-[611: Magic is the right word, with Brennan Dunn](https://podcast.thoughtbot.com/611)
 
 <!-- podcasts ends -->
 </td></tr></table>
