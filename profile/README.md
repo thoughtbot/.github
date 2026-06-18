@@ -14,11 +14,11 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Meet thoughtbot at Brighton Ruby 2026](https://feed.thoughtbot.com/link/24077/17362977/meet-thoughtbot-at-brighton-ruby-2026)
+
 [The mistake I didn't realise I was making when designing workshops](https://feed.thoughtbot.com/link/24077/17362369/the-mistake-i-didn-t-realise-i-was-making-when-designing-workshops)
 
 [AI crawlers are inflating your view counts](https://feed.thoughtbot.com/link/24077/17361774/ai-crawlers-are-inflating-your-view-counts)
-
-[Toast: the 2-minute test that reveals how you think about building products](https://feed.thoughtbot.com/link/24077/17357242/toast-the-2-minute-test-that-reveals-how-you-think-about-building-products)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
