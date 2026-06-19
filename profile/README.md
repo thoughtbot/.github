@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[The Playwright debugging tool Rails devs aren't using](https://feed.thoughtbot.com/link/24077/17363637/the-playwright-debugging-tool-rails-devs-aren-t-using)
+
 [Meet thoughtbot at Brighton Ruby 2026](https://feed.thoughtbot.com/link/24077/17362977/meet-thoughtbot-at-brighton-ruby-2026)
 
 [The mistake I didn't realise I was making when designing workshops](https://feed.thoughtbot.com/link/24077/17362369/the-mistake-i-didn-t-realise-i-was-making-when-designing-workshops)
@@ -26,6 +28,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[614: AI Code Audits](https://podcast.thoughtbot.com/614)
+
 [502: Apps That Make Our Work Go](https://bikeshed.thoughtbot.com/502)
 
 [613: Preserving Companies and Design with Andy Budd](https://podcast.thoughtbot.com/613)
@@ -33,8 +37,6 @@ project with a stronger team and improved processes.
 [501: What makes for good technical writing?](https://bikeshed.thoughtbot.com/501)
 
 [612: Do fish drink?](https://podcast.thoughtbot.com/612)
-
-[500: Celebrating with past hosts](https://bikeshed.thoughtbot.com/500)
 
 <!-- podcasts ends -->
 </td></tr></table>
