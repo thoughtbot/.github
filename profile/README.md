@@ -30,6 +30,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[503: Seeing the Graph for the Trees](https://bikeshed.thoughtbot.com/503)
+
 [614: AI Code Audits](https://podcast.thoughtbot.com/614)
 
 [502: Apps That Make Our Work Go](https://bikeshed.thoughtbot.com/502)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [613: Preserving Companies and Design with Andy Budd](https://podcast.thoughtbot.com/613)
 
 [501: What makes for good technical writing?](https://bikeshed.thoughtbot.com/501)
-
-[612: Do fish drink?](https://podcast.thoughtbot.com/612)
 
 <!-- podcasts ends -->
 </td></tr></table>
