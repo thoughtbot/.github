@@ -14,15 +14,13 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Why we're choosing stewardship over an exit](https://feed.thoughtbot.com/link/24077/17367988/why-we-re-choosing-stewardship-over-an-exit)
+
+[Announcing Shoulda Matchers 8.0: validate multiple attributes in one line](https://feed.thoughtbot.com/link/24077/17367990/announcing-shoulda-matchers-8-0-validate-multiple-attributes-in-one-line)
+
 [AI's "overnight" solution for our flaky tests took two weeks to adopt](https://feed.thoughtbot.com/link/24077/17364998/what-it-took-to-use-this-overnight-ai-solution)
 
 [The Playwright debugging tool Rails devs aren't using](https://feed.thoughtbot.com/link/24077/17363637/the-playwright-debugging-tool-rails-devs-aren-t-using)
-
-[Meet thoughtbot at Brighton Ruby 2026](https://feed.thoughtbot.com/link/24077/17362977/meet-thoughtbot-at-brighton-ruby-2026)
-
-[The mistake I didn't realise I was making when designing workshops](https://feed.thoughtbot.com/link/24077/17362369/the-mistake-i-didn-t-realise-i-was-making-when-designing-workshops)
-
-[AI crawlers are inflating your view counts](https://feed.thoughtbot.com/link/24077/17361774/ai-crawlers-are-inflating-your-view-counts)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
