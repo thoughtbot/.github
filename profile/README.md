@@ -20,8 +20,6 @@ project with a stronger team and improved processes.
 
 [AI's "overnight" solution for our flaky tests took two weeks to adopt](https://feed.thoughtbot.com/link/24077/17364998/what-it-took-to-use-this-overnight-ai-solution)
 
-[The Playwright debugging tool Rails devs aren't using](https://feed.thoughtbot.com/link/24077/17363637/the-playwright-debugging-tool-rails-devs-aren-t-using)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
