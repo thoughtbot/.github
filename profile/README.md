@@ -18,8 +18,6 @@ project with a stronger team and improved processes.
 
 [Announcing Shoulda Matchers 8.0: validate multiple attributes in one line](https://feed.thoughtbot.com/link/24077/17367990/announcing-shoulda-matchers-8-0-validate-multiple-attributes-in-one-line)
 
-[AI's "overnight" solution for our flaky tests took two weeks to adopt](https://feed.thoughtbot.com/link/24077/17364998/what-it-took-to-use-this-overnight-ai-solution)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
