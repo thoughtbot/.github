@@ -14,9 +14,9 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[Why we're choosing stewardship over an exit](https://feed.thoughtbot.com/link/24077/17367988/why-we-re-choosing-stewardship-over-an-exit)
+[Roux’s New Component Library](https://feed.thoughtbot.com/link/24077/17370685/roux-s-new-component-library)
 
-[Announcing Shoulda Matchers 8.0: validate multiple attributes in one line](https://feed.thoughtbot.com/link/24077/17367990/announcing-shoulda-matchers-8-0-validate-multiple-attributes-in-one-line)
+[Why we're choosing stewardship over an exit](https://feed.thoughtbot.com/link/24077/17367988/why-we-re-choosing-stewardship-over-an-exit)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
@@ -24,6 +24,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[504: AI Ethics (with guests!)](https://bikeshed.thoughtbot.com/504)
+
 [503: Seeing the Graph for the Trees](https://bikeshed.thoughtbot.com/503)
 
 [614: AI Code Audits](https://podcast.thoughtbot.com/614)
@@ -31,8 +33,6 @@ project with a stronger team and improved processes.
 [502: Apps That Make Our Work Go](https://bikeshed.thoughtbot.com/502)
 
 [613: Preserving Companies and Design with Andy Budd](https://podcast.thoughtbot.com/613)
-
-[501: What makes for good technical writing?](https://bikeshed.thoughtbot.com/501)
 
 <!-- podcasts ends -->
 </td></tr></table>
