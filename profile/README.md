@@ -14,9 +14,9 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[Roux’s New Component Library](https://feed.thoughtbot.com/link/24077/17370685/roux-s-new-component-library)
+[Your vibe coded website is going to get you fined](https://feed.thoughtbot.com/link/24077/17371995/your-vibe-coded-website-is-going-to-get-you-fined)
 
-[Why we're choosing stewardship over an exit](https://feed.thoughtbot.com/link/24077/17367988/why-we-re-choosing-stewardship-over-an-exit)
+[Roux’s New Component Library](https://feed.thoughtbot.com/link/24077/17370685/roux-s-new-component-library)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
