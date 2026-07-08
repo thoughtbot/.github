@@ -24,6 +24,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[505: What is a “principal” or “staff” engineer?](https://bikeshed.thoughtbot.com/505)
+
 [504: AI Ethics (with guests!)](https://bikeshed.thoughtbot.com/504)
 
 [503: Seeing the Graph for the Trees](https://bikeshed.thoughtbot.com/503)
@@ -31,8 +33,6 @@ project with a stronger team and improved processes.
 [614: AI Code Audits](https://podcast.thoughtbot.com/614)
 
 [502: Apps That Make Our Work Go](https://bikeshed.thoughtbot.com/502)
-
-[613: Preserving Companies and Design with Andy Budd](https://podcast.thoughtbot.com/613)
 
 <!-- podcasts ends -->
 </td></tr></table>
