@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Past and present thoughtbotters at LRUG this Monday](https://feed.thoughtbot.com/link/24077/17375947/thoughtbot-talk-at-lrug-this-monday)
+
 [Your vibe coded website is going to get you fined](https://feed.thoughtbot.com/link/24077/17371995/your-vibe-coded-website-is-going-to-get-you-fined)
 
 <!-- blog ends -->
