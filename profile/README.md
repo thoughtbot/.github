@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Migrating to native stack navigation, with a surprise from iOS 26](https://feed.thoughtbot.com/link/24077/17379253/migrating-to-native-stack-navigation-with-a-surprise-from-ios-26)
+
 [Past and present thoughtbotters at LRUG this Monday](https://feed.thoughtbot.com/link/24077/17375947/thoughtbot-talk-at-lrug-this-monday)
 
 <!-- blog ends -->
