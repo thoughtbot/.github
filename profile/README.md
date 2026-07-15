@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Upcase has retired, but the learning continues](https://feed.thoughtbot.com/link/24077/17380449/upcase-has-retired-but-you-can-keep-learning-with-us)
+
 [Migrating to native stack navigation, with a surprise from iOS 26](https://feed.thoughtbot.com/link/24077/17379253/migrating-to-native-stack-navigation-with-a-surprise-from-ios-26)
 
 [Past and present thoughtbotters at LRUG this Monday](https://feed.thoughtbot.com/link/24077/17375947/thoughtbot-talk-at-lrug-this-monday)
@@ -24,6 +26,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[506: The Muppet Software Team](https://bikeshed.thoughtbot.com/506)
+
 [505: What is a “principal” or “staff” engineer?](https://bikeshed.thoughtbot.com/505)
 
 [504: AI Ethics (with guests!)](https://bikeshed.thoughtbot.com/504)
@@ -31,8 +35,6 @@ project with a stronger team and improved processes.
 [503: Seeing the Graph for the Trees](https://bikeshed.thoughtbot.com/503)
 
 [614: AI Code Audits](https://podcast.thoughtbot.com/614)
-
-[502: Apps That Make Our Work Go](https://bikeshed.thoughtbot.com/502)
 
 <!-- podcasts ends -->
 </td></tr></table>
