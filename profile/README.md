@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Join us: Building Secure Healthcare Systems](https://feed.thoughtbot.com/link/24077/17381619/join-us-building-secure-healthcare-systems)
+
 [Upcase has retired, but the learning continues](https://feed.thoughtbot.com/link/24077/17380449/upcase-has-retired-but-you-can-keep-learning-with-us)
 
 [Migrating to native stack navigation, with a surprise from iOS 26](https://feed.thoughtbot.com/link/24077/17379253/migrating-to-native-stack-navigation-with-a-surprise-from-ios-26)
