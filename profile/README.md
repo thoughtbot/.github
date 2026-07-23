@@ -16,8 +16,6 @@ project with a stronger team and improved processes.
 <!-- blog starts -->
 [Join us: Building Secure Healthcare Systems](https://feed.thoughtbot.com/link/24077/17381619/join-us-building-secure-healthcare-systems)
 
-[Upcase has retired, but the learning continues](https://feed.thoughtbot.com/link/24077/17380449/upcase-has-retired-but-you-can-keep-learning-with-us)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
