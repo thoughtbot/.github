@@ -22,6 +22,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[615: Harvey AI and the Future of Law](https://podcast.thoughtbot.com/615)
+
 [506: The Muppet Software Team](https://bikeshed.thoughtbot.com/506)
 
 [505: What is a “principal” or “staff” engineer?](https://bikeshed.thoughtbot.com/505)
@@ -29,8 +31,6 @@ project with a stronger team and improved processes.
 [504: AI Ethics (with guests!)](https://bikeshed.thoughtbot.com/504)
 
 [503: Seeing the Graph for the Trees](https://bikeshed.thoughtbot.com/503)
-
-[614: AI Code Audits](https://podcast.thoughtbot.com/614)
 
 <!-- podcasts ends -->
 </td></tr></table>
