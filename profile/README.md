@@ -14,7 +14,7 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[Join us: Building Secure Healthcare Systems](https://feed.thoughtbot.com/link/24077/17381619/join-us-building-secure-healthcare-systems)
+[What founders told us about working with AI tools for startups](https://feed.thoughtbot.com/link/24077/17386938/what-founders-told-us-about-working-with-ai-tools-for-startups)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
