@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Sign in with Google for React Native](https://feed.thoughtbot.com/link/24077/17387679/sign-in-with-google-for-react-native)
+
 [What founders told us about working with AI tools for startups](https://feed.thoughtbot.com/link/24077/17386938/what-founders-told-us-about-working-with-ai-tools-for-startups)
 
 <!-- blog ends -->
