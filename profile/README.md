@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[A prototype is not a product. It's a conversation.](https://feed.thoughtbot.com/link/24077/17396710/a-prototype-is-not-a-product-it-s-a-conversation)
+
 [New: The State of Software Delivery in Healthcare](https://feed.thoughtbot.com/link/24077/17393705/new-the-state-of-software-delivery-in-healthcare)
 
 [Sign in with Google for React Native](https://feed.thoughtbot.com/link/24077/17387679/sign-in-with-google-for-react-native)
@@ -26,6 +28,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[616: What’s Really Going On with AI Data Centres with Dr. Victoria Plutshack](https://podcast.thoughtbot.com/616)
+
 [615: Harvey AI and the Future of Law](https://podcast.thoughtbot.com/615)
 
 [506: The Muppet Software Team](https://bikeshed.thoughtbot.com/506)
@@ -33,8 +37,6 @@ project with a stronger team and improved processes.
 [505: What is a “principal” or “staff” engineer?](https://bikeshed.thoughtbot.com/505)
 
 [504: AI Ethics (with guests!)](https://bikeshed.thoughtbot.com/504)
-
-[503: Seeing the Graph for the Trees](https://bikeshed.thoughtbot.com/503)
 
 <!-- podcasts ends -->
 </td></tr></table>
