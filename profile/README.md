@@ -18,14 +18,14 @@ project with a stronger team and improved processes.
 
 [A prototype is not a product. It's a conversation.](https://feed.thoughtbot.com/link/24077/17396710/a-prototype-is-not-a-product-it-s-a-conversation)
 
-[New: The State of Software Delivery in Healthcare](https://feed.thoughtbot.com/link/24077/17393705/new-the-state-of-software-delivery-in-healthcare)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[617: Lexxy, Basecamp, and the Joy of Building with Jorge Marubia](https://podcast.thoughtbot.com/617)
+
 [616: What’s Really Going On with AI Data Centres with Dr. Victoria Plutshack](https://podcast.thoughtbot.com/616)
 
 [615: Harvey AI and the Future of Law](https://podcast.thoughtbot.com/615)
@@ -33,8 +33,6 @@ project with a stronger team and improved processes.
 [506: The Muppet Software Team](https://bikeshed.thoughtbot.com/506)
 
 [505: What is a “principal” or “staff” engineer?](https://bikeshed.thoughtbot.com/505)
-
-[504: AI Ethics (with guests!)](https://bikeshed.thoughtbot.com/504)
 
 <!-- podcasts ends -->
 </td></tr></table>
