@@ -16,8 +16,6 @@ project with a stronger team and improved processes.
 <!-- blog starts -->
 [Humid 1.0: React server-side rendering in Rails can be easy! ](https://feed.thoughtbot.com/link/24077/17402813/humid-1-0-react-server-side-rendering-in-rails-can-be-easy)
 
-[A prototype is not a product. It's a conversation.](https://feed.thoughtbot.com/link/24077/17396710/a-prototype-is-not-a-product-it-s-a-conversation)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
