@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Modeling State Transitions in Postgres](https://feed.thoughtbot.com/link/24077/17412215/modeling-state-transitions-in-postgres)
+
 [Humid 1.0: React server-side rendering in Rails can be easy! ](https://feed.thoughtbot.com/link/24077/17402813/humid-1-0-react-server-side-rendering-in-rails-can-be-easy)
 
 <!-- blog ends -->
