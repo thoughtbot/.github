@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Buying Time, Choosing Words: Consulting Through Diplomatic Communication](https://feed.thoughtbot.com/link/24077/17417636/buying_time_choosing_words)
+
 [thoughtbot around the world, meet us at upcoming events](https://feed.thoughtbot.com/link/24077/17415320/thoughtbot-around-the-world-meet-up-with-us-at-upcoming-events)
 
 [Modeling State Transitions in Postgres](https://feed.thoughtbot.com/link/24077/17412215/modeling-state-transitions-in-postgres)
@@ -24,6 +26,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[618: 22 Years of Bootstrapping with Jesse Mecham](https://podcast.thoughtbot.com/618)
+
 [617: Lexxy, Basecamp, and the Joy of Building with Jorge Marubia](https://podcast.thoughtbot.com/617)
 
 [616: What’s Really Going On with AI Data Centres with Dr. Victoria Plutshack](https://podcast.thoughtbot.com/616)
@@ -31,8 +35,6 @@ project with a stronger team and improved processes.
 [615: Harvey AI and the Future of Law](https://podcast.thoughtbot.com/615)
 
 [506: The Muppet Software Team](https://bikeshed.thoughtbot.com/506)
-
-[505: What is a “principal” or “staff” engineer?](https://bikeshed.thoughtbot.com/505)
 
 <!-- podcasts ends -->
 </td></tr></table>
