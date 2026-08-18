@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[How healthcare tech teams innovate while balancing speed and security](https://feed.thoughtbot.com/link/24077/17421901/how-healthcare-tech-teams-innovate-while-balancing-speed-and-security)
+
 [Can’t touch the DOM? Reach for :has() to style any element](https://feed.thoughtbot.com/link/24077/17420327/can-t-touch-the-dom-reach-for-has)
 
 [Buying Time, Choosing Words: Consulting Through Diplomatic Communication](https://feed.thoughtbot.com/link/24077/17417636/buying_time_choosing_words)
