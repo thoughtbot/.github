@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Tech Leaders meetup in Amsterdam](https://feed.thoughtbot.com/link/24077/17423480/tech-leaders-meetup-in-amsterdam)
+
 [PMs Don't Need to Code, but They Do Need to Understand](https://feed.thoughtbot.com/link/24077/17422568/pms-don-t-need-to-code-but-they-do-need-to-understand)
 
 [How healthcare tech teams innovate while balancing speed and security](https://feed.thoughtbot.com/link/24077/17421901/how-healthcare-tech-teams-innovate-while-balancing-speed-and-security)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [Can’t touch the DOM? Reach for :has() to style any element](https://feed.thoughtbot.com/link/24077/17420327/can-t-touch-the-dom-reach-for-has)
 
 [Buying Time, Choosing Words: Consulting Through Diplomatic Communication](https://feed.thoughtbot.com/link/24077/17417636/buying_time_choosing_words)
-
-[thoughtbot around the world, meet us at upcoming events](https://feed.thoughtbot.com/link/24077/17415320/thoughtbot-around-the-world-meet-up-with-us-at-upcoming-events)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
