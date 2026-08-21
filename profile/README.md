@@ -14,15 +14,15 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Don’t hire thoughtbot to write code](https://feed.thoughtbot.com/link/24077/17424779/don-t-hire-thoughtbot-to-write-code)
+
+[AI makes creating software faster, but in regulated industries, judgment matters more](https://feed.thoughtbot.com/link/24077/17424780/ai-makes-creating-software-faster-but-in-regulated-industries-judgment-matters-more)
+
 [Tech Leaders meetup in Amsterdam](https://feed.thoughtbot.com/link/24077/17423480/tech-leaders-meetup-in-amsterdam)
 
 [PMs Don't Need to Code, but They Do Need to Understand](https://feed.thoughtbot.com/link/24077/17422568/pms-don-t-need-to-code-but-they-do-need-to-understand)
 
 [How healthcare tech teams innovate while balancing speed and security](https://feed.thoughtbot.com/link/24077/17421901/how-healthcare-tech-teams-innovate-while-balancing-speed-and-security)
-
-[Can’t touch the DOM? Reach for :has() to style any element](https://feed.thoughtbot.com/link/24077/17420327/can-t-touch-the-dom-reach-for-has)
-
-[Buying Time, Choosing Words: Consulting Through Diplomatic Communication](https://feed.thoughtbot.com/link/24077/17417636/buying_time_choosing_words)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
@@ -30,6 +30,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[619: Inside Modern Software Engineering with Homebrew’s Mike McQuaid](https://podcast.thoughtbot.com/619)
+
 [618: 22 Years of Bootstrapping with Jesse Mecham](https://podcast.thoughtbot.com/618)
 
 [617: Lexxy, Basecamp, and the Joy of Building with Jorge Marubia](https://podcast.thoughtbot.com/617)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [616: What’s Really Going On with AI Data Centres with Dr. Victoria Plutshack](https://podcast.thoughtbot.com/616)
 
 [615: Harvey AI and the Future of Law](https://podcast.thoughtbot.com/615)
-
-[506: The Muppet Software Team](https://bikeshed.thoughtbot.com/506)
 
 <!-- podcasts ends -->
 </td></tr></table>
