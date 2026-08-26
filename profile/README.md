@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[GPT and Claude go to heraldry school](https://feed.thoughtbot.com/link/24077/17428582/gpt-and-claude-go-to-heraldry-school)
+
 [Inserting State Transitions in Postgres](https://feed.thoughtbot.com/link/24077/17427055/inserting-state-transitions-in-postgres)
 
 [Don’t hire thoughtbot to write code](https://feed.thoughtbot.com/link/24077/17424779/don-t-hire-thoughtbot-to-write-code)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [AI makes creating software faster, but in regulated industries, judgment matters more](https://feed.thoughtbot.com/link/24077/17424780/ai-makes-creating-software-faster-but-in-regulated-industries-judgment-matters-more)
 
 [Tech Leaders meetup in Amsterdam](https://feed.thoughtbot.com/link/24077/17423480/tech-leaders-meetup-in-amsterdam)
-
-[PMs Don't Need to Code, but They Do Need to Understand](https://feed.thoughtbot.com/link/24077/17422568/pms-don-t-need-to-code-but-they-do-need-to-understand)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
