@@ -30,6 +30,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[620: My Twin Brother Forced Me To Be His CTO](https://podcast.thoughtbot.com/620)
+
 [619: Inside Modern Software Engineering with Homebrew’s Mike McQuaid](https://podcast.thoughtbot.com/619)
 
 [618: 22 Years of Bootstrapping with Jesse Mecham](https://podcast.thoughtbot.com/618)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [617: Lexxy, Basecamp, and the Joy of Building with Jorge Marubia](https://podcast.thoughtbot.com/617)
 
 [616: What’s Really Going On with AI Data Centres with Dr. Victoria Plutshack](https://podcast.thoughtbot.com/616)
-
-[615: Harvey AI and the Future of Law](https://podcast.thoughtbot.com/615)
 
 <!-- podcasts ends -->
 </td></tr></table>
