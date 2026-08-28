@@ -22,8 +22,6 @@ project with a stronger team and improved processes.
 
 [AI makes creating software faster, but in regulated industries, judgment matters more](https://feed.thoughtbot.com/link/24077/17424780/ai-makes-creating-software-faster-but-in-regulated-industries-judgment-matters-more)
 
-[Tech Leaders meetup in Amsterdam](https://feed.thoughtbot.com/link/24077/17423480/tech-leaders-meetup-in-amsterdam)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
