@@ -18,10 +18,6 @@ project with a stronger team and improved processes.
 
 [Inserting State Transitions in Postgres](https://feed.thoughtbot.com/link/24077/17427055/inserting-state-transitions-in-postgres)
 
-[Don’t hire thoughtbot to write code](https://feed.thoughtbot.com/link/24077/17424779/don-t-hire-thoughtbot-to-write-code)
-
-[AI makes creating software faster, but in regulated industries, judgment matters more](https://feed.thoughtbot.com/link/24077/17424780/ai-makes-creating-software-faster-but-in-regulated-industries-judgment-matters-more)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
