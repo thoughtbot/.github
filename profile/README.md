@@ -16,8 +16,6 @@ project with a stronger team and improved processes.
 <!-- blog starts -->
 [GPT and Claude go to heraldry school](https://feed.thoughtbot.com/link/24077/17428582/gpt-and-claude-go-to-heraldry-school)
 
-[Inserting State Transitions in Postgres](https://feed.thoughtbot.com/link/24077/17427055/inserting-state-transitions-in-postgres)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
