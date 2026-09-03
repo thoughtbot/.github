@@ -14,11 +14,11 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Tech Leaders Meetup is coming to Edinburgh](https://feed.thoughtbot.com/link/24077/17438133/tech-leaders-meetup-is-coming-to-edinburgh)
+
 [Designers already think in React](https://feed.thoughtbot.com/link/24077/17436839/designers-already-think-in-react)
 
-[Tech Leaders Meetups are back in London this autumn](https://feed.thoughtbot.com/link/24077/17436509/tech-leaders-meetups-are-back-in-london-this-autumn)
-
-[GPT and Claude go to heraldry school](https://feed.thoughtbot.com/link/24077/17428582/gpt-and-claude-go-to-heraldry-school)
+[Join us for our Tech Leader Meetups in London this autumn](https://feed.thoughtbot.com/link/24077/17436509/tech-leaders-meetups-are-back-in-london-this-autumn)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
