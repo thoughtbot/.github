@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Why leaders have to know about PMS 🩸](https://feed.thoughtbot.com/link/24077/17441483/why-leaders-have-to-know-about-pms)
+
 [Is AI ruining my brain?](https://feed.thoughtbot.com/link/24077/17439440/is-ai-ruining-my-brain)
 
 [Tech Leaders Meetup is coming to Edinburgh](https://feed.thoughtbot.com/link/24077/17438133/tech-leaders-meetup-is-coming-to-edinburgh)
