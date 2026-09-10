@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[5 easy, actionable tips for software development in healthcare](https://feed.thoughtbot.com/link/24077/17443867/5-easy-actionable-tips-for-software-development-in-healthcare)
+
 [Announcing importmap-update: automated dependency updates for importmap-rails](https://feed.thoughtbot.com/link/24077/17443107/announcing-importmap-update-automated-dependency-updates-for-importmap-rails)
 
 [When to vibe code an app and when to hire someone](https://feed.thoughtbot.com/link/24077/17442233/when-to-vibe-code-an-app-and-when-to-hire-someone)
@@ -21,8 +23,6 @@ project with a stronger team and improved processes.
 [Why leaders have to know about PMS 🩸](https://feed.thoughtbot.com/link/24077/17441483/why-leaders-have-to-know-about-pms)
 
 [Is AI ruining my brain?](https://feed.thoughtbot.com/link/24077/17439440/is-ai-ruining-my-brain)
-
-[Tech Leaders Meetup is coming to Edinburgh](https://feed.thoughtbot.com/link/24077/17438133/tech-leaders-meetup-is-coming-to-edinburgh)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
