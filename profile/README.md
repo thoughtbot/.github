@@ -30,6 +30,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[622: Six Opinions Wrapped in Code with Kelli Lucas](https://podcast.thoughtbot.com/622)
+
 [621: My twin brother responds… with Doron Birnbaum](https://podcast.thoughtbot.com/621)
 
 [620: My Twin Brother Forced Me To Be His CTO](https://podcast.thoughtbot.com/620)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [619: Inside Modern Software Engineering with Homebrew’s Mike McQuaid](https://podcast.thoughtbot.com/619)
 
 [618: 22 Years of Bootstrapping with Jesse Mecham](https://podcast.thoughtbot.com/618)
-
-[617: Lexxy, Basecamp, and the Joy of Building with Jorge Marubia](https://podcast.thoughtbot.com/617)
 
 <!-- podcasts ends -->
 </td></tr></table>
