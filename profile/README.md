@@ -22,8 +22,6 @@ project with a stronger team and improved processes.
 
 [Why leaders have to know about PMS 🩸](https://feed.thoughtbot.com/link/24077/17441483/why-leaders-have-to-know-about-pms)
 
-[Is AI ruining my brain?](https://feed.thoughtbot.com/link/24077/17439440/is-ai-ruining-my-brain)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
