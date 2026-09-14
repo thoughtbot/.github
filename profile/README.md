@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Client success starts before kickoff](https://feed.thoughtbot.com/link/24077/17461100/client-success-starts-before-kickoff)
+
 [5 easy, actionable tips for software development in healthcare](https://feed.thoughtbot.com/link/24077/17443867/5-easy-actionable-tips-for-software-development-in-healthcare)
 
 [Announcing importmap-update: automated dependency updates for importmap-rails](https://feed.thoughtbot.com/link/24077/17443107/announcing-importmap-update-automated-dependency-updates-for-importmap-rails)
