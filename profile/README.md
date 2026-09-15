@@ -22,8 +22,6 @@ project with a stronger team and improved processes.
 
 [When to vibe code an app and when to hire someone](https://feed.thoughtbot.com/link/24077/17442233/when-to-vibe-code-an-app-and-when-to-hire-someone)
 
-[Why leaders have to know about PMS 🩸](https://feed.thoughtbot.com/link/24077/17441483/why-leaders-have-to-know-about-pms)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
