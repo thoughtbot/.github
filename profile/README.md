@@ -16,14 +16,14 @@ project with a stronger team and improved processes.
 <!-- blog starts -->
 [Client success starts before kickoff](https://feed.thoughtbot.com/link/24077/17461100/client-success-starts-before-kickoff)
 
-[5 easy, actionable tips for software development in healthcare](https://feed.thoughtbot.com/link/24077/17443867/5-easy-actionable-tips-for-software-development-in-healthcare)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
 ### Podcasts
 
 <!-- podcasts starts -->
+[623: The AI Paradox: Why Consultants Are Busier Than Ever with Nate Berkopec](https://podcast.thoughtbot.com/623)
+
 [507: Stacked Vertical Slices](https://bikeshed.thoughtbot.com/507)
 
 [622: Six Opinions Wrapped in Code with Kelli Lucas](https://podcast.thoughtbot.com/622)
@@ -31,8 +31,6 @@ project with a stronger team and improved processes.
 [621: My twin brother responds… with Doron Birnbaum](https://podcast.thoughtbot.com/621)
 
 [620: My Twin Brother Forced Me To Be His CTO](https://podcast.thoughtbot.com/620)
-
-[619: Inside Modern Software Engineering with Homebrew’s Mike McQuaid](https://podcast.thoughtbot.com/619)
 
 <!-- podcasts ends -->
 </td></tr></table>
