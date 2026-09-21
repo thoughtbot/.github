@@ -14,7 +14,9 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[From In-House PM to Consulting PM: What I Didn't Expect](https://feed.thoughtbot.com/link/24077/17466181/from-in-house-pm-to-consulting-pm-what-i-didn-t-expect)
+[thoughtbot's agent skills](https://feed.thoughtbot.com/link/24077/17468027/thoughtbot-s-agent-skills)
+
+[From In-House PM to Consulting PM: What I didn't expect](https://feed.thoughtbot.com/link/24077/17466181/from-in-house-pm-to-consulting-pm-what-i-didn-t-expect)
 
 [Client success starts before kickoff](https://feed.thoughtbot.com/link/24077/17461100/client-success-starts-before-kickoff)
 
