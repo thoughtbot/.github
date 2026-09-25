@@ -24,6 +24,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[624: Using AI to the MAX with Ed Woodcock](https://podcast.thoughtbot.com/624)
+
 [623: The AI Paradox: Why Consultants Are Busier Than Ever with Nate Berkopec](https://podcast.thoughtbot.com/623)
 
 [507: Stacked Vertical Slices](https://bikeshed.thoughtbot.com/507)
@@ -31,8 +33,6 @@ project with a stronger team and improved processes.
 [622: Six Opinions Wrapped in Code with Kelli Lucas](https://podcast.thoughtbot.com/622)
 
 [621: My twin brother responds… with Doron Birnbaum](https://podcast.thoughtbot.com/621)
-
-[620: My Twin Brother Forced Me To Be His CTO](https://podcast.thoughtbot.com/620)
 
 <!-- podcasts ends -->
 </td></tr></table>
