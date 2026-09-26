@@ -16,8 +16,6 @@ project with a stronger team and improved processes.
 <!-- blog starts -->
 [thoughtbot's agent skills](https://feed.thoughtbot.com/link/24077/17468027/thoughtbot-s-agent-skills)
 
-[From in-house PM to consulting PM: What I didn't expect](https://feed.thoughtbot.com/link/24077/17466181/from-in-house-pm-to-consulting-pm-what-i-didn-t-expect)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
