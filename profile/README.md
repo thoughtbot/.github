@@ -14,6 +14,7 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Respecting your users' dread of the clankers](https://feed.thoughtbot.com/link/24077/17478066/respecting-your-users-dread-of-the-clankers)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
@@ -21,6 +22,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[508: The Wonders of Static Analysis](https://bikeshed.thoughtbot.com/508)
+
 [624: Using AI to the MAX with Ed Woodcock](https://podcast.thoughtbot.com/624)
 
 [623: The AI Paradox: Why Consultants Are Busier Than Ever with Nate Berkopec](https://podcast.thoughtbot.com/623)
@@ -28,8 +31,6 @@ project with a stronger team and improved processes.
 [507: Stacked Vertical Slices](https://bikeshed.thoughtbot.com/507)
 
 [622: Six Opinions Wrapped in Code with Kelli Lucas](https://podcast.thoughtbot.com/622)
-
-[621: My twin brother responds… with Doron Birnbaum](https://podcast.thoughtbot.com/621)
 
 <!-- podcasts ends -->
 </td></tr></table>
