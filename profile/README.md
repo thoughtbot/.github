@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[We built an AI product consultant and the free beta is now open](https://feed.thoughtbot.com/link/24077/17484205/we-built-an-ai-product-consultant-and-the-free-beta-is-now-open)
+
 [NWRUG's (Manchester, UK) October 2026 meeting — It's time to bin your VCR](https://feed.thoughtbot.com/link/24077/17483479/nwrug-s-manchester-uk-october-2026-meeting-it-s-time-to-bin-your-vcr)
 
 [We’re bringing two roundtables to the London CPO Conference](https://feed.thoughtbot.com/link/24077/17482747/we-re-bringing-two-roundtables-to-the-london-cpo-conference)
