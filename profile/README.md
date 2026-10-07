@@ -30,6 +30,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[509: Bringing Back Rails Generators with Rachel Wright-Munn](https://bikeshed.thoughtbot.com/509)
+
 [625: Sorting Through The Noise with Brandon Swalve](https://podcast.thoughtbot.com/625)
 
 [508: The Wonders of Static Analysis](https://bikeshed.thoughtbot.com/508)
@@ -37,8 +39,6 @@ project with a stronger team and improved processes.
 [624: Using AI to the MAX with Ed Woodcock](https://podcast.thoughtbot.com/624)
 
 [623: The AI Paradox: Why Consultants Are Busier Than Ever with Nate Berkopec](https://podcast.thoughtbot.com/623)
-
-[507: Stacked Vertical Slices](https://bikeshed.thoughtbot.com/507)
 
 <!-- podcasts ends -->
 </td></tr></table>
