@@ -22,8 +22,6 @@ project with a stronger team and improved processes.
 
 [We’re bringing two roundtables to the London CPO Conference](https://feed.thoughtbot.com/link/24077/17482747/we-re-bringing-two-roundtables-to-the-london-cpo-conference)
 
-[Respecting your users' dread of the clankers](https://feed.thoughtbot.com/link/24077/17478066/respecting-your-users-dread-of-the-clankers)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
