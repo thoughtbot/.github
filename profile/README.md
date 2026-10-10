@@ -16,10 +16,6 @@ project with a stronger team and improved processes.
 <!-- blog starts -->
 [What causes AI fatigue for engineers and how to ease the strain](https://feed.thoughtbot.com/link/24077/17490000/what-causes-ai-fatigue-for-engineers-and-how-to-ease-the-strain)
 
-[We built an AI product consultant and the free beta is now open](https://feed.thoughtbot.com/link/24077/17484205/we-built-an-ai-product-consultant-and-the-free-beta-is-now-open)
-
-[NWRUG's (Manchester, UK) October 2026 meeting — It's time to bin your VCR](https://feed.thoughtbot.com/link/24077/17483479/nwrug-s-manchester-uk-october-2026-meeting-it-s-time-to-bin-your-vcr)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
