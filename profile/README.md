@@ -14,7 +14,6 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
-[What causes AI fatigue for engineers and how to ease the strain](https://feed.thoughtbot.com/link/24077/17490000/what-causes-ai-fatigue-for-engineers-and-how-to-ease-the-strain)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
@@ -22,6 +21,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[510: Technical Debt is Technically Risk](https://bikeshed.thoughtbot.com/510)
+
 [626: “Working Side By Side With AI” with Lord Tim Clement-Jones](https://podcast.thoughtbot.com/626)
 
 [509: Bringing Back Rails Generators with Rachel Wright-Munn](https://bikeshed.thoughtbot.com/509)
@@ -29,8 +30,6 @@ project with a stronger team and improved processes.
 [625: Sorting Through The Noise with Brandon Swalve](https://podcast.thoughtbot.com/625)
 
 [508: The Wonders of Static Analysis](https://bikeshed.thoughtbot.com/508)
-
-[624: Using AI to the MAX with Ed Woodcock](https://podcast.thoughtbot.com/624)
 
 <!-- podcasts ends -->
 </td></tr></table>
