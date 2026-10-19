@@ -14,6 +14,7 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[A pragmatic guide to AI-assisted development](https://feed.thoughtbot.com/link/24077/17500399/a-pragmatic-guide-to-ai-assisted-development)
 
 <!-- blog ends -->
 </td><td valign="top" width="50%">
