@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Design systems in an AI era; what changes when everyone can build?](https://feed.thoughtbot.com/link/24077/17501068/design-systems-in-an-ai-era)
+
 [A pragmatic guide to AI-assisted development](https://feed.thoughtbot.com/link/24077/17500399/a-pragmatic-guide-to-ai-assisted-development)
 
 <!-- blog ends -->
