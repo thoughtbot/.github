@@ -14,6 +14,8 @@ project with a stronger team and improved processes.
 ### Writing
 
 <!-- blog starts -->
+[Who's reading the code your AI writes?](https://feed.thoughtbot.com/link/24077/17503128/who-s-reading-the-code-your-ai-writes)
+
 [Design systems in an AI era; what changes when everyone can build?](https://feed.thoughtbot.com/link/24077/17501068/design-systems-in-an-ai-era)
 
 [A pragmatic guide to AI-assisted development](https://feed.thoughtbot.com/link/24077/17500399/a-pragmatic-guide-to-ai-assisted-development)
@@ -24,6 +26,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[628: Incorruptible with Eric Ries](https://podcast.thoughtbot.com/628)
+
 [627: Mike Perham on Sidekiq, Solid Queue, and why he said no to AI](https://podcast.thoughtbot.com/627)
 
 [510: Technical Debt is Technically Risk](https://bikeshed.thoughtbot.com/510)
@@ -31,8 +35,6 @@ project with a stronger team and improved processes.
 [626: “Working Side By Side With AI” with Lord Tim Clement-Jones](https://podcast.thoughtbot.com/626)
 
 [509: Bringing Back Rails Generators with Rachel Wright-Munn](https://bikeshed.thoughtbot.com/509)
-
-[625: Sorting Through The Noise with Brandon Swalve](https://podcast.thoughtbot.com/625)
 
 <!-- podcasts ends -->
 </td></tr></table>
