@@ -16,8 +16,6 @@ project with a stronger team and improved processes.
 <!-- blog starts -->
 [Who's reading the code your AI writes?](https://feed.thoughtbot.com/link/24077/17503128/who-s-reading-the-code-your-ai-writes)
 
-[Design systems in an AI era; what changes when everyone can build?](https://feed.thoughtbot.com/link/24077/17501068/design-systems-in-an-ai-era)
-
 <!-- blog ends -->
 </td><td valign="top" width="50%">
 
