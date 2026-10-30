@@ -22,6 +22,8 @@ project with a stronger team and improved processes.
 ### Podcasts
 
 <!-- podcasts starts -->
+[629: “What About The Juniors?” With Bruce Tate](https://podcast.thoughtbot.com/629)
+
 [628: Incorruptible with Eric Ries](https://podcast.thoughtbot.com/628)
 
 [627: Mike Perham on Sidekiq, Solid Queue, and why he said no to AI](https://podcast.thoughtbot.com/627)
@@ -29,8 +31,6 @@ project with a stronger team and improved processes.
 [510: Technical Debt is Technically Risk](https://bikeshed.thoughtbot.com/510)
 
 [626: “Working Side By Side With AI” with Lord Tim Clement-Jones](https://podcast.thoughtbot.com/626)
-
-[509: Bringing Back Rails Generators with Rachel Wright-Munn](https://bikeshed.thoughtbot.com/509)
 
 <!-- podcasts ends -->
 </td></tr></table>
